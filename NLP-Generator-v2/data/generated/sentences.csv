@@ -1,0 +1,5001 @@
+text,token_ids,label
+we enjoy that,70 1784 15,1
+did we like this ?,73 70 96 49 80,0
+was they like this ?,14 45 96 49 80,0
+i enjoy it,5552 1784 17,1
+they are not enjoy this,45 66 21 1784 49,-1
+did we enjoy this ?,73 70 1784 49 80,0
+are he love that ?,66 16 194 15 80,0
+we like this,70 96 49,1
+why were they love ?,305 48 45 194 80,0
+they enjoy that,45 1784 15,1
+what was you like ?,55 14 24 96 80,0
+how do she enjoy ?,110 81 27 1784 80,0
+did you enjoy that ?,73 24 1784 15 80,0
+we love this,70 194 49,1
+did she enjoy it ?,73 27 1784 17 80,0
+i was not love that,5552 14 21 194 15,-1
+she are not love this,27 66 21 194 49,-1
+they enjoy this,45 1784 49,1
+you were not love that,24 48 21 194 15,-1
+they does not enjoy that,45 312 21 1784 15,-1
+did you love this ?,73 24 194 49 80,0
+they enjoy this,45 1784 49,1
+was she enjoy that ?,14 27 1784 15 80,0
+we were not love it,70 48 21 194 17,-1
+why are he love ?,305 66 16 194 80,0
+she love this,27 194 49,1
+you like that,24 96 15,1
+why do he love ?,305 81 16 194 80,0
+we are not like that,70 66 21 96 15,-1
+you did not love that,24 73 21 194 15,-1
+i does not like this,5552 312 21 96 49,-1
+he does not like this,16 312 21 96 49,-1
+he did not enjoy it,16 73 21 1784 17,-1
+is he like that ?,34 16 96 15 80,0
+why did you enjoy ?,305 73 24 1784 80,0
+you love this,24 194 49,1
+he love this,16 194 49,1
+is i like that ?,34 5552 96 15 80,0
+is we like that ?,34 70 96 15 80,0
+why is she love ?,305 34 27 194 80,0
+i is not like this,5552 34 21 96 49,-1
+you like that,24 96 15,1
+we enjoy it,70 1784 17,1
+how does we love ?,110 312 70 194 80,0
+she is not love that,27 34 21 194 15,-1
+how was they like ?,110 14 45 96 80,0
+did i enjoy this ?,73 5552 1784 49 80,0
+are i love that ?,66 5552 194 15 80,0
+they like this,45 96 49,1
+is you enjoy this ?,34 24 1784 49 80,0
+is we like this ?,34 70 96 49 80,0
+he was not enjoy it,16 14 21 1784 17,-1
+did they enjoy that ?,73 45 1784 15 80,0
+are she like this ?,66 27 96 49 80,0
+i enjoy this,5552 1784 49,1
+does you enjoy this ?,312 24 1784 49 80,0
+were we love this ?,48 70 194 49 80,0
+he does not enjoy it,16 312 21 1784 17,-1
+you love this,24 194 49,1
+was i like that ?,14 5552 96 15 80,0
+we does not enjoy it,70 312 21 1784 17,-1
+what were they like ?,55 48 45 96 80,0
+i enjoy it,5552 1784 17,1
+she do not love this,27 81 21 194 49,-1
+how is he enjoy ?,110 34 16 1784 80,0
+what did he enjoy ?,55 73 16 1784 80,0
+i like this,5552 96 49,1
+i were not like this,5552 48 21 96 49,-1
+why does she enjoy ?,305 312 27 1784 80,0
+did he enjoy this ?,73 16 1784 49 80,0
+she are not like it,27 66 21 96 17,-1
+how does we like ?,110 312 70 96 80,0
+is he love this ?,34 16 194 49 80,0
+she did not enjoy this,27 73 21 1784 49,-1
+is you love this ?,34 24 194 49 80,0
+how did i enjoy ?,110 73 5552 1784 80,0
+why do you like ?,305 81 24 96 80,0
+were she like it ?,48 27 96 17 80,0
+why did you love ?,305 73 24 194 80,0
+she did not like this,27 73 21 96 49,-1
+did we love this ?,73 70 194 49 80,0
+how did he like ?,110 73 16 96 80,0
+i does not like it,5552 312 21 96 17,-1
+are he like that ?,66 16 96 15 80,0
+we did not like this,70 73 21 96 49,-1
+we love it,70 194 17,1
+is we love it ?,34 70 194 17 80,0
+you love that,24 194 15,1
+why did she love ?,305 73 27 194 80,0
+they like this,45 96 49,1
+we like this,70 96 49,1
+he like that,16 96 15,1
+he enjoy that,16 1784 15,1
+she do not enjoy this,27 81 21 1784 49,-1
+you love that,24 194 15,1
+did you enjoy that ?,73 24 1784 15 80,0
+why were i love ?,305 48 5552 194 80,0
+what did she love ?,55 73 27 194 80,0
+did i enjoy this ?,73 5552 1784 49 80,0
+she enjoy that,27 1784 15,1
+we were not love it,70 48 21 194 17,-1
+she do not like this,27 81 21 96 49,-1
+what were we like ?,55 48 70 96 80,0
+they do not like it,45 81 21 96 17,-1
+he love it,16 194 17,1
+how was i like ?,110 14 5552 96 80,0
+they love it,45 194 17,1
+how did i enjoy ?,110 73 5552 1784 80,0
+i are not enjoy that,5552 66 21 1784 15,-1
+did she love this ?,73 27 194 49 80,0
+why does we like ?,305 312 70 96 80,0
+why are she enjoy ?,305 66 27 1784 80,0
+how was he love ?,110 14 16 194 80,0
+he like it,16 96 17,1
+why were they enjoy ?,305 48 45 1784 80,0
+how is we love ?,110 34 70 194 80,0
+you was not enjoy this,24 14 21 1784 49,-1
+she were not like this,27 48 21 96 49,-1
+she enjoy this,27 1784 49,1
+how is he love ?,110 34 16 194 80,0
+was she like it ?,14 27 96 17 80,0
+do he love it ?,81 16 194 17 80,0
+i does not enjoy this,5552 312 21 1784 49,-1
+how was you love ?,110 14 24 194 80,0
+i enjoy it,5552 1784 17,1
+how is we love ?,110 34 70 194 80,0
+were they love this ?,48 45 194 49 80,0
+i are not like it,5552 66 21 96 17,-1
+what does i love ?,55 312 5552 194 80,0
+why was we like ?,305 14 70 96 80,0
+i enjoy it,5552 1784 17,1
+he enjoy it,16 1784 17,1
+what did they enjoy ?,55 73 45 1784 80,0
+they love that,45 194 15,1
+what was she love ?,55 14 27 194 80,0
+we were not love this,70 48 21 194 49,-1
+you is not love this,24 34 21 194 49,-1
+we is not love this,70 34 21 194 49,-1
+he enjoy that,16 1784 15,1
+we love this,70 194 49,1
+she enjoy that,27 1784 15,1
+is i enjoy this ?,34 5552 1784 49 80,0
+they was not enjoy it,45 14 21 1784 17,-1
+i love this,5552 194 49,1
+you was not love it,24 14 21 194 17,-1
+why do i enjoy ?,305 81 5552 1784 80,0
+how did he love ?,110 73 16 194 80,0
+i did not like this,5552 73 21 96 49,-1
+what was she enjoy ?,55 14 27 1784 80,0
+he enjoy that,16 1784 15,1
+were he love it ?,48 16 194 17 80,0
+you love this,24 194 49,1
+is they enjoy this ?,34 45 1784 49 80,0
+he love that,16 194 15,1
+does you like that ?,312 24 96 15 80,0
+what does he enjoy ?,55 312 16 1784 80,0
+what was she enjoy ?,55 14 27 1784 80,0
+why does we like ?,305 312 70 96 80,0
+what does you enjoy ?,55 312 24 1784 80,0
+do she love this ?,81 27 194 49 80,0
+we enjoy that,70 1784 15,1
+i enjoy this,5552 1784 49,1
+did they like that ?,73 45 96 15 80,0
+i was not enjoy this,5552 14 21 1784 49,-1
+are he like it ?,66 16 96 17 80,0
+we were not enjoy that,70 48 21 1784 15,-1
+he is not love it,16 34 21 194 17,-1
+what were we like ?,55 48 70 96 80,0
+was you like it ?,14 24 96 17 80,0
+were he like it ?,48 16 96 17 80,0
+what did you enjoy ?,55 73 24 1784 80,0
+she does not like this,27 312 21 96 49,-1
+she does not enjoy this,27 312 21 1784 49,-1
+did he enjoy that ?,73 16 1784 15 80,0
+you did not like it,24 73 21 96 17,-1
+she like it,27 96 17,1
+he are not enjoy it,16 66 21 1784 17,-1
+why were you like ?,305 48 24 96 80,0
+i love this,5552 194 49,1
+we does not like that,70 312 21 96 15,-1
+is i enjoy it ?,34 5552 1784 17 80,0
+we like that,70 96 15,1
+you enjoy it,24 1784 17,1
+she like it,27 96 17,1
+what was she love ?,55 14 27 194 80,0
+do they enjoy this ?,81 45 1784 49 80,0
+does you love this ?,312 24 194 49 80,0
+we like it,70 96 17,1
+they are not like it,45 66 21 96 17,-1
+did you like this ?,73 24 96 49 80,0
+how do they like ?,110 81 45 96 80,0
+was i love this ?,14 5552 194 49 80,0
+how are they love ?,110 66 45 194 80,0
+what does they enjoy ?,55 312 45 1784 80,0
+we was not love it,70 14 21 194 17,-1
+do they like this ?,81 45 96 49 80,0
+what is you like ?,55 34 24 96 80,0
+he enjoy that,16 1784 15,1
+what was i like ?,55 14 5552 96 80,0
+we enjoy that,70 1784 15,1
+i enjoy that,5552 1784 15,1
+how were you like ?,110 48 24 96 80,0
+does you enjoy this ?,312 24 1784 49 80,0
+were i love this ?,48 5552 194 49 80,0
+what were you love ?,55 48 24 194 80,0
+they like that,45 96 15,1
+what is we like ?,55 34 70 96 80,0
+were he love this ?,48 16 194 49 80,0
+we did not love this,70 73 21 194 49,-1
+what do i like ?,55 81 5552 96 80,0
+what did you love ?,55 73 24 194 80,0
+does you enjoy it ?,312 24 1784 17 80,0
+she love it,27 194 17,1
+are they love that ?,66 45 194 15 80,0
+were he love that ?,48 16 194 15 80,0
+you does not enjoy it,24 312 21 1784 17,-1
+did he like this ?,73 16 96 49 80,0
+are they enjoy that ?,66 45 1784 15 80,0
+i is not love this,5552 34 21 194 49,-1
+what are you love ?,55 66 24 194 80,0
+i like this,5552 96 49,1
+she enjoy it,27 1784 17,1
+why were she love ?,305 48 27 194 80,0
+he love that,16 194 15,1
+you like this,24 96 49,1
+why did she love ?,305 73 27 194 80,0
+he like it,16 96 17,1
+we like this,70 96 49,1
+do they like it ?,81 45 96 17 80,0
+they enjoy it,45 1784 17,1
+why did i enjoy ?,305 73 5552 1784 80,0
+he enjoy it,16 1784 17,1
+we like this,70 96 49,1
+how did we enjoy ?,110 73 70 1784 80,0
+what do you enjoy ?,55 81 24 1784 80,0
+i love this,5552 194 49,1
+what do we love ?,55 81 70 194 80,0
+she are not love this,27 66 21 194 49,-1
+we was not like it,70 14 21 96 17,-1
+why does i like ?,305 312 5552 96 80,0
+i like that,5552 96 15,1
+why are you love ?,305 66 24 194 80,0
+we enjoy it,70 1784 17,1
+they like this,45 96 49,1
+did we enjoy that ?,73 70 1784 15 80,0
+we does not like this,70 312 21 96 49,-1
+were they like that ?,48 45 96 15 80,0
+does we enjoy that ?,312 70 1784 15 80,0
+do i like this ?,81 5552 96 49 80,0
+what did you enjoy ?,55 73 24 1784 80,0
+she does not like it,27 312 21 96 17,-1
+why do you love ?,305 81 24 194 80,0
+does they love this ?,312 45 194 49 80,0
+we like that,70 96 15,1
+we enjoy that,70 1784 15,1
+was she like this ?,14 27 96 49 80,0
+he are not love that,16 66 21 194 15,-1
+you did not enjoy that,24 73 21 1784 15,-1
+we was not love that,70 14 21 194 15,-1
+how are he love ?,110 66 16 194 80,0
+i enjoy that,5552 1784 15,1
+he love this,16 194 49,1
+was they like it ?,14 45 96 17 80,0
+is they enjoy it ?,34 45 1784 17 80,0
+was he enjoy it ?,14 16 1784 17 80,0
+we like that,70 96 15,1
+is she enjoy this ?,34 27 1784 49 80,0
+do she love this ?,81 27 194 49 80,0
+you love this,24 194 49,1
+what was they love ?,55 14 45 194 80,0
+he enjoy it,16 1784 17,1
+do she enjoy that ?,81 27 1784 15 80,0
+do you like it ?,81 24 96 17 80,0
+you love it,24 194 17,1
+are we love this ?,66 70 194 49 80,0
+why is she like ?,305 34 27 96 80,0
+why does they love ?,305 312 45 194 80,0
+you like it,24 96 17,1
+we did not like that,70 73 21 96 15,-1
+she is not enjoy that,27 34 21 1784 15,-1
+they are not love this,45 66 21 194 49,-1
+he enjoy that,16 1784 15,1
+i love it,5552 194 17,1
+were she like that ?,48 27 96 15 80,0
+how was he like ?,110 14 16 96 80,0
+we did not love it,70 73 21 194 17,-1
+we love that,70 194 15,1
+did you enjoy it ?,73 24 1784 17 80,0
+he enjoy it,16 1784 17,1
+we do not love that,70 81 21 194 15,-1
+why were we love ?,305 48 70 194 80,0
+he were not like that,16 48 21 96 15,-1
+are he enjoy that ?,66 16 1784 15 80,0
+what is you love ?,55 34 24 194 80,0
+i enjoy that,5552 1784 15,1
+what did i love ?,55 73 5552 194 80,0
+did i enjoy this ?,73 5552 1784 49 80,0
+how is i love ?,110 34 5552 194 80,0
+we love that,70 194 15,1
+he love this,16 194 49,1
+we was not enjoy this,70 14 21 1784 49,-1
+why are i enjoy ?,305 66 5552 1784 80,0
+what was i love ?,55 14 5552 194 80,0
+you enjoy it,24 1784 17,1
+they were not love this,45 48 21 194 49,-1
+she enjoy that,27 1784 15,1
+what does she like ?,55 312 27 96 80,0
+were she like this ?,48 27 96 49 80,0
+is we enjoy this ?,34 70 1784 49 80,0
+he enjoy it,16 1784 17,1
+why is he enjoy ?,305 34 16 1784 80,0
+she do not like that,27 81 21 96 15,-1
+is you enjoy this ?,34 24 1784 49 80,0
+were i enjoy this ?,48 5552 1784 49 80,0
+what were they like ?,55 48 45 96 80,0
+i enjoy this,5552 1784 49,1
+is i like that ?,34 5552 96 15 80,0
+she does not love this,27 312 21 194 49,-1
+he love it,16 194 17,1
+is we enjoy this ?,34 70 1784 49 80,0
+i do not enjoy it,5552 81 21 1784 17,-1
+how does you love ?,110 312 24 194 80,0
+was we love it ?,14 70 194 17 80,0
+how are i love ?,110 66 5552 194 80,0
+he like this,16 96 49,1
+he enjoy it,16 1784 17,1
+she did not love this,27 73 21 194 49,-1
+we does not like that,70 312 21 96 15,-1
+are she enjoy this ?,66 27 1784 49 80,0
+why did you love ?,305 73 24 194 80,0
+he does not like it,16 312 21 96 17,-1
+was we enjoy this ?,14 70 1784 49 80,0
+what does they like ?,55 312 45 96 80,0
+did he enjoy it ?,73 16 1784 17 80,0
+does we like it ?,312 70 96 17 80,0
+why is you enjoy ?,305 34 24 1784 80,0
+were they love it ?,48 45 194 17 80,0
+you was not enjoy that,24 14 21 1784 15,-1
+we was not love it,70 14 21 194 17,-1
+we like it,70 96 17,1
+they love that,45 194 15,1
+what does we enjoy ?,55 312 70 1784 80,0
+she do not enjoy that,27 81 21 1784 15,-1
+we did not like this,70 73 21 96 49,-1
+they love it,45 194 17,1
+i did not like this,5552 73 21 96 49,-1
+why did she like ?,305 73 27 96 80,0
+you are not like it,24 66 21 96 17,-1
+you were not love this,24 48 21 194 49,-1
+is she love that ?,34 27 194 15 80,0
+are you enjoy that ?,66 24 1784 15 80,0
+he enjoy this,16 1784 49,1
+they are not love this,45 66 21 194 49,-1
+are we enjoy it ?,66 70 1784 17 80,0
+you like it,24 96 17,1
+she love that,27 194 15,1
+i like this,5552 96 49,1
+he love it,16 194 17,1
+she is not enjoy this,27 34 21 1784 49,-1
+were they enjoy it ?,48 45 1784 17 80,0
+why is she like ?,305 34 27 96 80,0
+i like that,5552 96 15,1
+do i like this ?,81 5552 96 49 80,0
+why do you enjoy ?,305 81 24 1784 80,0
+why were they enjoy ?,305 48 45 1784 80,0
+they does not enjoy that,45 312 21 1784 15,-1
+how is you like ?,110 34 24 96 80,0
+she is not like this,27 34 21 96 49,-1
+why was he like ?,305 14 16 96 80,0
+how was she like ?,110 14 27 96 80,0
+she like that,27 96 15,1
+you are not like this,24 66 21 96 49,-1
+they love that,45 194 15,1
+i are not enjoy this,5552 66 21 1784 49,-1
+what are she enjoy ?,55 66 27 1784 80,0
+you are not like that,24 66 21 96 15,-1
+do we love this ?,81 70 194 49 80,0
+does you love this ?,312 24 194 49 80,0
+were he like that ?,48 16 96 15 80,0
+we love this,70 194 49,1
+she like this,27 96 49,1
+were i enjoy it ?,48 5552 1784 17 80,0
+what do they enjoy ?,55 81 45 1784 80,0
+i enjoy this,5552 1784 49,1
+he enjoy that,16 1784 15,1
+were you love it ?,48 24 194 17 80,0
+what do he like ?,55 81 16 96 80,0
+how do he like ?,110 81 16 96 80,0
+why was he like ?,305 14 16 96 80,0
+is we like this ?,34 70 96 49 80,0
+he enjoy this,16 1784 49,1
+do they like this ?,81 45 96 49 80,0
+we is not like that,70 34 21 96 15,-1
+she were not like it,27 48 21 96 17,-1
+why was i enjoy ?,305 14 5552 1784 80,0
+we are not like that,70 66 21 96 15,-1
+does he love this ?,312 16 194 49 80,0
+why do she love ?,305 81 27 194 80,0
+we love this,70 194 49,1
+why are you enjoy ?,305 66 24 1784 80,0
+how did we love ?,110 73 70 194 80,0
+we like that,70 96 15,1
+i like that,5552 96 15,1
+he is not like this,16 34 21 96 49,-1
+they is not love that,45 34 21 194 15,-1
+how were they love ?,110 48 45 194 80,0
+you like that,24 96 15,1
+she enjoy that,27 1784 15,1
+do they enjoy this ?,81 45 1784 49 80,0
+we enjoy it,70 1784 17,1
+are he love this ?,66 16 194 49 80,0
+she did not enjoy this,27 73 21 1784 49,-1
+why do we love ?,305 81 70 194 80,0
+they does not love it,45 312 21 194 17,-1
+do she love it ?,81 27 194 17 80,0
+why do she enjoy ?,305 81 27 1784 80,0
+she love this,27 194 49,1
+how is he enjoy ?,110 34 16 1784 80,0
+you enjoy this,24 1784 49,1
+are you love this ?,66 24 194 49 80,0
+what does they love ?,55 312 45 194 80,0
+i did not love that,5552 73 21 194 15,-1
+why does she like ?,305 312 27 96 80,0
+did she love it ?,73 27 194 17 80,0
+you love it,24 194 17,1
+what did i love ?,55 73 5552 194 80,0
+he was not love this,16 14 21 194 49,-1
+we does not like it,70 312 21 96 17,-1
+is he like that ?,34 16 96 15 80,0
+were she enjoy it ?,48 27 1784 17 80,0
+how did they love ?,110 73 45 194 80,0
+you was not like it,24 14 21 96 17,-1
+you love it,24 194 17,1
+he is not enjoy that,16 34 21 1784 15,-1
+were we enjoy this ?,48 70 1784 49 80,0
+is you love this ?,34 24 194 49 80,0
+you are not like this,24 66 21 96 49,-1
+did he enjoy that ?,73 16 1784 15 80,0
+they like this,45 96 49,1
+how is you love ?,110 34 24 194 80,0
+i is not enjoy that,5552 34 21 1784 15,-1
+is we like that ?,34 70 96 15 80,0
+what is he love ?,55 34 16 194 80,0
+we like this,70 96 49,1
+is she like that ?,34 27 96 15 80,0
+we were not like this,70 48 21 96 49,-1
+did you enjoy this ?,73 24 1784 49 80,0
+he does not love that,16 312 21 194 15,-1
+we enjoy it,70 1784 17,1
+you did not enjoy this,24 73 21 1784 49,-1
+they like it,45 96 17,1
+he like that,16 96 15,1
+you are not enjoy that,24 66 21 1784 15,-1
+do we like that ?,81 70 96 15 80,0
+were we like it ?,48 70 96 17 80,0
+what does she love ?,55 312 27 194 80,0
+you enjoy that,24 1784 15,1
+what were we like ?,55 48 70 96 80,0
+what did they enjoy ?,55 73 45 1784 80,0
+she like that,27 96 15,1
+they love that,45 194 15,1
+why was i love ?,305 14 5552 194 80,0
+we like that,70 96 15,1
+did we enjoy this ?,73 70 1784 49 80,0
+he are not like this,16 66 21 96 49,-1
+what did we like ?,55 73 70 96 80,0
+they love it,45 194 17,1
+they did not love this,45 73 21 194 49,-1
+they does not love it,45 312 21 194 17,-1
+he are not enjoy it,16 66 21 1784 17,-1
+they enjoy that,45 1784 15,1
+we enjoy that,70 1784 15,1
+i is not love it,5552 34 21 194 17,-1
+i like that,5552 96 15,1
+how were i like ?,110 48 5552 96 80,0
+we love this,70 194 49,1
+how is she love ?,110 34 27 194 80,0
+why is they like ?,305 34 45 96 80,0
+what is you love ?,55 34 24 194 80,0
+is she love it ?,34 27 194 17 80,0
+i enjoy that,5552 1784 15,1
+you were not like that,24 48 21 96 15,-1
+did i love this ?,73 5552 194 49 80,0
+what were she love ?,55 48 27 194 80,0
+they enjoy it,45 1784 17,1
+why does we enjoy ?,305 312 70 1784 80,0
+why do we love ?,305 81 70 194 80,0
+he like this,16 96 49,1
+how do you enjoy ?,110 81 24 1784 80,0
+she love this,27 194 49,1
+i enjoy that,5552 1784 15,1
+she does not enjoy this,27 312 21 1784 49,-1
+what was you love ?,55 14 24 194 80,0
+he are not enjoy this,16 66 21 1784 49,-1
+you were not like it,24 48 21 96 17,-1
+she were not like that,27 48 21 96 15,-1
+i enjoy it,5552 1784 17,1
+what is i love ?,55 34 5552 194 80,0
+was she like it ?,14 27 96 17 80,0
+how did they love ?,110 73 45 194 80,0
+he did not enjoy it,16 73 21 1784 17,-1
+were you enjoy this ?,48 24 1784 49 80,0
+you is not love this,24 34 21 194 49,-1
+they were not love this,45 48 21 194 49,-1
+we like it,70 96 17,1
+why was they enjoy ?,305 14 45 1784 80,0
+why were i love ?,305 48 5552 194 80,0
+did he like this ?,73 16 96 49 80,0
+was we like that ?,14 70 96 15 80,0
+i enjoy it,5552 1784 17,1
+were they enjoy that ?,48 45 1784 15 80,0
+does you love it ?,312 24 194 17 80,0
+we enjoy it,70 1784 17,1
+what does he like ?,55 312 16 96 80,0
+you does not like this,24 312 21 96 49,-1
+what was we enjoy ?,55 14 70 1784 80,0
+we were not love that,70 48 21 194 15,-1
+you does not enjoy this,24 312 21 1784 49,-1
+he like this,16 96 49,1
+is she enjoy it ?,34 27 1784 17 80,0
+you are not love that,24 66 21 194 15,-1
+i does not like it,5552 312 21 96 17,-1
+was you enjoy this ?,14 24 1784 49 80,0
+what does you enjoy ?,55 312 24 1784 80,0
+they does not like that,45 312 21 96 15,-1
+he like this,16 96 49,1
+you were not enjoy that,24 48 21 1784 15,-1
+you does not like it,24 312 21 96 17,-1
+they did not like this,45 73 21 96 49,-1
+how do i enjoy ?,110 81 5552 1784 80,0
+does he love this ?,312 16 194 49 80,0
+she do not love that,27 81 21 194 15,-1
+you was not like that,24 14 21 96 15,-1
+he enjoy this,16 1784 49,1
+why did you enjoy ?,305 73 24 1784 80,0
+is they like that ?,34 45 96 15 80,0
+what were i love ?,55 48 5552 194 80,0
+they was not enjoy that,45 14 21 1784 15,-1
+we does not love it,70 312 21 194 17,-1
+you love that,24 194 15,1
+do you enjoy that ?,81 24 1784 15 80,0
+were she enjoy that ?,48 27 1784 15 80,0
+why is i enjoy ?,305 34 5552 1784 80,0
+what is you love ?,55 34 24 194 80,0
+they did not like that,45 73 21 96 15,-1
+what is she love ?,55 34 27 194 80,0
+she like this,27 96 49,1
+how does she like ?,110 312 27 96 80,0
+does you enjoy this ?,312 24 1784 49 80,0
+we did not enjoy it,70 73 21 1784 17,-1
+why was we enjoy ?,305 14 70 1784 80,0
+did we like it ?,73 70 96 17 80,0
+why did i like ?,305 73 5552 96 80,0
+we was not enjoy this,70 14 21 1784 49,-1
+why did she love ?,305 73 27 194 80,0
+how are you like ?,110 66 24 96 80,0
+were they love that ?,48 45 194 15 80,0
+she was not love it,27 14 21 194 17,-1
+how did they enjoy ?,110 73 45 1784 80,0
+is they like that ?,34 45 96 15 80,0
+you love it,24 194 17,1
+we enjoy it,70 1784 17,1
+how do he enjoy ?,110 81 16 1784 80,0
+does we love this ?,312 70 194 49 80,0
+you are not enjoy this,24 66 21 1784 49,-1
+were she enjoy it ?,48 27 1784 17 80,0
+why did he enjoy ?,305 73 16 1784 80,0
+how were i love ?,110 48 5552 194 80,0
+does she like it ?,312 27 96 17 80,0
+we like that,70 96 15,1
+why were she enjoy ?,305 48 27 1784 80,0
+they is not love that,45 34 21 194 15,-1
+does i love this ?,312 5552 194 49 80,0
+why do she love ?,305 81 27 194 80,0
+you like that,24 96 15,1
+he like this,16 96 49,1
+what was i enjoy ?,55 14 5552 1784 80,0
+why does he like ?,305 312 16 96 80,0
+did he love this ?,73 16 194 49 80,0
+you do not love that,24 81 21 194 15,-1
+he did not enjoy that,16 73 21 1784 15,-1
+are you love this ?,66 24 194 49 80,0
+what is she love ?,55 34 27 194 80,0
+what is we enjoy ?,55 34 70 1784 80,0
+was she love that ?,14 27 194 15 80,0
+they enjoy it,45 1784 17,1
+i do not like that,5552 81 21 96 15,-1
+he were not like it,16 48 21 96 17,-1
+why do she love ?,305 81 27 194 80,0
+they enjoy it,45 1784 17,1
+he love that,16 194 15,1
+why is he love ?,305 34 16 194 80,0
+why are she like ?,305 66 27 96 80,0
+what is he like ?,55 34 16 96 80,0
+what was they like ?,55 14 45 96 80,0
+why did she love ?,305 73 27 194 80,0
+we love that,70 194 15,1
+why does he love ?,305 312 16 194 80,0
+he like that,16 96 15,1
+she love it,27 194 17,1
+she are not like this,27 66 21 96 49,-1
+they love it,45 194 17,1
+we does not enjoy that,70 312 21 1784 15,-1
+we like this,70 96 49,1
+does she like this ?,312 27 96 49 80,0
+how is i like ?,110 34 5552 96 80,0
+they is not love this,45 34 21 194 49,-1
+he love it,16 194 17,1
+did i love it ?,73 5552 194 17 80,0
+you enjoy this,24 1784 49,1
+how do he like ?,110 81 16 96 80,0
+they like it,45 96 17,1
+we like that,70 96 15,1
+are they like this ?,66 45 96 49 80,0
+we were not like that,70 48 21 96 15,-1
+what is they enjoy ?,55 34 45 1784 80,0
+we love it,70 194 17,1
+what is he love ?,55 34 16 194 80,0
+they were not love that,45 48 21 194 15,-1
+i were not like it,5552 48 21 96 17,-1
+did they enjoy that ?,73 45 1784 15 80,0
+she does not like this,27 312 21 96 49,-1
+we love it,70 194 17,1
+why was i enjoy ?,305 14 5552 1784 80,0
+why did she love ?,305 73 27 194 80,0
+you enjoy that,24 1784 15,1
+were she like that ?,48 27 96 15 80,0
+she does not like it,27 312 21 96 17,-1
+do they like that ?,81 45 96 15 80,0
+how are you enjoy ?,110 66 24 1784 80,0
+you love it,24 194 17,1
+she are not love that,27 66 21 194 15,-1
+is you like it ?,34 24 96 17 80,0
+i does not like it,5552 312 21 96 17,-1
+how were i like ?,110 48 5552 96 80,0
+how were we love ?,110 48 70 194 80,0
+was he enjoy that ?,14 16 1784 15 80,0
+he enjoy it,16 1784 17,1
+he love that,16 194 15,1
+does she love it ?,312 27 194 17 80,0
+she love this,27 194 49,1
+are they like this ?,66 45 96 49 80,0
+does i like it ?,312 5552 96 17 80,0
+what are we enjoy ?,55 66 70 1784 80,0
+we love that,70 194 15,1
+did she love that ?,73 27 194 15 80,0
+why was they love ?,305 14 45 194 80,0
+are i love it ?,66 5552 194 17 80,0
+they like that,45 96 15,1
+what was we enjoy ?,55 14 70 1784 80,0
+do she like that ?,81 27 96 15 80,0
+were he love this ?,48 16 194 49 80,0
+she is not like that,27 34 21 96 15,-1
+i do not love this,5552 81 21 194 49,-1
+does he like it ?,312 16 96 17 80,0
+is they love that ?,34 45 194 15 80,0
+i do not enjoy that,5552 81 21 1784 15,-1
+was i like this ?,14 5552 96 49 80,0
+were he like that ?,48 16 96 15 80,0
+how was they love ?,110 14 45 194 80,0
+he are not love this,16 66 21 194 49,-1
+does we like that ?,312 70 96 15 80,0
+were i enjoy this ?,48 5552 1784 49 80,0
+we enjoy that,70 1784 15,1
+was we enjoy it ?,14 70 1784 17 80,0
+are he enjoy this ?,66 16 1784 49 80,0
+i are not love this,5552 66 21 194 49,-1
+they are not love that,45 66 21 194 15,-1
+they do not love it,45 81 21 194 17,-1
+we like that,70 96 15,1
+you enjoy it,24 1784 17,1
+you do not enjoy this,24 81 21 1784 49,-1
+does i like it ?,312 5552 96 17 80,0
+you enjoy this,24 1784 49,1
+did she love this ?,73 27 194 49 80,0
+did i love this ?,73 5552 194 49 80,0
+they enjoy it,45 1784 17,1
+what were we love ?,55 48 70 194 80,0
+did they enjoy that ?,73 45 1784 15 80,0
+how were he like ?,110 48 16 96 80,0
+he enjoy this,16 1784 49,1
+we enjoy it,70 1784 17,1
+are we enjoy that ?,66 70 1784 15 80,0
+what is she love ?,55 34 27 194 80,0
+she did not love it,27 73 21 194 17,-1
+why did we like ?,305 73 70 96 80,0
+why is she love ?,305 34 27 194 80,0
+what did she enjoy ?,55 73 27 1784 80,0
+what does she like ?,55 312 27 96 80,0
+he like this,16 96 49,1
+why are they enjoy ?,305 66 45 1784 80,0
+you do not enjoy this,24 81 21 1784 49,-1
+you enjoy that,24 1784 15,1
+is he like it ?,34 16 96 17 80,0
+he enjoy this,16 1784 49,1
+he was not love it,16 14 21 194 17,-1
+is i love it ?,34 5552 194 17 80,0
+how is he love ?,110 34 16 194 80,0
+how were she like ?,110 48 27 96 80,0
+he are not like it,16 66 21 96 17,-1
+you like that,24 96 15,1
+we love this,70 194 49,1
+do we love that ?,81 70 194 15 80,0
+he like this,16 96 49,1
+i love that,5552 194 15,1
+you was not love this,24 14 21 194 49,-1
+i are not love it,5552 66 21 194 17,-1
+they is not like it,45 34 21 96 17,-1
+were you enjoy this ?,48 24 1784 49 80,0
+you was not love this,24 14 21 194 49,-1
+she are not love that,27 66 21 194 15,-1
+was they love this ?,14 45 194 49 80,0
+we does not enjoy this,70 312 21 1784 49,-1
+what does we like ?,55 312 70 96 80,0
+he enjoy that,16 1784 15,1
+he like it,16 96 17,1
+why did you love ?,305 73 24 194 80,0
+why are you enjoy ?,305 66 24 1784 80,0
+did you like this ?,73 24 96 49 80,0
+does i like it ?,312 5552 96 17 80,0
+you do not love that,24 81 21 194 15,-1
+what do he like ?,55 81 16 96 80,0
+he enjoy it,16 1784 17,1
+how are you enjoy ?,110 66 24 1784 80,0
+we does not like this,70 312 21 96 49,-1
+we enjoy that,70 1784 15,1
+we do not like it,70 81 21 96 17,-1
+he love that,16 194 15,1
+they love this,45 194 49,1
+do i love it ?,81 5552 194 17 80,0
+how were she love ?,110 48 27 194 80,0
+did i love it ?,73 5552 194 17 80,0
+i was not love that,5552 14 21 194 15,-1
+i enjoy it,5552 1784 17,1
+how is he like ?,110 34 16 96 80,0
+why was you enjoy ?,305 14 24 1784 80,0
+were we love it ?,48 70 194 17 80,0
+they do not love this,45 81 21 194 49,-1
+are they enjoy that ?,66 45 1784 15 80,0
+what were i like ?,55 48 5552 96 80,0
+you did not like this,24 73 21 96 49,-1
+how do i like ?,110 81 5552 96 80,0
+he enjoy this,16 1784 49,1
+we was not enjoy that,70 14 21 1784 15,-1
+how were you enjoy ?,110 48 24 1784 80,0
+what was we like ?,55 14 70 96 80,0
+is they like that ?,34 45 96 15 80,0
+they like it,45 96 17,1
+does they like it ?,312 45 96 17 80,0
+do i enjoy this ?,81 5552 1784 49 80,0
+what are you like ?,55 66 24 96 80,0
+does he like that ?,312 16 96 15 80,0
+were we love it ?,48 70 194 17 80,0
+are he love that ?,66 16 194 15 80,0
+why do they love ?,305 81 45 194 80,0
+she does not enjoy this,27 312 21 1784 49,-1
+she are not enjoy this,27 66 21 1784 49,-1
+she are not enjoy that,27 66 21 1784 15,-1
+we enjoy this,70 1784 49,1
+did i like this ?,73 5552 96 49 80,0
+what is i enjoy ?,55 34 5552 1784 80,0
+what is he love ?,55 34 16 194 80,0
+how do you enjoy ?,110 81 24 1784 80,0
+was you like it ?,14 24 96 17 80,0
+how did they like ?,110 73 45 96 80,0
+were they love it ?,48 45 194 17 80,0
+what do they like ?,55 81 45 96 80,0
+you like that,24 96 15,1
+you was not love this,24 14 21 194 49,-1
+does he enjoy that ?,312 16 1784 15 80,0
+they were not like it,45 48 21 96 17,-1
+how were she love ?,110 48 27 194 80,0
+i were not like this,5552 48 21 96 49,-1
+he enjoy this,16 1784 49,1
+you are not love it,24 66 21 194 17,-1
+we do not love it,70 81 21 194 17,-1
+did he like it ?,73 16 96 17 80,0
+why do they love ?,305 81 45 194 80,0
+he love it,16 194 17,1
+are we love it ?,66 70 194 17 80,0
+we are not love that,70 66 21 194 15,-1
+do they like this ?,81 45 96 49 80,0
+i enjoy this,5552 1784 49,1
+why does we love ?,305 312 70 194 80,0
+they like that,45 96 15,1
+why are i love ?,305 66 5552 194 80,0
+were i like this ?,48 5552 96 49 80,0
+she was not like it,27 14 21 96 17,-1
+i enjoy that,5552 1784 15,1
+how do you love ?,110 81 24 194 80,0
+she love it,27 194 17,1
+i do not like this,5552 81 21 96 49,-1
+she love it,27 194 17,1
+we like that,70 96 15,1
+do he love it ?,81 16 194 17 80,0
+are you love that ?,66 24 194 15 80,0
+we love it,70 194 17,1
+do she love that ?,81 27 194 15 80,0
+does we like this ?,312 70 96 49 80,0
+i were not enjoy that,5552 48 21 1784 15,-1
+they like that,45 96 15,1
+what do she enjoy ?,55 81 27 1784 80,0
+what was we enjoy ?,55 14 70 1784 80,0
+were i love it ?,48 5552 194 17 80,0
+you enjoy that,24 1784 15,1
+we love that,70 194 15,1
+they does not like that,45 312 21 96 15,-1
+they like this,45 96 49,1
+you does not love it,24 312 21 194 17,-1
+she love this,27 194 49,1
+is he enjoy that ?,34 16 1784 15 80,0
+we like that,70 96 15,1
+they love it,45 194 17,1
+was you love that ?,14 24 194 15 80,0
+was they enjoy that ?,14 45 1784 15 80,0
+how did he enjoy ?,110 73 16 1784 80,0
+do they like this ?,81 45 96 49 80,0
+they was not enjoy it,45 14 21 1784 17,-1
+why is she like ?,305 34 27 96 80,0
+why does he enjoy ?,305 312 16 1784 80,0
+does she love that ?,312 27 194 15 80,0
+how is we like ?,110 34 70 96 80,0
+he is not enjoy this,16 34 21 1784 49,-1
+what was you enjoy ?,55 14 24 1784 80,0
+she love this,27 194 49,1
+do they enjoy this ?,81 45 1784 49 80,0
+what were you enjoy ?,55 48 24 1784 80,0
+you are not love this,24 66 21 194 49,-1
+does she like it ?,312 27 96 17 80,0
+what are i love ?,55 66 5552 194 80,0
+you is not like that,24 34 21 96 15,-1
+you were not enjoy this,24 48 21 1784 49,-1
+they like that,45 96 15,1
+what does i like ?,55 312 5552 96 80,0
+do they enjoy this ?,81 45 1784 49 80,0
+did he enjoy this ?,73 16 1784 49 80,0
+she enjoy that,27 1784 15,1
+they like that,45 96 15,1
+what was you love ?,55 14 24 194 80,0
+he like it,16 96 17,1
+he did not love that,16 73 21 194 15,-1
+what were she enjoy ?,55 48 27 1784 80,0
+why do i like ?,305 81 5552 96 80,0
+she does not enjoy it,27 312 21 1784 17,-1
+did i like that ?,73 5552 96 15 80,0
+is she enjoy that ?,34 27 1784 15 80,0
+how was i like ?,110 14 5552 96 80,0
+i is not like that,5552 34 21 96 15,-1
+he enjoy that,16 1784 15,1
+i love that,5552 194 15,1
+do you enjoy that ?,81 24 1784 15 80,0
+she love that,27 194 15,1
+i like it,5552 96 17,1
+do i love that ?,81 5552 194 15 80,0
+is she love this ?,34 27 194 49 80,0
+she like it,27 96 17,1
+we does not like it,70 312 21 96 17,-1
+she like it,27 96 17,1
+are we enjoy this ?,66 70 1784 49 80,0
+are she like that ?,66 27 96 15 80,0
+she love that,27 194 15,1
+what did she enjoy ?,55 73 27 1784 80,0
+what does he like ?,55 312 16 96 80,0
+are i enjoy that ?,66 5552 1784 15 80,0
+do he like it ?,81 16 96 17 80,0
+were they love this ?,48 45 194 49 80,0
+you is not like it,24 34 21 96 17,-1
+he does not enjoy it,16 312 21 1784 17,-1
+she enjoy it,27 1784 17,1
+how did we like ?,110 73 70 96 80,0
+you like it,24 96 17,1
+you does not love that,24 312 21 194 15,-1
+you are not like that,24 66 21 96 15,-1
+are i enjoy it ?,66 5552 1784 17 80,0
+what do she enjoy ?,55 81 27 1784 80,0
+what did he enjoy ?,55 73 16 1784 80,0
+she like it,27 96 17,1
+i is not love that,5552 34 21 194 15,-1
+we do not like that,70 81 21 96 15,-1
+he do not like this,16 81 21 96 49,-1
+do they love it ?,81 45 194 17 80,0
+how do you like ?,110 81 24 96 80,0
+is you like that ?,34 24 96 15 80,0
+i love this,5552 194 49,1
+are they enjoy it ?,66 45 1784 17 80,0
+they does not love it,45 312 21 194 17,-1
+are you like this ?,66 24 96 49 80,0
+what were they love ?,55 48 45 194 80,0
+they like that,45 96 15,1
+did i enjoy it ?,73 5552 1784 17 80,0
+is we like this ?,34 70 96 49 80,0
+i enjoy this,5552 1784 49,1
+how were i love ?,110 48 5552 194 80,0
+were we enjoy it ?,48 70 1784 17 80,0
+i was not enjoy it,5552 14 21 1784 17,-1
+how does he enjoy ?,110 312 16 1784 80,0
+did i love it ?,73 5552 194 17 80,0
+they is not like this,45 34 21 96 49,-1
+are you enjoy this ?,66 24 1784 49 80,0
+i were not like this,5552 48 21 96 49,-1
+they enjoy that,45 1784 15,1
+how did she like ?,110 73 27 96 80,0
+she like this,27 96 49,1
+is you like that ?,34 24 96 15 80,0
+how was i like ?,110 14 5552 96 80,0
+why is i enjoy ?,305 34 5552 1784 80,0
+they like it,45 96 17,1
+you love that,24 194 15,1
+why do he like ?,305 81 16 96 80,0
+they was not enjoy this,45 14 21 1784 49,-1
+did we enjoy this ?,73 70 1784 49 80,0
+i love it,5552 194 17,1
+he is not love this,16 34 21 194 49,-1
+what was i love ?,55 14 5552 194 80,0
+were they love it ?,48 45 194 17 80,0
+did she love this ?,73 27 194 49 80,0
+what were he love ?,55 48 16 194 80,0
+i enjoy that,5552 1784 15,1
+they like that,45 96 15,1
+are he enjoy that ?,66 16 1784 15 80,0
+they enjoy it,45 1784 17,1
+why did she love ?,305 73 27 194 80,0
+was we like that ?,14 70 96 15 80,0
+i like that,5552 96 15,1
+what does they love ?,55 312 45 194 80,0
+how do they enjoy ?,110 81 45 1784 80,0
+they were not enjoy it,45 48 21 1784 17,-1
+what were we like ?,55 48 70 96 80,0
+we like this,70 96 49,1
+do i love that ?,81 5552 194 15 80,0
+she like it,27 96 17,1
+i like that,5552 96 15,1
+what was she love ?,55 14 27 194 80,0
+they is not love it,45 34 21 194 17,-1
+we is not like it,70 34 21 96 17,-1
+she enjoy that,27 1784 15,1
+were we love this ?,48 70 194 49 80,0
+they is not love it,45 34 21 194 17,-1
+you was not love that,24 14 21 194 15,-1
+we enjoy that,70 1784 15,1
+how was you enjoy ?,110 14 24 1784 80,0
+do she love this ?,81 27 194 49 80,0
+was they enjoy that ?,14 45 1784 15 80,0
+we enjoy it,70 1784 17,1
+what does she enjoy ?,55 312 27 1784 80,0
+are they love this ?,66 45 194 49 80,0
+they do not like this,45 81 21 96 49,-1
+how was we like ?,110 14 70 96 80,0
+we was not like it,70 14 21 96 17,-1
+we enjoy this,70 1784 49,1
+were she like that ?,48 27 96 15 80,0
+why was we love ?,305 14 70 194 80,0
+they is not love that,45 34 21 194 15,-1
+were you like it ?,48 24 96 17 80,0
+were you like this ?,48 24 96 49 80,0
+how did he love ?,110 73 16 194 80,0
+you love this,24 194 49,1
+she enjoy it,27 1784 17,1
+you like this,24 96 49,1
+they does not like it,45 312 21 96 17,-1
+they were not enjoy this,45 48 21 1784 49,-1
+how does he love ?,110 312 16 194 80,0
+were she enjoy it ?,48 27 1784 17 80,0
+you do not love this,24 81 21 194 49,-1
+he were not like this,16 48 21 96 49,-1
+why did i like ?,305 73 5552 96 80,0
+i like that,5552 96 15,1
+she like this,27 96 49,1
+how were i love ?,110 48 5552 194 80,0
+what did we love ?,55 73 70 194 80,0
+they are not like that,45 66 21 96 15,-1
+why are she enjoy ?,305 66 27 1784 80,0
+why was she like ?,305 14 27 96 80,0
+why are you enjoy ?,305 66 24 1784 80,0
+did we like that ?,73 70 96 15 80,0
+you are not enjoy it,24 66 21 1784 17,-1
+you like this,24 96 49,1
+did you enjoy it ?,73 24 1784 17 80,0
+were he love this ?,48 16 194 49 80,0
+why do i like ?,305 81 5552 96 80,0
+she is not love that,27 34 21 194 15,-1
+what did he enjoy ?,55 73 16 1784 80,0
+he did not love it,16 73 21 194 17,-1
+does you enjoy that ?,312 24 1784 15 80,0
+were i enjoy it ?,48 5552 1784 17 80,0
+how do she enjoy ?,110 81 27 1784 80,0
+you like that,24 96 15,1
+why was she love ?,305 14 27 194 80,0
+how were you like ?,110 48 24 96 80,0
+i is not like this,5552 34 21 96 49,-1
+is we enjoy it ?,34 70 1784 17 80,0
+what are she like ?,55 66 27 96 80,0
+why was you enjoy ?,305 14 24 1784 80,0
+i like this,5552 96 49,1
+did he enjoy that ?,73 16 1784 15 80,0
+how were i enjoy ?,110 48 5552 1784 80,0
+is they enjoy that ?,34 45 1784 15 80,0
+she like it,27 96 17,1
+we are not like it,70 66 21 96 17,-1
+they did not enjoy that,45 73 21 1784 15,-1
+he enjoy that,16 1784 15,1
+you like it,24 96 17,1
+you like it,24 96 17,1
+he is not enjoy it,16 34 21 1784 17,-1
+how did she enjoy ?,110 73 27 1784 80,0
+we do not love this,70 81 21 194 49,-1
+we enjoy that,70 1784 15,1
+we enjoy it,70 1784 17,1
+were we like that ?,48 70 96 15 80,0
+she do not enjoy that,27 81 21 1784 15,-1
+do you enjoy that ?,81 24 1784 15 80,0
+he like it,16 96 17,1
+what are we like ?,55 66 70 96 80,0
+do i enjoy this ?,81 5552 1784 49 80,0
+you enjoy that,24 1784 15,1
+are you enjoy it ?,66 24 1784 17 80,0
+what did we enjoy ?,55 73 70 1784 80,0
+how is they love ?,110 34 45 194 80,0
+was she enjoy it ?,14 27 1784 17 80,0
+you enjoy this,24 1784 49,1
+she love it,27 194 17,1
+you are not like it,24 66 21 96 17,-1
+i like this,5552 96 49,1
+i is not enjoy it,5552 34 21 1784 17,-1
+is they like it ?,34 45 96 17 80,0
+was she enjoy this ?,14 27 1784 49 80,0
+what is i love ?,55 34 5552 194 80,0
+was he like that ?,14 16 96 15 80,0
+you does not love this,24 312 21 194 49,-1
+she are not like it,27 66 21 96 17,-1
+were we like that ?,48 70 96 15 80,0
+why did you like ?,305 73 24 96 80,0
+why did they like ?,305 73 45 96 80,0
+are you like that ?,66 24 96 15 80,0
+how was he love ?,110 14 16 194 80,0
+they are not like that,45 66 21 96 15,-1
+is i enjoy it ?,34 5552 1784 17 80,0
+how is he love ?,110 34 16 194 80,0
+they was not love this,45 14 21 194 49,-1
+how is he love ?,110 34 16 194 80,0
+he does not like that,16 312 21 96 15,-1
+she enjoy it,27 1784 17,1
+they love it,45 194 17,1
+how do they like ?,110 81 45 96 80,0
+i enjoy this,5552 1784 49,1
+are we enjoy it ?,66 70 1784 17 80,0
+he were not enjoy this,16 48 21 1784 49,-1
+they were not enjoy that,45 48 21 1784 15,-1
+i love that,5552 194 15,1
+are we enjoy this ?,66 70 1784 49 80,0
+were i love that ?,48 5552 194 15 80,0
+what do we enjoy ?,55 81 70 1784 80,0
+why is she love ?,305 34 27 194 80,0
+what was she enjoy ?,55 14 27 1784 80,0
+they enjoy this,45 1784 49,1
+what is we enjoy ?,55 34 70 1784 80,0
+how are we love ?,110 66 70 194 80,0
+i were not like it,5552 48 21 96 17,-1
+he like that,16 96 15,1
+were we love that ?,48 70 194 15 80,0
+are he like it ?,66 16 96 17 80,0
+she does not enjoy this,27 312 21 1784 49,-1
+how do i love ?,110 81 5552 194 80,0
+we were not like it,70 48 21 96 17,-1
+what was we love ?,55 14 70 194 80,0
+we do not like it,70 81 21 96 17,-1
+were we enjoy that ?,48 70 1784 15 80,0
+does we enjoy that ?,312 70 1784 15 80,0
+did she enjoy that ?,73 27 1784 15 80,0
+was you enjoy it ?,14 24 1784 17 80,0
+was we love that ?,14 70 194 15 80,0
+does i like this ?,312 5552 96 49 80,0
+were we enjoy that ?,48 70 1784 15 80,0
+they love that,45 194 15,1
+how does you like ?,110 312 24 96 80,0
+is you enjoy it ?,34 24 1784 17 80,0
+we is not love that,70 34 21 194 15,-1
+how were you love ?,110 48 24 194 80,0
+she enjoy that,27 1784 15,1
+did we enjoy this ?,73 70 1784 49 80,0
+are you love it ?,66 24 194 17 80,0
+why does i love ?,305 312 5552 194 80,0
+were you love that ?,48 24 194 15 80,0
+why did i love ?,305 73 5552 194 80,0
+does he love it ?,312 16 194 17 80,0
+how did they enjoy ?,110 73 45 1784 80,0
+did you like it ?,73 24 96 17 80,0
+what was i like ?,55 14 5552 96 80,0
+they is not like it,45 34 21 96 17,-1
+is i enjoy that ?,34 5552 1784 15 80,0
+how does i love ?,110 312 5552 194 80,0
+i love it,5552 194 17,1
+were they enjoy that ?,48 45 1784 15 80,0
+they like that,45 96 15,1
+what is he love ?,55 34 16 194 80,0
+are she like that ?,66 27 96 15 80,0
+i love it,5552 194 17,1
+does he enjoy this ?,312 16 1784 49 80,0
+we was not enjoy it,70 14 21 1784 17,-1
+she enjoy that,27 1784 15,1
+she love this,27 194 49,1
+are i like it ?,66 5552 96 17 80,0
+she were not like that,27 48 21 96 15,-1
+we does not like this,70 312 21 96 49,-1
+what is you enjoy ?,55 34 24 1784 80,0
+how was i like ?,110 14 5552 96 80,0
+she did not like it,27 73 21 96 17,-1
+did he enjoy this ?,73 16 1784 49 80,0
+does she like that ?,312 27 96 15 80,0
+how is i enjoy ?,110 34 5552 1784 80,0
+why are they like ?,305 66 45 96 80,0
+you are not love this,24 66 21 194 49,-1
+they were not enjoy that,45 48 21 1784 15,-1
+why is he like ?,305 34 16 96 80,0
+what does he love ?,55 312 16 194 80,0
+they like this,45 96 49,1
+why do he like ?,305 81 16 96 80,0
+she love that,27 194 15,1
+is she love this ?,34 27 194 49 80,0
+why were they like ?,305 48 45 96 80,0
+why did they love ?,305 73 45 194 80,0
+i like this,5552 96 49,1
+he love it,16 194 17,1
+she are not love that,27 66 21 194 15,-1
+he do not love it,16 81 21 194 17,-1
+what was we like ?,55 14 70 96 80,0
+are they enjoy it ?,66 45 1784 17 80,0
+you enjoy this,24 1784 49,1
+how is we love ?,110 34 70 194 80,0
+they is not enjoy this,45 34 21 1784 49,-1
+do they love this ?,81 45 194 49 80,0
+he like this,16 96 49,1
+does she enjoy this ?,312 27 1784 49 80,0
+you enjoy that,24 1784 15,1
+why does i love ?,305 312 5552 194 80,0
+how were she like ?,110 48 27 96 80,0
+i love it,5552 194 17,1
+they love this,45 194 49,1
+was they love this ?,14 45 194 49 80,0
+what did we like ?,55 73 70 96 80,0
+how is she enjoy ?,110 34 27 1784 80,0
+i love it,5552 194 17,1
+he are not like this,16 66 21 96 49,-1
+you love it,24 194 17,1
+how were i love ?,110 48 5552 194 80,0
+you do not like it,24 81 21 96 17,-1
+he was not like that,16 14 21 96 15,-1
+how were he enjoy ?,110 48 16 1784 80,0
+why were she enjoy ?,305 48 27 1784 80,0
+does we love that ?,312 70 194 15 80,0
+he like that,16 96 15,1
+why does they enjoy ?,305 312 45 1784 80,0
+he was not like it,16 14 21 96 17,-1
+was they enjoy this ?,14 45 1784 49 80,0
+were i like it ?,48 5552 96 17 80,0
+he was not like that,16 14 21 96 15,-1
+i is not like that,5552 34 21 96 15,-1
+they does not love it,45 312 21 194 17,-1
+how did they enjoy ?,110 73 45 1784 80,0
+were we enjoy it ?,48 70 1784 17 80,0
+they did not like this,45 73 21 96 49,-1
+she enjoy it,27 1784 17,1
+does she love it ?,312 27 194 17 80,0
+how does she love ?,110 312 27 194 80,0
+was she love that ?,14 27 194 15 80,0
+why does we enjoy ?,305 312 70 1784 80,0
+why are we like ?,305 66 70 96 80,0
+i are not enjoy that,5552 66 21 1784 15,-1
+he does not love that,16 312 21 194 15,-1
+she like that,27 96 15,1
+we enjoy this,70 1784 49,1
+why was he enjoy ?,305 14 16 1784 80,0
+i was not love it,5552 14 21 194 17,-1
+we do not enjoy it,70 81 21 1784 17,-1
+how is they like ?,110 34 45 96 80,0
+you like that,24 96 15,1
+are we like this ?,66 70 96 49 80,0
+she were not love this,27 48 21 194 49,-1
+do she love this ?,81 27 194 49 80,0
+are you enjoy it ?,66 24 1784 17 80,0
+i do not love this,5552 81 21 194 49,-1
+did she like it ?,73 27 96 17 80,0
+are she like it ?,66 27 96 17 80,0
+was he like that ?,14 16 96 15 80,0
+she love that,27 194 15,1
+we enjoy that,70 1784 15,1
+we are not love that,70 66 21 194 15,-1
+why were you love ?,305 48 24 194 80,0
+he are not like this,16 66 21 96 49,-1
+why did we like ?,305 73 70 96 80,0
+they is not love this,45 34 21 194 49,-1
+what are they enjoy ?,55 66 45 1784 80,0
+are they love that ?,66 45 194 15 80,0
+we does not like that,70 312 21 96 15,-1
+you enjoy this,24 1784 49,1
+how did he love ?,110 73 16 194 80,0
+they was not love it,45 14 21 194 17,-1
+why does he like ?,305 312 16 96 80,0
+you are not enjoy that,24 66 21 1784 15,-1
+they was not enjoy this,45 14 21 1784 49,-1
+you enjoy this,24 1784 49,1
+she enjoy that,27 1784 15,1
+did you like that ?,73 24 96 15 80,0
+did we love this ?,73 70 194 49 80,0
+he enjoy that,16 1784 15,1
+he are not love it,16 66 21 194 17,-1
+does we like this ?,312 70 96 49 80,0
+what does she like ?,55 312 27 96 80,0
+we was not like it,70 14 21 96 17,-1
+they love it,45 194 17,1
+why was you like ?,305 14 24 96 80,0
+how do we enjoy ?,110 81 70 1784 80,0
+what was you enjoy ?,55 14 24 1784 80,0
+you like this,24 96 49,1
+was they enjoy that ?,14 45 1784 15 80,0
+why are i love ?,305 66 5552 194 80,0
+she was not like this,27 14 21 96 49,-1
+she did not like this,27 73 21 96 49,-1
+i were not love it,5552 48 21 194 17,-1
+were he love that ?,48 16 194 15 80,0
+how were you love ?,110 48 24 194 80,0
+were she enjoy it ?,48 27 1784 17 80,0
+does we enjoy that ?,312 70 1784 15 80,0
+i does not love it,5552 312 21 194 17,-1
+is i enjoy it ?,34 5552 1784 17 80,0
+we enjoy this,70 1784 49,1
+did i like this ?,73 5552 96 49 80,0
+you were not enjoy this,24 48 21 1784 49,-1
+you were not love that,24 48 21 194 15,-1
+how are she like ?,110 66 27 96 80,0
+do they like that ?,81 45 96 15 80,0
+was they enjoy that ?,14 45 1784 15 80,0
+they do not love that,45 81 21 194 15,-1
+was he enjoy it ?,14 16 1784 17 80,0
+you enjoy it,24 1784 17,1
+how do i like ?,110 81 5552 96 80,0
+he were not like this,16 48 21 96 49,-1
+how were i enjoy ?,110 48 5552 1784 80,0
+she were not love this,27 48 21 194 49,-1
+she love that,27 194 15,1
+how does you enjoy ?,110 312 24 1784 80,0
+is we love this ?,34 70 194 49 80,0
+why are she enjoy ?,305 66 27 1784 80,0
+did she love this ?,73 27 194 49 80,0
+we do not like it,70 81 21 96 17,-1
+she are not love it,27 66 21 194 17,-1
+why does he love ?,305 312 16 194 80,0
+we enjoy it,70 1784 17,1
+are she enjoy this ?,66 27 1784 49 80,0
+were he like it ?,48 16 96 17 80,0
+how is she love ?,110 34 27 194 80,0
+they was not love it,45 14 21 194 17,-1
+is you enjoy that ?,34 24 1784 15 80,0
+did i enjoy it ?,73 5552 1784 17 80,0
+you does not like this,24 312 21 96 49,-1
+why is she like ?,305 34 27 96 80,0
+how were we enjoy ?,110 48 70 1784 80,0
+they like this,45 96 49,1
+was he like it ?,14 16 96 17 80,0
+what did i love ?,55 73 5552 194 80,0
+he do not like it,16 81 21 96 17,-1
+she like that,27 96 15,1
+does he like this ?,312 16 96 49 80,0
+i enjoy this,5552 1784 49,1
+what was we love ?,55 14 70 194 80,0
+you love it,24 194 17,1
+i were not love it,5552 48 21 194 17,-1
+i was not like it,5552 14 21 96 17,-1
+was we like it ?,14 70 96 17 80,0
+were she enjoy that ?,48 27 1784 15 80,0
+he did not love this,16 73 21 194 49,-1
+she like that,27 96 15,1
+why do she love ?,305 81 27 194 80,0
+we like that,70 96 15,1
+why were he love ?,305 48 16 194 80,0
+we enjoy it,70 1784 17,1
+we enjoy that,70 1784 15,1
+how does he enjoy ?,110 312 16 1784 80,0
+did he enjoy this ?,73 16 1784 49 80,0
+did she love this ?,73 27 194 49 80,0
+she like that,27 96 15,1
+you enjoy this,24 1784 49,1
+we did not enjoy it,70 73 21 1784 17,-1
+are they love it ?,66 45 194 17 80,0
+we did not like this,70 73 21 96 49,-1
+did he love that ?,73 16 194 15 80,0
+what do he love ?,55 81 16 194 80,0
+i does not love it,5552 312 21 194 17,-1
+they enjoy that,45 1784 15,1
+they like this,45 96 49,1
+we love this,70 194 49,1
+does she like this ?,312 27 96 49 80,0
+they love it,45 194 17,1
+i love that,5552 194 15,1
+she like it,27 96 17,1
+is he enjoy that ?,34 16 1784 15 80,0
+how was i love ?,110 14 5552 194 80,0
+they enjoy that,45 1784 15,1
+i is not like this,5552 34 21 96 49,-1
+what did you love ?,55 73 24 194 80,0
+why are you love ?,305 66 24 194 80,0
+she is not like that,27 34 21 96 15,-1
+why do they love ?,305 81 45 194 80,0
+do you like that ?,81 24 96 15 80,0
+what is they like ?,55 34 45 96 80,0
+they is not like that,45 34 21 96 15,-1
+you love it,24 194 17,1
+how were i love ?,110 48 5552 194 80,0
+we like this,70 96 49,1
+how is they enjoy ?,110 34 45 1784 80,0
+why is they love ?,305 34 45 194 80,0
+did he enjoy this ?,73 16 1784 49 80,0
+are he like that ?,66 16 96 15 80,0
+they like this,45 96 49,1
+they enjoy this,45 1784 49,1
+they were not love it,45 48 21 194 17,-1
+why do she enjoy ?,305 81 27 1784 80,0
+how were they love ?,110 48 45 194 80,0
+i are not like this,5552 66 21 96 49,-1
+i love it,5552 194 17,1
+what does she like ?,55 312 27 96 80,0
+he is not like that,16 34 21 96 15,-1
+he is not like this,16 34 21 96 49,-1
+does they love that ?,312 45 194 15 80,0
+do you like that ?,81 24 96 15 80,0
+she were not love this,27 48 21 194 49,-1
+what were they enjoy ?,55 48 45 1784 80,0
+i does not like it,5552 312 21 96 17,-1
+we enjoy it,70 1784 17,1
+do you enjoy that ?,81 24 1784 15 80,0
+what was she like ?,55 14 27 96 80,0
+you love that,24 194 15,1
+what do he love ?,55 81 16 194 80,0
+she like this,27 96 49,1
+were he love it ?,48 16 194 17 80,0
+we does not like this,70 312 21 96 49,-1
+does they enjoy this ?,312 45 1784 49 80,0
+does you love it ?,312 24 194 17 80,0
+he is not like that,16 34 21 96 15,-1
+do they like that ?,81 45 96 15 80,0
+did she enjoy that ?,73 27 1784 15 80,0
+why did they enjoy ?,305 73 45 1784 80,0
+they enjoy it,45 1784 17,1
+were you like it ?,48 24 96 17 80,0
+they were not enjoy this,45 48 21 1784 49,-1
+what are she love ?,55 66 27 194 80,0
+why was they like ?,305 14 45 96 80,0
+what were he love ?,55 48 16 194 80,0
+i enjoy that,5552 1784 15,1
+she enjoy that,27 1784 15,1
+i love it,5552 194 17,1
+we enjoy it,70 1784 17,1
+were you enjoy that ?,48 24 1784 15 80,0
+i did not enjoy it,5552 73 21 1784 17,-1
+they are not love this,45 66 21 194 49,-1
+i like that,5552 96 15,1
+was you like it ?,14 24 96 17 80,0
+was she enjoy this ?,14 27 1784 49 80,0
+was he enjoy this ?,14 16 1784 49 80,0
+he enjoy that,16 1784 15,1
+she love that,27 194 15,1
+they enjoy it,45 1784 17,1
+they enjoy this,45 1784 49,1
+we does not love this,70 312 21 194 49,-1
+what did they enjoy ?,55 73 45 1784 80,0
+do they enjoy that ?,81 45 1784 15 80,0
+was i enjoy this ?,14 5552 1784 49 80,0
+are he love it ?,66 16 194 17 80,0
+we do not enjoy this,70 81 21 1784 49,-1
+how were she enjoy ?,110 48 27 1784 80,0
+did they like it ?,73 45 96 17 80,0
+she was not like this,27 14 21 96 49,-1
+were she love it ?,48 27 194 17 80,0
+they are not enjoy this,45 66 21 1784 49,-1
+was he love this ?,14 16 194 49 80,0
+why was she enjoy ?,305 14 27 1784 80,0
+were they like that ?,48 45 96 15 80,0
+she were not like this,27 48 21 96 49,-1
+does she love that ?,312 27 194 15 80,0
+what was they enjoy ?,55 14 45 1784 80,0
+he are not love it,16 66 21 194 17,-1
+did you like it ?,73 24 96 17 80,0
+what is he love ?,55 34 16 194 80,0
+they does not love it,45 312 21 194 17,-1
+she like that,27 96 15,1
+you did not like this,24 73 21 96 49,-1
+he like it,16 96 17,1
+why did he enjoy ?,305 73 16 1784 80,0
+did he love it ?,73 16 194 17 80,0
+she love it,27 194 17,1
+we are not love this,70 66 21 194 49,-1
+he were not love it,16 48 21 194 17,-1
+does she enjoy it ?,312 27 1784 17 80,0
+you like this,24 96 49,1
+why is he like ?,305 34 16 96 80,0
+i is not love it,5552 34 21 194 17,-1
+i like that,5552 96 15,1
+is he enjoy it ?,34 16 1784 17 80,0
+you is not enjoy it,24 34 21 1784 17,-1
+did i love that ?,73 5552 194 15 80,0
+he like this,16 96 49,1
+what was he love ?,55 14 16 194 80,0
+does we enjoy that ?,312 70 1784 15 80,0
+we was not like it,70 14 21 96 17,-1
+i was not enjoy this,5552 14 21 1784 49,-1
+why is he enjoy ?,305 34 16 1784 80,0
+is we like this ?,34 70 96 49 80,0
+he like this,16 96 49,1
+she love that,27 194 15,1
+we does not enjoy it,70 312 21 1784 17,-1
+what is we love ?,55 34 70 194 80,0
+she is not like this,27 34 21 96 49,-1
+he enjoy it,16 1784 17,1
+we are not enjoy it,70 66 21 1784 17,-1
+you do not like that,24 81 21 96 15,-1
+he enjoy that,16 1784 15,1
+do you like this ?,81 24 96 49 80,0
+how did we love ?,110 73 70 194 80,0
+why did he love ?,305 73 16 194 80,0
+they love this,45 194 49,1
+you does not love this,24 312 21 194 49,-1
+were i enjoy this ?,48 5552 1784 49 80,0
+are he enjoy that ?,66 16 1784 15 80,0
+did i enjoy it ?,73 5552 1784 17 80,0
+they does not love this,45 312 21 194 49,-1
+how are they love ?,110 66 45 194 80,0
+were i like it ?,48 5552 96 17 80,0
+do you enjoy that ?,81 24 1784 15 80,0
+he like this,16 96 49,1
+why are i enjoy ?,305 66 5552 1784 80,0
+they love it,45 194 17,1
+she like that,27 96 15,1
+do we love that ?,81 70 194 15 80,0
+we enjoy that,70 1784 15,1
+you like this,24 96 49,1
+do you like this ?,81 24 96 49 80,0
+i love that,5552 194 15,1
+are i enjoy this ?,66 5552 1784 49 80,0
+she enjoy this,27 1784 49,1
+what do i enjoy ?,55 81 5552 1784 80,0
+he is not love this,16 34 21 194 49,-1
+we like it,70 96 17,1
+did they like this ?,73 45 96 49 80,0
+what is they enjoy ?,55 34 45 1784 80,0
+what did you love ?,55 73 24 194 80,0
+was she enjoy this ?,14 27 1784 49 80,0
+what are she enjoy ?,55 66 27 1784 80,0
+was they enjoy that ?,14 45 1784 15 80,0
+why are we love ?,305 66 70 194 80,0
+you like that,24 96 15,1
+why did i like ?,305 73 5552 96 80,0
+i are not enjoy this,5552 66 21 1784 49,-1
+how do they like ?,110 81 45 96 80,0
+why does you enjoy ?,305 312 24 1784 80,0
+he is not love that,16 34 21 194 15,-1
+you do not love it,24 81 21 194 17,-1
+you are not enjoy it,24 66 21 1784 17,-1
+i were not love it,5552 48 21 194 17,-1
+she like this,27 96 49,1
+is she like that ?,34 27 96 15 80,0
+were we like this ?,48 70 96 49 80,0
+why do she like ?,305 81 27 96 80,0
+do they enjoy it ?,81 45 1784 17 80,0
+why is you enjoy ?,305 34 24 1784 80,0
+we love that,70 194 15,1
+she are not enjoy that,27 66 21 1784 15,-1
+does i like this ?,312 5552 96 49 80,0
+why does he love ?,305 312 16 194 80,0
+they like this,45 96 49,1
+she was not love that,27 14 21 194 15,-1
+was you love this ?,14 24 194 49 80,0
+he enjoy it,16 1784 17,1
+you enjoy that,24 1784 15,1
+they love that,45 194 15,1
+he were not enjoy this,16 48 21 1784 49,-1
+they did not love this,45 73 21 194 49,-1
+we was not love this,70 14 21 194 49,-1
+she was not like it,27 14 21 96 17,-1
+we do not like this,70 81 21 96 49,-1
+do you like this ?,81 24 96 49 80,0
+we does not enjoy that,70 312 21 1784 15,-1
+how does he love ?,110 312 16 194 80,0
+you do not enjoy that,24 81 21 1784 15,-1
+are he like that ?,66 16 96 15 80,0
+why did they love ?,305 73 45 194 80,0
+why do he enjoy ?,305 81 16 1784 80,0
+they enjoy that,45 1784 15,1
+you enjoy it,24 1784 17,1
+why do they love ?,305 81 45 194 80,0
+was we enjoy this ?,14 70 1784 49 80,0
+you love it,24 194 17,1
+does she enjoy this ?,312 27 1784 49 80,0
+i was not enjoy this,5552 14 21 1784 49,-1
+you like it,24 96 17,1
+how did she like ?,110 73 27 96 80,0
+what are he love ?,55 66 16 194 80,0
+what were they love ?,55 48 45 194 80,0
+why do he like ?,305 81 16 96 80,0
+we like this,70 96 49,1
+they is not love that,45 34 21 194 15,-1
+how does she love ?,110 312 27 194 80,0
+they love this,45 194 49,1
+you like this,24 96 49,1
+is they love it ?,34 45 194 17 80,0
+we is not enjoy this,70 34 21 1784 49,-1
+he do not love this,16 81 21 194 49,-1
+we like it,70 96 17,1
+i does not love that,5552 312 21 194 15,-1
+what is they love ?,55 34 45 194 80,0
+why is she love ?,305 34 27 194 80,0
+she enjoy this,27 1784 49,1
+you enjoy it,24 1784 17,1
+she like this,27 96 49,1
+do they love it ?,81 45 194 17 80,0
+he like this,16 96 49,1
+you does not like it,24 312 21 96 17,-1
+were they like that ?,48 45 96 15 80,0
+i were not love that,5552 48 21 194 15,-1
+i are not love it,5552 66 21 194 17,-1
+he does not enjoy that,16 312 21 1784 15,-1
+what do we love ?,55 81 70 194 80,0
+i enjoy that,5552 1784 15,1
+i like that,5552 96 15,1
+you are not enjoy it,24 66 21 1784 17,-1
+did we love it ?,73 70 194 17 80,0
+why did we like ?,305 73 70 96 80,0
+do i like this ?,81 5552 96 49 80,0
+we love this,70 194 49,1
+you enjoy that,24 1784 15,1
+she was not love this,27 14 21 194 49,-1
+we was not enjoy this,70 14 21 1784 49,-1
+they enjoy it,45 1784 17,1
+does she like that ?,312 27 96 15 80,0
+what were she enjoy ?,55 48 27 1784 80,0
+he does not love it,16 312 21 194 17,-1
+she enjoy that,27 1784 15,1
+do we like this ?,81 70 96 49 80,0
+were you enjoy this ?,48 24 1784 49 80,0
+she is not love this,27 34 21 194 49,-1
+they were not enjoy it,45 48 21 1784 17,-1
+why do we enjoy ?,305 81 70 1784 80,0
+how were they love ?,110 48 45 194 80,0
+we did not love that,70 73 21 194 15,-1
+she are not enjoy this,27 66 21 1784 49,-1
+he like that,16 96 15,1
+they were not like this,45 48 21 96 49,-1
+did he enjoy that ?,73 16 1784 15 80,0
+he like this,16 96 49,1
+we was not enjoy it,70 14 21 1784 17,-1
+you were not love this,24 48 21 194 49,-1
+does we love this ?,312 70 194 49 80,0
+he love this,16 194 49,1
+were we like that ?,48 70 96 15 80,0
+he do not enjoy this,16 81 21 1784 49,-1
+you like that,24 96 15,1
+does you enjoy this ?,312 24 1784 49 80,0
+they do not like it,45 81 21 96 17,-1
+do i love this ?,81 5552 194 49 80,0
+i enjoy that,5552 1784 15,1
+were they like that ?,48 45 96 15 80,0
+what did i enjoy ?,55 73 5552 1784 80,0
+why was they love ?,305 14 45 194 80,0
+i are not love this,5552 66 21 194 49,-1
+do he love it ?,81 16 194 17 80,0
+why were they enjoy ?,305 48 45 1784 80,0
+how were she like ?,110 48 27 96 80,0
+how is you like ?,110 34 24 96 80,0
+are they love this ?,66 45 194 49 80,0
+they were not like this,45 48 21 96 49,-1
+they was not like this,45 14 21 96 49,-1
+we love it,70 194 17,1
+he was not like that,16 14 21 96 15,-1
+what is we enjoy ?,55 34 70 1784 80,0
+we enjoy it,70 1784 17,1
+you enjoy this,24 1784 49,1
+he love that,16 194 15,1
+did she enjoy it ?,73 27 1784 17 80,0
+we was not love that,70 14 21 194 15,-1
+he enjoy it,16 1784 17,1
+did he like that ?,73 16 96 15 80,0
+was you love that ?,14 24 194 15 80,0
+they were not like it,45 48 21 96 17,-1
+why do i like ?,305 81 5552 96 80,0
+do they enjoy that ?,81 45 1784 15 80,0
+we were not like this,70 48 21 96 49,-1
+you do not enjoy that,24 81 21 1784 15,-1
+we enjoy that,70 1784 15,1
+did i enjoy that ?,73 5552 1784 15 80,0
+he were not like it,16 48 21 96 17,-1
+she do not like that,27 81 21 96 15,-1
+they is not enjoy that,45 34 21 1784 15,-1
+do you enjoy that ?,81 24 1784 15 80,0
+i enjoy that,5552 1784 15,1
+does you love this ?,312 24 194 49 80,0
+we did not like this,70 73 21 96 49,-1
+he do not enjoy that,16 81 21 1784 15,-1
+how did i enjoy ?,110 73 5552 1784 80,0
+she love this,27 194 49,1
+does he enjoy this ?,312 16 1784 49 80,0
+he like this,16 96 49,1
+you does not enjoy it,24 312 21 1784 17,-1
+she was not enjoy this,27 14 21 1784 49,-1
+he is not enjoy it,16 34 21 1784 17,-1
+she love it,27 194 17,1
+were i enjoy this ?,48 5552 1784 49 80,0
+we were not enjoy that,70 48 21 1784 15,-1
+she are not enjoy this,27 66 21 1784 49,-1
+he was not like this,16 14 21 96 49,-1
+i enjoy it,5552 1784 17,1
+is they love this ?,34 45 194 49 80,0
+she enjoy that,27 1784 15,1
+we does not enjoy this,70 312 21 1784 49,-1
+were she love it ?,48 27 194 17 80,0
+he like it,16 96 17,1
+why did she like ?,305 73 27 96 80,0
+is i love it ?,34 5552 194 17 80,0
+how do he love ?,110 81 16 194 80,0
+are you like this ?,66 24 96 49 80,0
+you is not love this,24 34 21 194 49,-1
+why were i love ?,305 48 5552 194 80,0
+what do she like ?,55 81 27 96 80,0
+was i like it ?,14 5552 96 17 80,0
+what do she enjoy ?,55 81 27 1784 80,0
+he is not like it,16 34 21 96 17,-1
+what are i love ?,55 66 5552 194 80,0
+we do not love that,70 81 21 194 15,-1
+is he love this ?,34 16 194 49 80,0
+does you enjoy this ?,312 24 1784 49 80,0
+why was he like ?,305 14 16 96 80,0
+how are he like ?,110 66 16 96 80,0
+why were you love ?,305 48 24 194 80,0
+how are he enjoy ?,110 66 16 1784 80,0
+i are not love this,5552 66 21 194 49,-1
+does we love that ?,312 70 194 15 80,0
+does they enjoy that ?,312 45 1784 15 80,0
+did he enjoy it ?,73 16 1784 17 80,0
+were she like this ?,48 27 96 49 80,0
+did we love this ?,73 70 194 49 80,0
+how did she enjoy ?,110 73 27 1784 80,0
+they was not love that,45 14 21 194 15,-1
+we like this,70 96 49,1
+i enjoy it,5552 1784 17,1
+how are you like ?,110 66 24 96 80,0
+we enjoy that,70 1784 15,1
+i like that,5552 96 15,1
+does we love that ?,312 70 194 15 80,0
+are he love this ?,66 16 194 49 80,0
+how are you enjoy ?,110 66 24 1784 80,0
+we was not love that,70 14 21 194 15,-1
+did he love it ?,73 16 194 17 80,0
+they enjoy this,45 1784 49,1
+why is she love ?,305 34 27 194 80,0
+are i enjoy that ?,66 5552 1784 15 80,0
+what does they like ?,55 312 45 96 80,0
+you did not like that,24 73 21 96 15,-1
+she like that,27 96 15,1
+how does they like ?,110 312 45 96 80,0
+they like this,45 96 49,1
+we love this,70 194 49,1
+why was she enjoy ?,305 14 27 1784 80,0
+does they enjoy that ?,312 45 1784 15 80,0
+he did not love this,16 73 21 194 49,-1
+he enjoy this,16 1784 49,1
+do you like that ?,81 24 96 15 80,0
+what was he enjoy ?,55 14 16 1784 80,0
+did we enjoy that ?,73 70 1784 15 80,0
+i enjoy this,5552 1784 49,1
+are i like it ?,66 5552 96 17 80,0
+why are she love ?,305 66 27 194 80,0
+you are not enjoy this,24 66 21 1784 49,-1
+was he like this ?,14 16 96 49 80,0
+i does not enjoy that,5552 312 21 1784 15,-1
+was i love it ?,14 5552 194 17 80,0
+she love this,27 194 49,1
+was i like this ?,14 5552 96 49 80,0
+i did not love that,5552 73 21 194 15,-1
+he enjoy that,16 1784 15,1
+he like it,16 96 17,1
+what is they like ?,55 34 45 96 80,0
+is you like it ?,34 24 96 17 80,0
+you like that,24 96 15,1
+is we love that ?,34 70 194 15 80,0
+did i enjoy it ?,73 5552 1784 17 80,0
+how do you enjoy ?,110 81 24 1784 80,0
+why were he like ?,305 48 16 96 80,0
+she does not like it,27 312 21 96 17,-1
+you are not love that,24 66 21 194 15,-1
+are i like this ?,66 5552 96 49 80,0
+does he enjoy this ?,312 16 1784 49 80,0
+she does not like this,27 312 21 96 49,-1
+does she like it ?,312 27 96 17 80,0
+they love this,45 194 49,1
+is he enjoy this ?,34 16 1784 49 80,0
+how are i enjoy ?,110 66 5552 1784 80,0
+i does not like it,5552 312 21 96 17,-1
+why did we love ?,305 73 70 194 80,0
+we are not enjoy that,70 66 21 1784 15,-1
+was i love it ?,14 5552 194 17 80,0
+i like that,5552 96 15,1
+does they like this ?,312 45 96 49 80,0
+how was they love ?,110 14 45 194 80,0
+he like it,16 96 17,1
+he enjoy that,16 1784 15,1
+why were i enjoy ?,305 48 5552 1784 80,0
+were you love this ?,48 24 194 49 80,0
+they love this,45 194 49,1
+does you enjoy that ?,312 24 1784 15 80,0
+they love it,45 194 17,1
+why is they like ?,305 34 45 96 80,0
+how does he like ?,110 312 16 96 80,0
+i is not enjoy that,5552 34 21 1784 15,-1
+i do not like it,5552 81 21 96 17,-1
+they like this,45 96 49,1
+does i enjoy this ?,312 5552 1784 49 80,0
+what did we enjoy ?,55 73 70 1784 80,0
+they did not love this,45 73 21 194 49,-1
+they like this,45 96 49,1
+why did she love ?,305 73 27 194 80,0
+does you like it ?,312 24 96 17 80,0
+you love it,24 194 17,1
+were we like that ?,48 70 96 15 80,0
+why does she love ?,305 312 27 194 80,0
+are you love this ?,66 24 194 49 80,0
+did you like this ?,73 24 96 49 80,0
+they like this,45 96 49,1
+are we like that ?,66 70 96 15 80,0
+they do not like this,45 81 21 96 49,-1
+why are you enjoy ?,305 66 24 1784 80,0
+he enjoy it,16 1784 17,1
+how does you love ?,110 312 24 194 80,0
+he enjoy this,16 1784 49,1
+i love it,5552 194 17,1
+why is i love ?,305 34 5552 194 80,0
+i love it,5552 194 17,1
+we like it,70 96 17,1
+you are not enjoy it,24 66 21 1784 17,-1
+are you love this ?,66 24 194 49 80,0
+was he like this ?,14 16 96 49 80,0
+how are you like ?,110 66 24 96 80,0
+are they enjoy this ?,66 45 1784 49 80,0
+were she enjoy this ?,48 27 1784 49 80,0
+we enjoy it,70 1784 17,1
+we enjoy this,70 1784 49,1
+she do not enjoy that,27 81 21 1784 15,-1
+they did not love this,45 73 21 194 49,-1
+does she love that ?,312 27 194 15 80,0
+you enjoy this,24 1784 49,1
+they enjoy that,45 1784 15,1
+was they enjoy that ?,14 45 1784 15 80,0
+what did we love ?,55 73 70 194 80,0
+how is they enjoy ?,110 34 45 1784 80,0
+we are not enjoy this,70 66 21 1784 49,-1
+is i enjoy that ?,34 5552 1784 15 80,0
+how was they love ?,110 14 45 194 80,0
+why does they love ?,305 312 45 194 80,0
+were they love this ?,48 45 194 49 80,0
+does i like this ?,312 5552 96 49 80,0
+do he enjoy that ?,81 16 1784 15 80,0
+was she love this ?,14 27 194 49 80,0
+i is not enjoy that,5552 34 21 1784 15,-1
+why does i like ?,305 312 5552 96 80,0
+why do you enjoy ?,305 81 24 1784 80,0
+why are she enjoy ?,305 66 27 1784 80,0
+he were not like it,16 48 21 96 17,-1
+they are not love this,45 66 21 194 49,-1
+they did not enjoy that,45 73 21 1784 15,-1
+why does you love ?,305 312 24 194 80,0
+how is she like ?,110 34 27 96 80,0
+how are they enjoy ?,110 66 45 1784 80,0
+i enjoy it,5552 1784 17,1
+why are he love ?,305 66 16 194 80,0
+you like it,24 96 17,1
+she did not like that,27 73 21 96 15,-1
+are you like this ?,66 24 96 49 80,0
+is i love that ?,34 5552 194 15 80,0
+she enjoy that,27 1784 15,1
+you does not love this,24 312 21 194 49,-1
+he enjoy it,16 1784 17,1
+she were not love it,27 48 21 194 17,-1
+you do not like this,24 81 21 96 49,-1
+how were you enjoy ?,110 48 24 1784 80,0
+you enjoy it,24 1784 17,1
+why is they enjoy ?,305 34 45 1784 80,0
+why do we enjoy ?,305 81 70 1784 80,0
+you was not enjoy that,24 14 21 1784 15,-1
+they was not love it,45 14 21 194 17,-1
+i was not love this,5552 14 21 194 49,-1
+i are not like it,5552 66 21 96 17,-1
+how are she love ?,110 66 27 194 80,0
+what were she like ?,55 48 27 96 80,0
+what did he like ?,55 73 16 96 80,0
+he is not like that,16 34 21 96 15,-1
+is we enjoy that ?,34 70 1784 15 80,0
+you does not like that,24 312 21 96 15,-1
+why was i enjoy ?,305 14 5552 1784 80,0
+we like this,70 96 49,1
+i do not love that,5552 81 21 194 15,-1
+why does i enjoy ?,305 312 5552 1784 80,0
+did she love that ?,73 27 194 15 80,0
+you do not like this,24 81 21 96 49,-1
+were we like that ?,48 70 96 15 80,0
+they did not like it,45 73 21 96 17,-1
+why does he enjoy ?,305 312 16 1784 80,0
+i love that,5552 194 15,1
+are i like that ?,66 5552 96 15 80,0
+how is he like ?,110 34 16 96 80,0
+is she like it ?,34 27 96 17 80,0
+does he love this ?,312 16 194 49 80,0
+she enjoy that,27 1784 15,1
+were he like that ?,48 16 96 15 80,0
+what was they enjoy ?,55 14 45 1784 80,0
+does they enjoy it ?,312 45 1784 17 80,0
+what is they enjoy ?,55 34 45 1784 80,0
+how does he love ?,110 312 16 194 80,0
+why is they like ?,305 34 45 96 80,0
+we were not love that,70 48 21 194 15,-1
+are i love this ?,66 5552 194 49 80,0
+you is not love it,24 34 21 194 17,-1
+do they love this ?,81 45 194 49 80,0
+why were she love ?,305 48 27 194 80,0
+does they love it ?,312 45 194 17 80,0
+they were not like it,45 48 21 96 17,-1
+was she like that ?,14 27 96 15 80,0
+is they enjoy that ?,34 45 1784 15 80,0
+you do not enjoy that,24 81 21 1784 15,-1
+you like this,24 96 49,1
+did we enjoy this ?,73 70 1784 49 80,0
+what does i love ?,55 312 5552 194 80,0
+why was we love ?,305 14 70 194 80,0
+how do she like ?,110 81 27 96 80,0
+i was not like it,5552 14 21 96 17,-1
+we like that,70 96 15,1
+i enjoy that,5552 1784 15,1
+did you enjoy that ?,73 24 1784 15 80,0
+she enjoy this,27 1784 49,1
+i was not enjoy that,5552 14 21 1784 15,-1
+we like this,70 96 49,1
+were i love that ?,48 5552 194 15 80,0
+how are he enjoy ?,110 66 16 1784 80,0
+you was not enjoy that,24 14 21 1784 15,-1
+why does we enjoy ?,305 312 70 1784 80,0
+she do not enjoy it,27 81 21 1784 17,-1
+what are i like ?,55 66 5552 96 80,0
+what was he like ?,55 14 16 96 80,0
+he did not like it,16 73 21 96 17,-1
+you enjoy that,24 1784 15,1
+are he enjoy that ?,66 16 1784 15 80,0
+we like this,70 96 49,1
+why do she love ?,305 81 27 194 80,0
+did you enjoy it ?,73 24 1784 17 80,0
+they does not like that,45 312 21 96 15,-1
+is we love that ?,34 70 194 15 80,0
+why does they like ?,305 312 45 96 80,0
+was he like that ?,14 16 96 15 80,0
+you love that,24 194 15,1
+how was we love ?,110 14 70 194 80,0
+how does he love ?,110 312 16 194 80,0
+he enjoy this,16 1784 49,1
+was you like this ?,14 24 96 49 80,0
+did we enjoy that ?,73 70 1784 15 80,0
+you like this,24 96 49,1
+you enjoy that,24 1784 15,1
+how are we love ?,110 66 70 194 80,0
+he enjoy that,16 1784 15,1
+we enjoy that,70 1784 15,1
+we like it,70 96 17,1
+i did not like this,5552 73 21 96 49,-1
+were you love this ?,48 24 194 49 80,0
+why is we love ?,305 34 70 194 80,0
+we enjoy that,70 1784 15,1
+what do we enjoy ?,55 81 70 1784 80,0
+were he enjoy that ?,48 16 1784 15 80,0
+did he enjoy this ?,73 16 1784 49 80,0
+what did you love ?,55 73 24 194 80,0
+we does not love this,70 312 21 194 49,-1
+what do they enjoy ?,55 81 45 1784 80,0
+he were not love that,16 48 21 194 15,-1
+he did not enjoy it,16 73 21 1784 17,-1
+was i like this ?,14 5552 96 49 80,0
+did you like that ?,73 24 96 15 80,0
+they like it,45 96 17,1
+they was not love this,45 14 21 194 49,-1
+we is not like this,70 34 21 96 49,-1
+she do not love that,27 81 21 194 15,-1
+does we enjoy it ?,312 70 1784 17 80,0
+we did not like it,70 73 21 96 17,-1
+does i enjoy that ?,312 5552 1784 15 80,0
+what does he love ?,55 312 16 194 80,0
+you like it,24 96 17,1
+does we like that ?,312 70 96 15 80,0
+i does not love it,5552 312 21 194 17,-1
+they enjoy this,45 1784 49,1
+you do not like that,24 81 21 96 15,-1
+we like this,70 96 49,1
+is they like it ?,34 45 96 17 80,0
+she did not like this,27 73 21 96 49,-1
+we enjoy this,70 1784 49,1
+was i love it ?,14 5552 194 17 80,0
+was she enjoy it ?,14 27 1784 17 80,0
+how does we enjoy ?,110 312 70 1784 80,0
+they did not love this,45 73 21 194 49,-1
+what were they enjoy ?,55 48 45 1784 80,0
+i are not enjoy that,5552 66 21 1784 15,-1
+he love it,16 194 17,1
+he were not love it,16 48 21 194 17,-1
+why does i love ?,305 312 5552 194 80,0
+does i like it ?,312 5552 96 17 80,0
+we do not love it,70 81 21 194 17,-1
+does they like it ?,312 45 96 17 80,0
+what did you love ?,55 73 24 194 80,0
+what were we like ?,55 48 70 96 80,0
+was he like that ?,14 16 96 15 80,0
+how does she love ?,110 312 27 194 80,0
+what does she love ?,55 312 27 194 80,0
+they like this,45 96 49,1
+is i like it ?,34 5552 96 17 80,0
+did you enjoy this ?,73 24 1784 49 80,0
+i enjoy it,5552 1784 17,1
+they was not enjoy that,45 14 21 1784 15,-1
+she like that,27 96 15,1
+how does you like ?,110 312 24 96 80,0
+she love this,27 194 49,1
+were she love that ?,48 27 194 15 80,0
+they like it,45 96 17,1
+why is we like ?,305 34 70 96 80,0
+did i like this ?,73 5552 96 49 80,0
+she is not enjoy this,27 34 21 1784 49,-1
+how are you love ?,110 66 24 194 80,0
+you like that,24 96 15,1
+how are i enjoy ?,110 66 5552 1784 80,0
+how are i enjoy ?,110 66 5552 1784 80,0
+i enjoy this,5552 1784 49,1
+was she like it ?,14 27 96 17 80,0
+how does he love ?,110 312 16 194 80,0
+was they like that ?,14 45 96 15 80,0
+they did not like that,45 73 21 96 15,-1
+what do we love ?,55 81 70 194 80,0
+we enjoy that,70 1784 15,1
+is he love it ?,34 16 194 17 80,0
+i enjoy this,5552 1784 49,1
+she love this,27 194 49,1
+are she like that ?,66 27 96 15 80,0
+were they love that ?,48 45 194 15 80,0
+i is not enjoy this,5552 34 21 1784 49,-1
+she did not enjoy this,27 73 21 1784 49,-1
+what does you love ?,55 312 24 194 80,0
+we was not like that,70 14 21 96 15,-1
+we did not like that,70 73 21 96 15,-1
+does you love that ?,312 24 194 15 80,0
+what do they love ?,55 81 45 194 80,0
+did i enjoy that ?,73 5552 1784 15 80,0
+he like it,16 96 17,1
+i like it,5552 96 17,1
+is they enjoy that ?,34 45 1784 15 80,0
+you enjoy it,24 1784 17,1
+does i like this ?,312 5552 96 49 80,0
+what did he enjoy ?,55 73 16 1784 80,0
+they were not enjoy this,45 48 21 1784 49,-1
+why were we love ?,305 48 70 194 80,0
+how are we like ?,110 66 70 96 80,0
+does he like this ?,312 16 96 49 80,0
+why do you enjoy ?,305 81 24 1784 80,0
+i is not love that,5552 34 21 194 15,-1
+he do not like that,16 81 21 96 15,-1
+i were not love this,5552 48 21 194 49,-1
+they love it,45 194 17,1
+did she enjoy this ?,73 27 1784 49 80,0
+are we like that ?,66 70 96 15 80,0
+was she like this ?,14 27 96 49 80,0
+he were not love that,16 48 21 194 15,-1
+why does we like ?,305 312 70 96 80,0
+is he love it ?,34 16 194 17 80,0
+how do he love ?,110 81 16 194 80,0
+did you like it ?,73 24 96 17 80,0
+she did not enjoy it,27 73 21 1784 17,-1
+i like that,5552 96 15,1
+she enjoy this,27 1784 49,1
+why were we enjoy ?,305 48 70 1784 80,0
+how do you love ?,110 81 24 194 80,0
+are she enjoy it ?,66 27 1784 17 80,0
+they enjoy that,45 1784 15,1
+i does not enjoy that,5552 312 21 1784 15,-1
+you like it,24 96 17,1
+they does not enjoy it,45 312 21 1784 17,-1
+i is not like that,5552 34 21 96 15,-1
+you are not like this,24 66 21 96 49,-1
+i love that,5552 194 15,1
+we like this,70 96 49,1
+why did he love ?,305 73 16 194 80,0
+is you love that ?,34 24 194 15 80,0
+how did you enjoy ?,110 73 24 1784 80,0
+we like this,70 96 49,1
+are they love that ?,66 45 194 15 80,0
+they did not love this,45 73 21 194 49,-1
+he enjoy it,16 1784 17,1
+he enjoy this,16 1784 49,1
+was he love that ?,14 16 194 15 80,0
+what are we like ?,55 66 70 96 80,0
+we like this,70 96 49,1
+i were not enjoy it,5552 48 21 1784 17,-1
+they were not love that,45 48 21 194 15,-1
+how are they love ?,110 66 45 194 80,0
+we do not love it,70 81 21 194 17,-1
+are we love this ?,66 70 194 49 80,0
+does i love that ?,312 5552 194 15 80,0
+he was not love this,16 14 21 194 49,-1
+you enjoy that,24 1784 15,1
+i were not love that,5552 48 21 194 15,-1
+they did not enjoy this,45 73 21 1784 49,-1
+were you love it ?,48 24 194 17 80,0
+do we love this ?,81 70 194 49 80,0
+we enjoy it,70 1784 17,1
+are i enjoy that ?,66 5552 1784 15 80,0
+they was not love that,45 14 21 194 15,-1
+he was not like that,16 14 21 96 15,-1
+what do they love ?,55 81 45 194 80,0
+they is not like this,45 34 21 96 49,-1
+how is i enjoy ?,110 34 5552 1784 80,0
+do i like it ?,81 5552 96 17 80,0
+why was they enjoy ?,305 14 45 1784 80,0
+why are we enjoy ?,305 66 70 1784 80,0
+we like that,70 96 15,1
+how did i like ?,110 73 5552 96 80,0
+what are we like ?,55 66 70 96 80,0
+you did not love this,24 73 21 194 49,-1
+we did not enjoy it,70 73 21 1784 17,-1
+i is not enjoy this,5552 34 21 1784 49,-1
+why was he like ?,305 14 16 96 80,0
+i does not like this,5552 312 21 96 49,-1
+she enjoy that,27 1784 15,1
+she were not love that,27 48 21 194 15,-1
+i like this,5552 96 49,1
+how was i like ?,110 14 5552 96 80,0
+they is not like it,45 34 21 96 17,-1
+is he love it ?,34 16 194 17 80,0
+i enjoy this,5552 1784 49,1
+you love this,24 194 49,1
+why is we love ?,305 34 70 194 80,0
+do i like that ?,81 5552 96 15 80,0
+she do not love it,27 81 21 194 17,-1
+they do not enjoy that,45 81 21 1784 15,-1
+does she like it ?,312 27 96 17 80,0
+he did not enjoy that,16 73 21 1784 15,-1
+why do he enjoy ?,305 81 16 1784 80,0
+were he like it ?,48 16 96 17 80,0
+did she like that ?,73 27 96 15 80,0
+you does not enjoy this,24 312 21 1784 49,-1
+i is not like that,5552 34 21 96 15,-1
+you enjoy it,24 1784 17,1
+you are not love that,24 66 21 194 15,-1
+we is not like that,70 34 21 96 15,-1
+i like it,5552 96 17,1
+i love it,5552 194 17,1
+do we like this ?,81 70 96 49 80,0
+is she enjoy this ?,34 27 1784 49 80,0
+you love that,24 194 15,1
+you did not enjoy that,24 73 21 1784 15,-1
+i are not love it,5552 66 21 194 17,-1
+was he like that ?,14 16 96 15 80,0
+they does not love this,45 312 21 194 49,-1
+he enjoy that,16 1784 15,1
+we love that,70 194 15,1
+they like that,45 96 15,1
+were he enjoy that ?,48 16 1784 15 80,0
+you do not like it,24 81 21 96 17,-1
+is we like it ?,34 70 96 17 80,0
+why were they like ?,305 48 45 96 80,0
+i did not love this,5552 73 21 194 49,-1
+were you love that ?,48 24 194 15 80,0
+we like that,70 96 15,1
+they were not love that,45 48 21 194 15,-1
+we love that,70 194 15,1
+how is she enjoy ?,110 34 27 1784 80,0
+how was they enjoy ?,110 14 45 1784 80,0
+does she love this ?,312 27 194 49 80,0
+how do we enjoy ?,110 81 70 1784 80,0
+what was he love ?,55 14 16 194 80,0
+what was you enjoy ?,55 14 24 1784 80,0
+why was she enjoy ?,305 14 27 1784 80,0
+we enjoy that,70 1784 15,1
+you enjoy it,24 1784 17,1
+they like it,45 96 17,1
+how are you love ?,110 66 24 194 80,0
+was you love that ?,14 24 194 15 80,0
+why does you like ?,305 312 24 96 80,0
+i were not enjoy this,5552 48 21 1784 49,-1
+what did he like ?,55 73 16 96 80,0
+are we love that ?,66 70 194 15 80,0
+he like that,16 96 15,1
+how does i love ?,110 312 5552 194 80,0
+you love that,24 194 15,1
+they were not like that,45 48 21 96 15,-1
+we enjoy it,70 1784 17,1
+did we enjoy that ?,73 70 1784 15 80,0
+how do they love ?,110 81 45 194 80,0
+you does not like this,24 312 21 96 49,-1
+you does not love it,24 312 21 194 17,-1
+she love this,27 194 49,1
+how were she enjoy ?,110 48 27 1784 80,0
+what were you like ?,55 48 24 96 80,0
+they like it,45 96 17,1
+we enjoy that,70 1784 15,1
+we was not like that,70 14 21 96 15,-1
+you is not love this,24 34 21 194 49,-1
+i like it,5552 96 17,1
+he love that,16 194 15,1
+was they love this ?,14 45 194 49 80,0
+she are not love it,27 66 21 194 17,-1
+she love it,27 194 17,1
+i like it,5552 96 17,1
+you enjoy this,24 1784 49,1
+how do you love ?,110 81 24 194 80,0
+you are not like it,24 66 21 96 17,-1
+they enjoy it,45 1784 17,1
+is he enjoy this ?,34 16 1784 49 80,0
+do we like it ?,81 70 96 17 80,0
+she does not enjoy it,27 312 21 1784 17,-1
+how are you enjoy ?,110 66 24 1784 80,0
+you like that,24 96 15,1
+are they enjoy this ?,66 45 1784 49 80,0
+we is not enjoy it,70 34 21 1784 17,-1
+he like it,16 96 17,1
+are she like this ?,66 27 96 49 80,0
+they enjoy this,45 1784 49,1
+we do not enjoy it,70 81 21 1784 17,-1
+you like this,24 96 49,1
+he like that,16 96 15,1
+do he enjoy that ?,81 16 1784 15 80,0
+i love that,5552 194 15,1
+they is not like this,45 34 21 96 49,-1
+he are not enjoy it,16 66 21 1784 17,-1
+why was she enjoy ?,305 14 27 1784 80,0
+they enjoy it,45 1784 17,1
+he like it,16 96 17,1
+why are he enjoy ?,305 66 16 1784 80,0
+does you enjoy that ?,312 24 1784 15 80,0
+i like this,5552 96 49,1
+how were i like ?,110 48 5552 96 80,0
+what is you like ?,55 34 24 96 80,0
+you enjoy it,24 1784 17,1
+how were you like ?,110 48 24 96 80,0
+he enjoy that,16 1784 15,1
+they enjoy that,45 1784 15,1
+we enjoy this,70 1784 49,1
+we love that,70 194 15,1
+how is we enjoy ?,110 34 70 1784 80,0
+you is not love that,24 34 21 194 15,-1
+she do not enjoy that,27 81 21 1784 15,-1
+we did not like that,70 73 21 96 15,-1
+i like that,5552 96 15,1
+you is not love that,24 34 21 194 15,-1
+is they love it ?,34 45 194 17 80,0
+he does not love that,16 312 21 194 15,-1
+does they enjoy that ?,312 45 1784 15 80,0
+he love this,16 194 49,1
+we like that,70 96 15,1
+they love this,45 194 49,1
+do they enjoy this ?,81 45 1784 49 80,0
+they were not love this,45 48 21 194 49,-1
+i do not love it,5552 81 21 194 17,-1
+do we love this ?,81 70 194 49 80,0
+why are she love ?,305 66 27 194 80,0
+she love that,27 194 15,1
+are they love that ?,66 45 194 15 80,0
+she does not enjoy it,27 312 21 1784 17,-1
+she enjoy it,27 1784 17,1
+are he love it ?,66 16 194 17 80,0
+we like it,70 96 17,1
+did he like this ?,73 16 96 49 80,0
+she did not enjoy it,27 73 21 1784 17,-1
+how was i like ?,110 14 5552 96 80,0
+how do he love ?,110 81 16 194 80,0
+do she enjoy this ?,81 27 1784 49 80,0
+they are not enjoy that,45 66 21 1784 15,-1
+he love that,16 194 15,1
+he was not love that,16 14 21 194 15,-1
+he do not like this,16 81 21 96 49,-1
+they love it,45 194 17,1
+we love it,70 194 17,1
+i was not like this,5552 14 21 96 49,-1
+she do not love that,27 81 21 194 15,-1
+i were not love this,5552 48 21 194 49,-1
+we does not enjoy that,70 312 21 1784 15,-1
+were we love it ?,48 70 194 17 80,0
+they love that,45 194 15,1
+why did he love ?,305 73 16 194 80,0
+i like this,5552 96 49,1
+did they enjoy it ?,73 45 1784 17 80,0
+were she love this ?,48 27 194 49 80,0
+we did not love that,70 73 21 194 15,-1
+she like this,27 96 49,1
+why is i enjoy ?,305 34 5552 1784 80,0
+how are i like ?,110 66 5552 96 80,0
+do i love that ?,81 5552 194 15 80,0
+how are i like ?,110 66 5552 96 80,0
+we like this,70 96 49,1
+are i enjoy that ?,66 5552 1784 15 80,0
+why did they like ?,305 73 45 96 80,0
+were he enjoy that ?,48 16 1784 15 80,0
+i love this,5552 194 49,1
+we were not love it,70 48 21 194 17,-1
+he was not enjoy this,16 14 21 1784 49,-1
+i was not enjoy this,5552 14 21 1784 49,-1
+how are they love ?,110 66 45 194 80,0
+what was he like ?,55 14 16 96 80,0
+i did not like that,5552 73 21 96 15,-1
+did they like this ?,73 45 96 49 80,0
+i love that,5552 194 15,1
+what was you enjoy ?,55 14 24 1784 80,0
+they love that,45 194 15,1
+she was not enjoy it,27 14 21 1784 17,-1
+they do not enjoy this,45 81 21 1784 49,-1
+you does not love it,24 312 21 194 17,-1
+she like that,27 96 15,1
+you love this,24 194 49,1
+you is not like this,24 34 21 96 49,-1
+what is he enjoy ?,55 34 16 1784 80,0
+what did i love ?,55 73 5552 194 80,0
+she did not love this,27 73 21 194 49,-1
+we love it,70 194 17,1
+we did not like it,70 73 21 96 17,-1
+you enjoy this,24 1784 49,1
+why do i like ?,305 81 5552 96 80,0
+did he love that ?,73 16 194 15 80,0
+they enjoy that,45 1784 15,1
+he love it,16 194 17,1
+is we enjoy it ?,34 70 1784 17 80,0
+are i like it ?,66 5552 96 17 80,0
+how did he enjoy ?,110 73 16 1784 80,0
+are you love that ?,66 24 194 15 80,0
+was she enjoy that ?,14 27 1784 15 80,0
+were i love this ?,48 5552 194 49 80,0
+he is not like that,16 34 21 96 15,-1
+why do i love ?,305 81 5552 194 80,0
+we does not like this,70 312 21 96 49,-1
+did they like this ?,73 45 96 49 80,0
+she love it,27 194 17,1
+did they enjoy that ?,73 45 1784 15 80,0
+he like it,16 96 17,1
+we love it,70 194 17,1
+we was not like it,70 14 21 96 17,-1
+they love that,45 194 15,1
+what is i enjoy ?,55 34 5552 1784 80,0
+were we like this ?,48 70 96 49 80,0
+he was not like it,16 14 21 96 17,-1
+are i like that ?,66 5552 96 15 80,0
+she love this,27 194 49,1
+was we like this ?,14 70 96 49 80,0
+is she like that ?,34 27 96 15 80,0
+was i enjoy that ?,14 5552 1784 15 80,0
+does he enjoy that ?,312 16 1784 15 80,0
+i enjoy this,5552 1784 49,1
+we enjoy it,70 1784 17,1
+they are not enjoy this,45 66 21 1784 49,-1
+why are i like ?,305 66 5552 96 80,0
+what is she love ?,55 34 27 194 80,0
+does i like it ?,312 5552 96 17 80,0
+they were not enjoy it,45 48 21 1784 17,-1
+he does not love that,16 312 21 194 15,-1
+they like that,45 96 15,1
+she like that,27 96 15,1
+they was not love it,45 14 21 194 17,-1
+what are we love ?,55 66 70 194 80,0
+i does not love it,5552 312 21 194 17,-1
+you do not love it,24 81 21 194 17,-1
+how were they love ?,110 48 45 194 80,0
+how does you love ?,110 312 24 194 80,0
+i are not like it,5552 66 21 96 17,-1
+she love it,27 194 17,1
+how was we love ?,110 14 70 194 80,0
+we enjoy this,70 1784 49,1
+he were not love that,16 48 21 194 15,-1
+we enjoy this,70 1784 49,1
+she love it,27 194 17,1
+did she love it ?,73 27 194 17 80,0
+why does she like ?,305 312 27 96 80,0
+i enjoy it,5552 1784 17,1
+why do i like ?,305 81 5552 96 80,0
+she enjoy that,27 1784 15,1
+did they love it ?,73 45 194 17 80,0
+we are not like this,70 66 21 96 49,-1
+are they like that ?,66 45 96 15 80,0
+how were she like ?,110 48 27 96 80,0
+is i enjoy it ?,34 5552 1784 17 80,0
+did they enjoy it ?,73 45 1784 17 80,0
+why were we like ?,305 48 70 96 80,0
+she like this,27 96 49,1
+he did not enjoy this,16 73 21 1784 49,-1
+we was not enjoy that,70 14 21 1784 15,-1
+why are they enjoy ?,305 66 45 1784 80,0
+why were she love ?,305 48 27 194 80,0
+were i like this ?,48 5552 96 49 80,0
+why do you love ?,305 81 24 194 80,0
+what were they love ?,55 48 45 194 80,0
+what does you enjoy ?,55 312 24 1784 80,0
+we are not enjoy it,70 66 21 1784 17,-1
+you is not enjoy it,24 34 21 1784 17,-1
+we are not love this,70 66 21 194 49,-1
+he are not enjoy this,16 66 21 1784 49,-1
+are you like that ?,66 24 96 15 80,0
+does i enjoy it ?,312 5552 1784 17 80,0
+why was she enjoy ?,305 14 27 1784 80,0
+does they enjoy it ?,312 45 1784 17 80,0
+she enjoy it,27 1784 17,1
+how were he love ?,110 48 16 194 80,0
+he are not love it,16 66 21 194 17,-1
+why were they love ?,305 48 45 194 80,0
+she enjoy it,27 1784 17,1
+he was not love it,16 14 21 194 17,-1
+do he love that ?,81 16 194 15 80,0
+he were not like this,16 48 21 96 49,-1
+does he enjoy that ?,312 16 1784 15 80,0
+was i like that ?,14 5552 96 15 80,0
+we did not love this,70 73 21 194 49,-1
+did he like this ?,73 16 96 49 80,0
+was we like that ?,14 70 96 15 80,0
+we like that,70 96 15,1
+why did they love ?,305 73 45 194 80,0
+they enjoy it,45 1784 17,1
+she like that,27 96 15,1
+how do he like ?,110 81 16 96 80,0
+does i love this ?,312 5552 194 49 80,0
+they love that,45 194 15,1
+i does not like this,5552 312 21 96 49,-1
+is you like this ?,34 24 96 49 80,0
+does you love this ?,312 24 194 49 80,0
+we love it,70 194 17,1
+were they like it ?,48 45 96 17 80,0
+were they enjoy it ?,48 45 1784 17 80,0
+why were we like ?,305 48 70 96 80,0
+you was not love this,24 14 21 194 49,-1
+she love it,27 194 17,1
+why do we love ?,305 81 70 194 80,0
+why do she like ?,305 81 27 96 80,0
+were we like that ?,48 70 96 15 80,0
+what were she enjoy ?,55 48 27 1784 80,0
+she like that,27 96 15,1
+i are not like that,5552 66 21 96 15,-1
+was you like it ?,14 24 96 17 80,0
+she did not enjoy that,27 73 21 1784 15,-1
+was she love this ?,14 27 194 49 80,0
+were we enjoy this ?,48 70 1784 49 80,0
+did i enjoy it ?,73 5552 1784 17 80,0
+what are you love ?,55 66 24 194 80,0
+what did they love ?,55 73 45 194 80,0
+they do not like it,45 81 21 96 17,-1
+how did we love ?,110 73 70 194 80,0
+why does you enjoy ?,305 312 24 1784 80,0
+she is not like it,27 34 21 96 17,-1
+is he like it ?,34 16 96 17 80,0
+you love it,24 194 17,1
+are you enjoy it ?,66 24 1784 17 80,0
+we enjoy this,70 1784 49,1
+what was she love ?,55 14 27 194 80,0
+were he like it ?,48 16 96 17 80,0
+we did not love that,70 73 21 194 15,-1
+do you like that ?,81 24 96 15 80,0
+she love this,27 194 49,1
+why were i enjoy ?,305 48 5552 1784 80,0
+how were you love ?,110 48 24 194 80,0
+was he like this ?,14 16 96 49 80,0
+was we enjoy that ?,14 70 1784 15 80,0
+they enjoy that,45 1784 15,1
+she like it,27 96 17,1
+she is not enjoy this,27 34 21 1784 49,-1
+why were they enjoy ?,305 48 45 1784 80,0
+does they enjoy it ?,312 45 1784 17 80,0
+we enjoy that,70 1784 15,1
+i love this,5552 194 49,1
+he are not enjoy that,16 66 21 1784 15,-1
+they love it,45 194 17,1
+we is not love it,70 34 21 194 17,-1
+were i love it ?,48 5552 194 17 80,0
+you do not enjoy this,24 81 21 1784 49,-1
+they was not love it,45 14 21 194 17,-1
+i like that,5552 96 15,1
+we enjoy this,70 1784 49,1
+they is not like it,45 34 21 96 17,-1
+do he like it ?,81 16 96 17 80,0
+why is i like ?,305 34 5552 96 80,0
+what does i love ?,55 312 5552 194 80,0
+you love it,24 194 17,1
+i is not love it,5552 34 21 194 17,-1
+they do not enjoy that,45 81 21 1784 15,-1
+you love this,24 194 49,1
+was i love that ?,14 5552 194 15 80,0
+was he enjoy this ?,14 16 1784 49 80,0
+are they enjoy it ?,66 45 1784 17 80,0
+what does they love ?,55 312 45 194 80,0
+you love this,24 194 49,1
+how do you like ?,110 81 24 96 80,0
+we like that,70 96 15,1
+she were not enjoy this,27 48 21 1784 49,-1
+was they like it ?,14 45 96 17 80,0
+does we enjoy this ?,312 70 1784 49 80,0
+does they like that ?,312 45 96 15 80,0
+she like that,27 96 15,1
+why are i like ?,305 66 5552 96 80,0
+what do you love ?,55 81 24 194 80,0
+are she enjoy that ?,66 27 1784 15 80,0
+were i like this ?,48 5552 96 49 80,0
+is he love that ?,34 16 194 15 80,0
+were they love it ?,48 45 194 17 80,0
+do we enjoy that ?,81 70 1784 15 80,0
+you enjoy that,24 1784 15,1
+does she enjoy it ?,312 27 1784 17 80,0
+he love that,16 194 15,1
+how does you enjoy ?,110 312 24 1784 80,0
+do they like this ?,81 45 96 49 80,0
+he like this,16 96 49,1
+how did we like ?,110 73 70 96 80,0
+they does not enjoy this,45 312 21 1784 49,-1
+you is not like it,24 34 21 96 17,-1
+he enjoy this,16 1784 49,1
+does they enjoy it ?,312 45 1784 17 80,0
+we does not enjoy this,70 312 21 1784 49,-1
+is they enjoy it ?,34 45 1784 17 80,0
+you did not love that,24 73 21 194 15,-1
+you did not love that,24 73 21 194 15,-1
+do i love that ?,81 5552 194 15 80,0
+you is not like it,24 34 21 96 17,-1
+we love it,70 194 17,1
+we enjoy that,70 1784 15,1
+how is you enjoy ?,110 34 24 1784 80,0
+i did not enjoy that,5552 73 21 1784 15,-1
+we enjoy this,70 1784 49,1
+you love this,24 194 49,1
+she enjoy that,27 1784 15,1
+are she enjoy that ?,66 27 1784 15 80,0
+she was not enjoy this,27 14 21 1784 49,-1
+does i enjoy this ?,312 5552 1784 49 80,0
+why do you like ?,305 81 24 96 80,0
+do he love it ?,81 16 194 17 80,0
+you does not like that,24 312 21 96 15,-1
+why was he love ?,305 14 16 194 80,0
+they does not love it,45 312 21 194 17,-1
+you love that,24 194 15,1
+she love this,27 194 49,1
+he love this,16 194 49,1
+she were not enjoy this,27 48 21 1784 49,-1
+he enjoy it,16 1784 17,1
+was she enjoy that ?,14 27 1784 15 80,0
+how was he like ?,110 14 16 96 80,0
+are you love it ?,66 24 194 17 80,0
+you was not love that,24 14 21 194 15,-1
+were i love this ?,48 5552 194 49 80,0
+is they love that ?,34 45 194 15 80,0
+we love it,70 194 17,1
+i was not enjoy it,5552 14 21 1784 17,-1
+what was we enjoy ?,55 14 70 1784 80,0
+were he like this ?,48 16 96 49 80,0
+she do not like it,27 81 21 96 17,-1
+he does not love it,16 312 21 194 17,-1
+are we enjoy this ?,66 70 1784 49 80,0
+she are not love this,27 66 21 194 49,-1
+how did he like ?,110 73 16 96 80,0
+does i enjoy this ?,312 5552 1784 49 80,0
+why is i love ?,305 34 5552 194 80,0
+were we like it ?,48 70 96 17 80,0
+did he like this ?,73 16 96 49 80,0
+he was not like this,16 14 21 96 49,-1
+what is she love ?,55 34 27 194 80,0
+what does we love ?,55 312 70 194 80,0
+she enjoy this,27 1784 49,1
+i are not like it,5552 66 21 96 17,-1
+i enjoy it,5552 1784 17,1
+we do not enjoy this,70 81 21 1784 49,-1
+she do not love it,27 81 21 194 17,-1
+what do she like ?,55 81 27 96 80,0
+what do you like ?,55 81 24 96 80,0
+are she enjoy it ?,66 27 1784 17 80,0
+what did we love ?,55 73 70 194 80,0
+i did not enjoy this,5552 73 21 1784 49,-1
+we enjoy this,70 1784 49,1
+why do you enjoy ?,305 81 24 1784 80,0
+how were she love ?,110 48 27 194 80,0
+we is not like it,70 34 21 96 17,-1
+he is not like that,16 34 21 96 15,-1
+why does i like ?,305 312 5552 96 80,0
+you are not love this,24 66 21 194 49,-1
+i like this,5552 96 49,1
+she does not enjoy it,27 312 21 1784 17,-1
+we enjoy this,70 1784 49,1
+what did he enjoy ?,55 73 16 1784 80,0
+we were not enjoy this,70 48 21 1784 49,-1
+did they love this ?,73 45 194 49 80,0
+does he love this ?,312 16 194 49 80,0
+is they love that ?,34 45 194 15 80,0
+we did not enjoy that,70 73 21 1784 15,-1
+why do you like ?,305 81 24 96 80,0
+you enjoy it,24 1784 17,1
+were i enjoy it ?,48 5552 1784 17 80,0
+i enjoy that,5552 1784 15,1
+you enjoy that,24 1784 15,1
+they enjoy it,45 1784 17,1
+what is he like ?,55 34 16 96 80,0
+she is not love this,27 34 21 194 49,-1
+was she enjoy it ?,14 27 1784 17 80,0
+how is we like ?,110 34 70 96 80,0
+why is you love ?,305 34 24 194 80,0
+they enjoy this,45 1784 49,1
+why does they love ?,305 312 45 194 80,0
+how is they love ?,110 34 45 194 80,0
+you do not like that,24 81 21 96 15,-1
+why are she like ?,305 66 27 96 80,0
+how are we love ?,110 66 70 194 80,0
+is they love this ?,34 45 194 49 80,0
+she is not enjoy that,27 34 21 1784 15,-1
+they was not enjoy it,45 14 21 1784 17,-1
+i do not love that,5552 81 21 194 15,-1
+they like this,45 96 49,1
+he was not like this,16 14 21 96 49,-1
+we love it,70 194 17,1
+why were i love ?,305 48 5552 194 80,0
+was they enjoy it ?,14 45 1784 17 80,0
+why do he like ?,305 81 16 96 80,0
+why does she enjoy ?,305 312 27 1784 80,0
+what do he love ?,55 81 16 194 80,0
+how was i like ?,110 14 5552 96 80,0
+why were i love ?,305 48 5552 194 80,0
+how does they like ?,110 312 45 96 80,0
+she were not like that,27 48 21 96 15,-1
+they like it,45 96 17,1
+why are they enjoy ?,305 66 45 1784 80,0
+what do we like ?,55 81 70 96 80,0
+how does we enjoy ?,110 312 70 1784 80,0
+how did she like ?,110 73 27 96 80,0
+how was she love ?,110 14 27 194 80,0
+why did they like ?,305 73 45 96 80,0
+they do not love that,45 81 21 194 15,-1
+why do they enjoy ?,305 81 45 1784 80,0
+did you like it ?,73 24 96 17 80,0
+she enjoy that,27 1784 15,1
+what do he like ?,55 81 16 96 80,0
+are he love that ?,66 16 194 15 80,0
+she are not enjoy this,27 66 21 1784 49,-1
+you is not enjoy this,24 34 21 1784 49,-1
+does she like it ?,312 27 96 17 80,0
+i do not love this,5552 81 21 194 49,-1
+he is not enjoy it,16 34 21 1784 17,-1
+what does they enjoy ?,55 312 45 1784 80,0
+what did i enjoy ?,55 73 5552 1784 80,0
+is they love that ?,34 45 194 15 80,0
+i love this,5552 194 49,1
+she are not like that,27 66 21 96 15,-1
+he enjoy it,16 1784 17,1
+he were not enjoy that,16 48 21 1784 15,-1
+they like it,45 96 17,1
+why are he love ?,305 66 16 194 80,0
+why was you love ?,305 14 24 194 80,0
+i do not love this,5552 81 21 194 49,-1
+why were you love ?,305 48 24 194 80,0
+they love this,45 194 49,1
+he are not like that,16 66 21 96 15,-1
+you do not love it,24 81 21 194 17,-1
+we are not love it,70 66 21 194 17,-1
+we like that,70 96 15,1
+what was she like ?,55 14 27 96 80,0
+how does i like ?,110 312 5552 96 80,0
+you enjoy it,24 1784 17,1
+he was not enjoy this,16 14 21 1784 49,-1
+what are we like ?,55 66 70 96 80,0
+i love this,5552 194 49,1
+you did not enjoy this,24 73 21 1784 49,-1
+what are she like ?,55 66 27 96 80,0
+how do they like ?,110 81 45 96 80,0
+i was not like it,5552 14 21 96 17,-1
+he does not like this,16 312 21 96 49,-1
+why were we enjoy ?,305 48 70 1784 80,0
+they is not enjoy it,45 34 21 1784 17,-1
+is i love this ?,34 5552 194 49 80,0
+are he enjoy that ?,66 16 1784 15 80,0
+they were not enjoy it,45 48 21 1784 17,-1
+they enjoy that,45 1784 15,1
+did you love that ?,73 24 194 15 80,0
+we enjoy it,70 1784 17,1
+did i love this ?,73 5552 194 49 80,0
+i love it,5552 194 17,1
+is we like that ?,34 70 96 15 80,0
+why do you like ?,305 81 24 96 80,0
+is i love it ?,34 5552 194 17 80,0
+were they love it ?,48 45 194 17 80,0
+she enjoy this,27 1784 49,1
+he like that,16 96 15,1
+are he like that ?,66 16 96 15 80,0
+how were they love ?,110 48 45 194 80,0
+he enjoy it,16 1784 17,1
+i like this,5552 96 49,1
+we love that,70 194 15,1
+did you love that ?,73 24 194 15 80,0
+they does not love this,45 312 21 194 49,-1
+i love this,5552 194 49,1
+what does we like ?,55 312 70 96 80,0
+what do they love ?,55 81 45 194 80,0
+do she love this ?,81 27 194 49 80,0
+you like this,24 96 49,1
+you were not enjoy this,24 48 21 1784 49,-1
+are i love this ?,66 5552 194 49 80,0
+he like this,16 96 49,1
+we enjoy this,70 1784 49,1
+he love it,16 194 17,1
+they do not enjoy that,45 81 21 1784 15,-1
+you love it,24 194 17,1
+were you like this ?,48 24 96 49 80,0
+were she enjoy that ?,48 27 1784 15 80,0
+why does i like ?,305 312 5552 96 80,0
+you like this,24 96 49,1
+does i enjoy that ?,312 5552 1784 15 80,0
+we did not enjoy it,70 73 21 1784 17,-1
+why is she like ?,305 34 27 96 80,0
+we were not enjoy this,70 48 21 1784 49,-1
+he were not love this,16 48 21 194 49,-1
+what are you love ?,55 66 24 194 80,0
+are i like this ?,66 5552 96 49 80,0
+how was you love ?,110 14 24 194 80,0
+i were not enjoy this,5552 48 21 1784 49,-1
+you were not enjoy it,24 48 21 1784 17,-1
+we love that,70 194 15,1
+i enjoy it,5552 1784 17,1
+they is not enjoy this,45 34 21 1784 49,-1
+do he like that ?,81 16 96 15 80,0
+did he enjoy it ?,73 16 1784 17 80,0
+did he love it ?,73 16 194 17 80,0
+do he like that ?,81 16 96 15 80,0
+we was not love this,70 14 21 194 49,-1
+we like that,70 96 15,1
+she were not enjoy that,27 48 21 1784 15,-1
+i like that,5552 96 15,1
+how were we like ?,110 48 70 96 80,0
+we enjoy this,70 1784 49,1
+are we enjoy that ?,66 70 1784 15 80,0
+he do not like it,16 81 21 96 17,-1
+they is not like this,45 34 21 96 49,-1
+he are not love this,16 66 21 194 49,-1
+i love that,5552 194 15,1
+he like this,16 96 49,1
+you love that,24 194 15,1
+you love this,24 194 49,1
+are i like this ?,66 5552 96 49 80,0
+i love this,5552 194 49,1
+are he like this ?,66 16 96 49 80,0
+how were she enjoy ?,110 48 27 1784 80,0
+how are we enjoy ?,110 66 70 1784 80,0
+was they enjoy that ?,14 45 1784 15 80,0
+i are not enjoy it,5552 66 21 1784 17,-1
+we does not like that,70 312 21 96 15,-1
+you like this,24 96 49,1
+you love this,24 194 49,1
+did she enjoy that ?,73 27 1784 15 80,0
+how are he like ?,110 66 16 96 80,0
+he like it,16 96 17,1
+was i enjoy it ?,14 5552 1784 17 80,0
+is i enjoy this ?,34 5552 1784 49 80,0
+does she enjoy that ?,312 27 1784 15 80,0
+is they enjoy that ?,34 45 1784 15 80,0
+was they like that ?,14 45 96 15 80,0
+you did not like it,24 73 21 96 17,-1
+were she enjoy that ?,48 27 1784 15 80,0
+you does not love it,24 312 21 194 17,-1
+she does not love that,27 312 21 194 15,-1
+i love it,5552 194 17,1
+she love this,27 194 49,1
+is he like that ?,34 16 96 15 80,0
+they enjoy that,45 1784 15,1
+we like this,70 96 49,1
+do she enjoy that ?,81 27 1784 15 80,0
+how is you like ?,110 34 24 96 80,0
+how did you like ?,110 73 24 96 80,0
+he like it,16 96 17,1
+how is he like ?,110 34 16 96 80,0
+what is they like ?,55 34 45 96 80,0
+she were not enjoy this,27 48 21 1784 49,-1
+what did they like ?,55 73 45 96 80,0
+i love it,5552 194 17,1
+i love it,5552 194 17,1
+i love that,5552 194 15,1
+are they like it ?,66 45 96 17 80,0
+she enjoy it,27 1784 17,1
+they are not love that,45 66 21 194 15,-1
+why was they like ?,305 14 45 96 80,0
+does they like this ?,312 45 96 49 80,0
+you enjoy that,24 1784 15,1
+why was she like ?,305 14 27 96 80,0
+what were you love ?,55 48 24 194 80,0
+what is we enjoy ?,55 34 70 1784 80,0
+you like that,24 96 15,1
+they love this,45 194 49,1
+he was not enjoy that,16 14 21 1784 15,-1
+are they enjoy that ?,66 45 1784 15 80,0
+we were not like that,70 48 21 96 15,-1
+he enjoy this,16 1784 49,1
+he enjoy this,16 1784 49,1
+how does i love ?,110 312 5552 194 80,0
+is they love that ?,34 45 194 15 80,0
+she is not enjoy that,27 34 21 1784 15,-1
+why were i love ?,305 48 5552 194 80,0
+did i like that ?,73 5552 96 15 80,0
+do they love that ?,81 45 194 15 80,0
+what is i like ?,55 34 5552 96 80,0
+why was he like ?,305 14 16 96 80,0
+we was not enjoy it,70 14 21 1784 17,-1
+you enjoy that,24 1784 15,1
+does he love it ?,312 16 194 17 80,0
+he love that,16 194 15,1
+what is we like ?,55 34 70 96 80,0
+they did not enjoy that,45 73 21 1784 15,-1
+how do you enjoy ?,110 81 24 1784 80,0
+was i enjoy this ?,14 5552 1784 49 80,0
+was they love this ?,14 45 194 49 80,0
+they like that,45 96 15,1
+how is i love ?,110 34 5552 194 80,0
+they love this,45 194 49,1
+how does we enjoy ?,110 312 70 1784 80,0
+she enjoy this,27 1784 49,1
+they did not enjoy that,45 73 21 1784 15,-1
+how is they love ?,110 34 45 194 80,0
+she were not enjoy that,27 48 21 1784 15,-1
+she are not enjoy that,27 66 21 1784 15,-1
+was i love that ?,14 5552 194 15 80,0
+you like this,24 96 49,1
+does he enjoy that ?,312 16 1784 15 80,0
+what is we like ?,55 34 70 96 80,0
+she enjoy this,27 1784 49,1
+does we enjoy this ?,312 70 1784 49 80,0
+does they enjoy it ?,312 45 1784 17 80,0
+why is we like ?,305 34 70 96 80,0
+were you like this ?,48 24 96 49 80,0
+she were not enjoy it,27 48 21 1784 17,-1
+he like that,16 96 15,1
+why were we like ?,305 48 70 96 80,0
+why did she enjoy ?,305 73 27 1784 80,0
+is i enjoy that ?,34 5552 1784 15 80,0
+she did not love this,27 73 21 194 49,-1
+how do we like ?,110 81 70 96 80,0
+he like that,16 96 15,1
+she like that,27 96 15,1
+how does we love ?,110 312 70 194 80,0
+he did not like that,16 73 21 96 15,-1
+they is not enjoy this,45 34 21 1784 49,-1
+he like that,16 96 15,1
+they does not love it,45 312 21 194 17,-1
+how was he enjoy ?,110 14 16 1784 80,0
+does he love this ?,312 16 194 49 80,0
+we does not enjoy it,70 312 21 1784 17,-1
+does she like this ?,312 27 96 49 80,0
+what are i love ?,55 66 5552 194 80,0
+we did not love that,70 73 21 194 15,-1
+why is we enjoy ?,305 34 70 1784 80,0
+why were she love ?,305 48 27 194 80,0
+how do we enjoy ?,110 81 70 1784 80,0
+do i enjoy this ?,81 5552 1784 49 80,0
+he is not enjoy this,16 34 21 1784 49,-1
+we enjoy it,70 1784 17,1
+they does not love it,45 312 21 194 17,-1
+you enjoy this,24 1784 49,1
+he love this,16 194 49,1
+why does we enjoy ?,305 312 70 1784 80,0
+he does not enjoy that,16 312 21 1784 15,-1
+i love that,5552 194 15,1
+we did not love this,70 73 21 194 49,-1
+are he enjoy that ?,66 16 1784 15 80,0
+do they like it ?,81 45 96 17 80,0
+did he enjoy this ?,73 16 1784 49 80,0
+she love this,27 194 49,1
+were we like that ?,48 70 96 15 80,0
+he is not love it,16 34 21 194 17,-1
+she enjoy it,27 1784 17,1
+he is not enjoy it,16 34 21 1784 17,-1
+did you love this ?,73 24 194 49 80,0
+how are i enjoy ?,110 66 5552 1784 80,0
+why do they love ?,305 81 45 194 80,0
+why were she love ?,305 48 27 194 80,0
+what did he love ?,55 73 16 194 80,0
+you do not love it,24 81 21 194 17,-1
+you like that,24 96 15,1
+they do not enjoy that,45 81 21 1784 15,-1
+we were not love it,70 48 21 194 17,-1
+how does i love ?,110 312 5552 194 80,0
+why does she enjoy ?,305 312 27 1784 80,0
+you are not love that,24 66 21 194 15,-1
+was they like that ?,14 45 96 15 80,0
+is they love that ?,34 45 194 15 80,0
+were you enjoy it ?,48 24 1784 17 80,0
+does you enjoy it ?,312 24 1784 17 80,0
+i love it,5552 194 17,1
+does he enjoy that ?,312 16 1784 15 80,0
+do they love it ?,81 45 194 17 80,0
+i like it,5552 96 17,1
+you love that,24 194 15,1
+do i enjoy this ?,81 5552 1784 49 80,0
+does he enjoy that ?,312 16 1784 15 80,0
+they like that,45 96 15,1
+i enjoy this,5552 1784 49,1
+he like that,16 96 15,1
+i are not enjoy this,5552 66 21 1784 49,-1
+did i enjoy it ?,73 5552 1784 17 80,0
+are he love that ?,66 16 194 15 80,0
+you was not love it,24 14 21 194 17,-1
+you do not like this,24 81 21 96 49,-1
+he enjoy it,16 1784 17,1
+why does he enjoy ?,305 312 16 1784 80,0
+you was not love that,24 14 21 194 15,-1
+how were he love ?,110 48 16 194 80,0
+how do you enjoy ?,110 81 24 1784 80,0
+he did not enjoy that,16 73 21 1784 15,-1
+why was he love ?,305 14 16 194 80,0
+why do i like ?,305 81 5552 96 80,0
+how are they enjoy ?,110 66 45 1784 80,0
+you enjoy this,24 1784 49,1
+she like that,27 96 15,1
+why was they like ?,305 14 45 96 80,0
+they were not like this,45 48 21 96 49,-1
+did he enjoy this ?,73 16 1784 49 80,0
+she does not love this,27 312 21 194 49,-1
+why does you enjoy ?,305 312 24 1784 80,0
+he were not like this,16 48 21 96 49,-1
+how do she enjoy ?,110 81 27 1784 80,0
+how do they like ?,110 81 45 96 80,0
+why is they enjoy ?,305 34 45 1784 80,0
+we does not like this,70 312 21 96 49,-1
+is she love this ?,34 27 194 49 80,0
+why does you like ?,305 312 24 96 80,0
+why were she enjoy ?,305 48 27 1784 80,0
+does he like that ?,312 16 96 15 80,0
+she enjoy this,27 1784 49,1
+was he love that ?,14 16 194 15 80,0
+does they like that ?,312 45 96 15 80,0
+he were not enjoy that,16 48 21 1784 15,-1
+why does he enjoy ?,305 312 16 1784 80,0
+we enjoy that,70 1784 15,1
+they enjoy it,45 1784 17,1
+you love that,24 194 15,1
+did we like it ?,73 70 96 17 80,0
+they are not love that,45 66 21 194 15,-1
+they did not love this,45 73 21 194 49,-1
+she enjoy it,27 1784 17,1
+do i like that ?,81 5552 96 15 80,0
+did we like it ?,73 70 96 17 80,0
+she enjoy it,27 1784 17,1
+they were not enjoy this,45 48 21 1784 49,-1
+you enjoy this,24 1784 49,1
+how is you love ?,110 34 24 194 80,0
+why are i love ?,305 66 5552 194 80,0
+how was i like ?,110 14 5552 96 80,0
+is he enjoy that ?,34 16 1784 15 80,0
+what are i like ?,55 66 5552 96 80,0
+you enjoy that,24 1784 15,1
+we enjoy that,70 1784 15,1
+she did not love it,27 73 21 194 17,-1
+we were not enjoy it,70 48 21 1784 17,-1
+are you love that ?,66 24 194 15 80,0
+is you like this ?,34 24 96 49 80,0
+what was you enjoy ?,55 14 24 1784 80,0
+we is not enjoy it,70 34 21 1784 17,-1
+they enjoy this,45 1784 49,1
+how do she love ?,110 81 27 194 80,0
+we are not like it,70 66 21 96 17,-1
+you are not love it,24 66 21 194 17,-1
+was they love this ?,14 45 194 49 80,0
+what are he like ?,55 66 16 96 80,0
+how were we enjoy ?,110 48 70 1784 80,0
+what were you enjoy ?,55 48 24 1784 80,0
+you love it,24 194 17,1
+what was she enjoy ?,55 14 27 1784 80,0
+what does we like ?,55 312 70 96 80,0
+we enjoy this,70 1784 49,1
+is i like it ?,34 5552 96 17 80,0
+why does she love ?,305 312 27 194 80,0
+why did you love ?,305 73 24 194 80,0
+i do not enjoy it,5552 81 21 1784 17,-1
+what does he like ?,55 312 16 96 80,0
+are they like that ?,66 45 96 15 80,0
+we do not enjoy that,70 81 21 1784 15,-1
+were we enjoy it ?,48 70 1784 17 80,0
+does she love that ?,312 27 194 15 80,0
+she love that,27 194 15,1
+does he love that ?,312 16 194 15 80,0
+why are we love ?,305 66 70 194 80,0
+are he like that ?,66 16 96 15 80,0
+was they like that ?,14 45 96 15 80,0
+you like it,24 96 17,1
+she love it,27 194 17,1
+you are not like this,24 66 21 96 49,-1
+were you enjoy this ?,48 24 1784 49 80,0
+he did not enjoy that,16 73 21 1784 15,-1
+you enjoy that,24 1784 15,1
+why were they love ?,305 48 45 194 80,0
+was you love that ?,14 24 194 15 80,0
+they are not enjoy that,45 66 21 1784 15,-1
+does i like it ?,312 5552 96 17 80,0
+how does he enjoy ?,110 312 16 1784 80,0
+does they like it ?,312 45 96 17 80,0
+why was he enjoy ?,305 14 16 1784 80,0
+why is they like ?,305 34 45 96 80,0
+are he like it ?,66 16 96 17 80,0
+why was they like ?,305 14 45 96 80,0
+are i enjoy this ?,66 5552 1784 49 80,0
+i like it,5552 96 17,1
+i like it,5552 96 17,1
+was you like it ?,14 24 96 17 80,0
+she was not like that,27 14 21 96 15,-1
+he enjoy it,16 1784 17,1
+we were not love this,70 48 21 194 49,-1
+did you like it ?,73 24 96 17 80,0
+what were he enjoy ?,55 48 16 1784 80,0
+you are not enjoy that,24 66 21 1784 15,-1
+does i love it ?,312 5552 194 17 80,0
+is we enjoy this ?,34 70 1784 49 80,0
+are they enjoy it ?,66 45 1784 17 80,0
+how were she enjoy ?,110 48 27 1784 80,0
+you love it,24 194 17,1
+you did not love that,24 73 21 194 15,-1
+do you like it ?,81 24 96 17 80,0
+are we enjoy this ?,66 70 1784 49 80,0
+you are not enjoy it,24 66 21 1784 17,-1
+were he enjoy that ?,48 16 1784 15 80,0
+does she like it ?,312 27 96 17 80,0
+what did i enjoy ?,55 73 5552 1784 80,0
+we love this,70 194 49,1
+does you like that ?,312 24 96 15 80,0
+did she like it ?,73 27 96 17 80,0
+we love this,70 194 49,1
+she was not love that,27 14 21 194 15,-1
+are you love it ?,66 24 194 17 80,0
+what does i like ?,55 312 5552 96 80,0
+you enjoy this,24 1784 49,1
+she are not like this,27 66 21 96 49,-1
+she do not like this,27 81 21 96 49,-1
+does i love that ?,312 5552 194 15 80,0
+i love that,5552 194 15,1
+what do they love ?,55 81 45 194 80,0
+she is not love this,27 34 21 194 49,-1
+what did she enjoy ?,55 73 27 1784 80,0
+are i enjoy that ?,66 5552 1784 15 80,0
+i do not love that,5552 81 21 194 15,-1
+why were she love ?,305 48 27 194 80,0
+you did not enjoy that,24 73 21 1784 15,-1
+how is i like ?,110 34 5552 96 80,0
+are he love that ?,66 16 194 15 80,0
+i love it,5552 194 17,1
+was i like this ?,14 5552 96 49 80,0
+why is you like ?,305 34 24 96 80,0
+what did you enjoy ?,55 73 24 1784 80,0
+how were he like ?,110 48 16 96 80,0
+how do she love ?,110 81 27 194 80,0
+why did she love ?,305 73 27 194 80,0
+we were not enjoy that,70 48 21 1784 15,-1
+we enjoy this,70 1784 49,1
+they love this,45 194 49,1
+were you like this ?,48 24 96 49 80,0
+how did she enjoy ?,110 73 27 1784 80,0
+we like this,70 96 49,1
+he love that,16 194 15,1
+they did not like that,45 73 21 96 15,-1
+were you love this ?,48 24 194 49 80,0
+why did we like ?,305 73 70 96 80,0
+were i like that ?,48 5552 96 15 80,0
+they were not like it,45 48 21 96 17,-1
+he enjoy that,16 1784 15,1
+he was not love it,16 14 21 194 17,-1
+what was we like ?,55 14 70 96 80,0
+they is not love that,45 34 21 194 15,-1
+she love this,27 194 49,1
+he enjoy that,16 1784 15,1
+i enjoy it,5552 1784 17,1
+do he like it ?,81 16 96 17 80,0
+we like it,70 96 17,1
+you like this,24 96 49,1
+they was not enjoy that,45 14 21 1784 15,-1
+he does not love that,16 312 21 194 15,-1
+he was not enjoy that,16 14 21 1784 15,-1
+you like it,24 96 17,1
+is we love it ?,34 70 194 17 80,0
+why did i enjoy ?,305 73 5552 1784 80,0
+you do not enjoy this,24 81 21 1784 49,-1
+how is they enjoy ?,110 34 45 1784 80,0
+how did we love ?,110 73 70 194 80,0
+i love this,5552 194 49,1
+i love it,5552 194 17,1
+you do not love it,24 81 21 194 17,-1
+were he like it ?,48 16 96 17 80,0
+i do not love this,5552 81 21 194 49,-1
+you enjoy it,24 1784 17,1
+why were they love ?,305 48 45 194 80,0
+did he enjoy it ?,73 16 1784 17 80,0
+how are they love ?,110 66 45 194 80,0
+how do she like ?,110 81 27 96 80,0
+what are they like ?,55 66 45 96 80,0
+we do not love that,70 81 21 194 15,-1
+was you love it ?,14 24 194 17 80,0
+is she love it ?,34 27 194 17 80,0
+did she love it ?,73 27 194 17 80,0
+was he enjoy it ?,14 16 1784 17 80,0
+how was you like ?,110 14 24 96 80,0
+how was i love ?,110 14 5552 194 80,0
+were you love it ?,48 24 194 17 80,0
+they was not love it,45 14 21 194 17,-1
+we enjoy that,70 1784 15,1
+we like it,70 96 17,1
+they enjoy that,45 1784 15,1
+are you like this ?,66 24 96 49 80,0
+are she love it ?,66 27 194 17 80,0
+does i like it ?,312 5552 96 17 80,0
+is they enjoy this ?,34 45 1784 49 80,0
+how are he like ?,110 66 16 96 80,0
+how are they love ?,110 66 45 194 80,0
+were you enjoy this ?,48 24 1784 49 80,0
+i are not enjoy this,5552 66 21 1784 49,-1
+how does he like ?,110 312 16 96 80,0
+do you enjoy this ?,81 24 1784 49 80,0
+was they enjoy it ?,14 45 1784 17 80,0
+are we enjoy this ?,66 70 1784 49 80,0
+he was not like it,16 14 21 96 17,-1
+what are we love ?,55 66 70 194 80,0
+does we enjoy this ?,312 70 1784 49 80,0
+i do not love that,5552 81 21 194 15,-1
+how is she enjoy ?,110 34 27 1784 80,0
+what was we enjoy ?,55 14 70 1784 80,0
+i is not love it,5552 34 21 194 17,-1
+is i like it ?,34 5552 96 17 80,0
+does they like that ?,312 45 96 15 80,0
+what does he like ?,55 312 16 96 80,0
+was you like that ?,14 24 96 15 80,0
+you enjoy that,24 1784 15,1
+we does not love that,70 312 21 194 15,-1
+did he love that ?,73 16 194 15 80,0
+we does not enjoy that,70 312 21 1784 15,-1
+you does not love that,24 312 21 194 15,-1
+i love that,5552 194 15,1
+we enjoy it,70 1784 17,1
+he like that,16 96 15,1
+you enjoy that,24 1784 15,1
+why did i love ?,305 73 5552 194 80,0
+do we enjoy that ?,81 70 1784 15 80,0
+i were not like this,5552 48 21 96 49,-1
+was she love it ?,14 27 194 17 80,0
+how did i enjoy ?,110 73 5552 1784 80,0
+did she love this ?,73 27 194 49 80,0
+i was not love it,5552 14 21 194 17,-1
+she were not like this,27 48 21 96 49,-1
+she like this,27 96 49,1
+he like that,16 96 15,1
+they did not enjoy that,45 73 21 1784 15,-1
+i enjoy it,5552 1784 17,1
+why are he love ?,305 66 16 194 80,0
+she do not enjoy this,27 81 21 1784 49,-1
+she love it,27 194 17,1
+she do not like it,27 81 21 96 17,-1
+i like this,5552 96 49,1
+we enjoy it,70 1784 17,1
+he are not enjoy that,16 66 21 1784 15,-1
+how did i enjoy ?,110 73 5552 1784 80,0
+did you like that ?,73 24 96 15 80,0
+you is not like this,24 34 21 96 49,-1
+he was not enjoy it,16 14 21 1784 17,-1
+how did she like ?,110 73 27 96 80,0
+we were not love that,70 48 21 194 15,-1
+they enjoy that,45 1784 15,1
+you is not enjoy that,24 34 21 1784 15,-1
+do she like that ?,81 27 96 15 80,0
+why is we enjoy ?,305 34 70 1784 80,0
+we did not like this,70 73 21 96 49,-1
+how does she love ?,110 312 27 194 80,0
+we love that,70 194 15,1
+i like this,5552 96 49,1
+how are i like ?,110 66 5552 96 80,0
+does he love this ?,312 16 194 49 80,0
+i are not enjoy it,5552 66 21 1784 17,-1
+what is he enjoy ?,55 34 16 1784 80,0
+you is not love this,24 34 21 194 49,-1
+he were not like it,16 48 21 96 17,-1
+they is not like that,45 34 21 96 15,-1
+is they love that ?,34 45 194 15 80,0
+what does they love ?,55 312 45 194 80,0
+they love that,45 194 15,1
+why were we enjoy ?,305 48 70 1784 80,0
+they do not enjoy it,45 81 21 1784 17,-1
+you love this,24 194 49,1
+was he love that ?,14 16 194 15 80,0
+are he love it ?,66 16 194 17 80,0
+is i like it ?,34 5552 96 17 80,0
+we was not enjoy that,70 14 21 1784 15,-1
+why do they like ?,305 81 45 96 80,0
+we like that,70 96 15,1
+they does not love that,45 312 21 194 15,-1
+he did not enjoy that,16 73 21 1784 15,-1
+do she enjoy it ?,81 27 1784 17 80,0
+why does you love ?,305 312 24 194 80,0
+you was not love that,24 14 21 194 15,-1
+he like this,16 96 49,1
+i enjoy it,5552 1784 17,1
+do they like it ?,81 45 96 17 80,0
+do she enjoy that ?,81 27 1784 15 80,0
+what was you like ?,55 14 24 96 80,0
+she were not enjoy it,27 48 21 1784 17,-1
+what was we enjoy ?,55 14 70 1784 80,0
+they love it,45 194 17,1
+he do not enjoy this,16 81 21 1784 49,-1
+we are not like this,70 66 21 96 49,-1
+they does not like that,45 312 21 96 15,-1
+did we enjoy it ?,73 70 1784 17 80,0
+is we like that ?,34 70 96 15 80,0
+we do not love that,70 81 21 194 15,-1
+why did they love ?,305 73 45 194 80,0
+they was not like it,45 14 21 96 17,-1
+i like it,5552 96 17,1
+you like that,24 96 15,1
+you do not like it,24 81 21 96 17,-1
+he love it,16 194 17,1
+was she like this ?,14 27 96 49 80,0
+was i love this ?,14 5552 194 49 80,0
+do i like it ?,81 5552 96 17 80,0
+i did not love that,5552 73 21 194 15,-1
+he do not love it,16 81 21 194 17,-1
+was we love it ?,14 70 194 17 80,0
+they do not like that,45 81 21 96 15,-1
+we enjoy that,70 1784 15,1
+why did he love ?,305 73 16 194 80,0
+why was she like ?,305 14 27 96 80,0
+what does we enjoy ?,55 312 70 1784 80,0
+we did not like it,70 73 21 96 17,-1
+what were you like ?,55 48 24 96 80,0
+does i love that ?,312 5552 194 15 80,0
+is they like that ?,34 45 96 15 80,0
+what were i like ?,55 48 5552 96 80,0
+i love that,5552 194 15,1
+i does not enjoy this,5552 312 21 1784 49,-1
+what is she enjoy ?,55 34 27 1784 80,0
+how were i enjoy ?,110 48 5552 1784 80,0
+she enjoy that,27 1784 15,1
+he are not enjoy this,16 66 21 1784 49,-1
+you are not enjoy this,24 66 21 1784 49,-1
+she enjoy this,27 1784 49,1
+you love it,24 194 17,1
+you like that,24 96 15,1
+how are they enjoy ?,110 66 45 1784 80,0
+does you enjoy it ?,312 24 1784 17 80,0
+he enjoy this,16 1784 49,1
+i are not love this,5552 66 21 194 49,-1
+were they love this ?,48 45 194 49 80,0
+did you enjoy this ?,73 24 1784 49 80,0
+why is they like ?,305 34 45 96 80,0
+how does we love ?,110 312 70 194 80,0
+he did not like it,16 73 21 96 17,-1
+what are she love ?,55 66 27 194 80,0
+she is not like that,27 34 21 96 15,-1
+they love this,45 194 49,1
+what did they love ?,55 73 45 194 80,0
+was you like this ?,14 24 96 49 80,0
+how was they love ?,110 14 45 194 80,0
+why do she like ?,305 81 27 96 80,0
+what was they enjoy ?,55 14 45 1784 80,0
+did they enjoy this ?,73 45 1784 49 80,0
+how were she enjoy ?,110 48 27 1784 80,0
+they love that,45 194 15,1
+how was they enjoy ?,110 14 45 1784 80,0
+he love this,16 194 49,1
+why is you love ?,305 34 24 194 80,0
+what is we enjoy ?,55 34 70 1784 80,0
+they was not like this,45 14 21 96 49,-1
+does we like this ?,312 70 96 49 80,0
+i do not love it,5552 81 21 194 17,-1
+we is not like it,70 34 21 96 17,-1
+were she enjoy it ?,48 27 1784 17 80,0
+what were you enjoy ?,55 48 24 1784 80,0
+you does not love this,24 312 21 194 49,-1
+does we love it ?,312 70 194 17 80,0
+he do not like that,16 81 21 96 15,-1
+you like it,24 96 17,1
+did he love it ?,73 16 194 17 80,0
+were she like this ?,48 27 96 49 80,0
+was he like it ?,14 16 96 17 80,0
+we are not love this,70 66 21 194 49,-1
+how is i enjoy ?,110 34 5552 1784 80,0
+were he love this ?,48 16 194 49 80,0
+we do not love this,70 81 21 194 49,-1
+we enjoy this,70 1784 49,1
+why were we like ?,305 48 70 96 80,0
+did he love that ?,73 16 194 15 80,0
+does you enjoy that ?,312 24 1784 15 80,0
+we did not like it,70 73 21 96 17,-1
+she was not like it,27 14 21 96 17,-1
+you were not love that,24 48 21 194 15,-1
+how were we like ?,110 48 70 96 80,0
+did i like this ?,73 5552 96 49 80,0
+how does we love ?,110 312 70 194 80,0
+you like that,24 96 15,1
+is he like that ?,34 16 96 15 80,0
+are she love this ?,66 27 194 49 80,0
+how does they like ?,110 312 45 96 80,0
+why were we love ?,305 48 70 194 80,0
+she love that,27 194 15,1
+he is not enjoy this,16 34 21 1784 49,-1
+why are she enjoy ?,305 66 27 1784 80,0
+how are you enjoy ?,110 66 24 1784 80,0
+why does we like ?,305 312 70 96 80,0
+he does not love it,16 312 21 194 17,-1
+how did i like ?,110 73 5552 96 80,0
+they is not like this,45 34 21 96 49,-1
+do she like it ?,81 27 96 17 80,0
+i love that,5552 194 15,1
+we does not enjoy that,70 312 21 1784 15,-1
+she enjoy this,27 1784 49,1
+we is not like this,70 34 21 96 49,-1
+you love that,24 194 15,1
+we is not like that,70 34 21 96 15,-1
+they was not love this,45 14 21 194 49,-1
+you is not like this,24 34 21 96 49,-1
+was i love it ?,14 5552 194 17 80,0
+were i enjoy that ?,48 5552 1784 15 80,0
+what were he enjoy ?,55 48 16 1784 80,0
+he like it,16 96 17,1
+why did we love ?,305 73 70 194 80,0
+are she enjoy that ?,66 27 1784 15 80,0
+i does not love that,5552 312 21 194 15,-1
+you was not like this,24 14 21 96 49,-1
+are he enjoy it ?,66 16 1784 17 80,0
+is you like this ?,34 24 96 49 80,0
+you love this,24 194 49,1
+did we love that ?,73 70 194 15 80,0
+you are not enjoy this,24 66 21 1784 49,-1
+why does i enjoy ?,305 312 5552 1784 80,0
+are he love it ?,66 16 194 17 80,0
+they love this,45 194 49,1
+were they love that ?,48 45 194 15 80,0
+is she enjoy this ?,34 27 1784 49 80,0
+you like this,24 96 49,1
+was you love this ?,14 24 194 49 80,0
+are we love that ?,66 70 194 15 80,0
+what did we like ?,55 73 70 96 80,0
+she enjoy it,27 1784 17,1
+does he enjoy it ?,312 16 1784 17 80,0
+is they like that ?,34 45 96 15 80,0
+why do she like ?,305 81 27 96 80,0
+does you love that ?,312 24 194 15 80,0
+we do not like that,70 81 21 96 15,-1
+why does he love ?,305 312 16 194 80,0
+she was not like that,27 14 21 96 15,-1
+they enjoy that,45 1784 15,1
+they does not enjoy this,45 312 21 1784 49,-1
+they does not love it,45 312 21 194 17,-1
+what did i enjoy ?,55 73 5552 1784 80,0
+how was i love ?,110 14 5552 194 80,0
+he like that,16 96 15,1
+we are not love it,70 66 21 194 17,-1
+how did he like ?,110 73 16 96 80,0
+you are not love it,24 66 21 194 17,-1
+did they love that ?,73 45 194 15 80,0
+they love this,45 194 49,1
+why do she love ?,305 81 27 194 80,0
+how was we love ?,110 14 70 194 80,0
+we enjoy it,70 1784 17,1
+she is not love this,27 34 21 194 49,-1
+why did they like ?,305 73 45 96 80,0
+what do she like ?,55 81 27 96 80,0
+does she like this ?,312 27 96 49 80,0
+we does not love it,70 312 21 194 17,-1
+you love this,24 194 49,1
+is he like this ?,34 16 96 49 80,0
+why do she like ?,305 81 27 96 80,0
+was he like this ?,14 16 96 49 80,0
+how do he enjoy ?,110 81 16 1784 80,0
+was they like it ?,14 45 96 17 80,0
+she do not enjoy it,27 81 21 1784 17,-1
+was she enjoy that ?,14 27 1784 15 80,0
+we enjoy this,70 1784 49,1
+why are they love ?,305 66 45 194 80,0
+what does i like ?,55 312 5552 96 80,0
+i is not like it,5552 34 21 96 17,-1
+we like this,70 96 49,1
+you are not enjoy it,24 66 21 1784 17,-1
+i love it,5552 194 17,1
+you was not like that,24 14 21 96 15,-1
+he are not love this,16 66 21 194 49,-1
+he love it,16 194 17,1
+he are not love this,16 66 21 194 49,-1
+what was you love ?,55 14 24 194 80,0
+how were he like ?,110 48 16 96 80,0
+does you enjoy this ?,312 24 1784 49 80,0
+we is not enjoy this,70 34 21 1784 49,-1
+they love it,45 194 17,1
+does she love that ?,312 27 194 15 80,0
+she like it,27 96 17,1
+she did not like that,27 73 21 96 15,-1
+they was not like that,45 14 21 96 15,-1
+what is he like ?,55 34 16 96 80,0
+are we enjoy that ?,66 70 1784 15 80,0
+we were not enjoy that,70 48 21 1784 15,-1
+they like it,45 96 17,1
+he do not enjoy it,16 81 21 1784 17,-1
+she like that,27 96 15,1
+was you like it ?,14 24 96 17 80,0
+did we like it ?,73 70 96 17 80,0
+we love that,70 194 15,1
+did she love it ?,73 27 194 17 80,0
+what does i love ?,55 312 5552 194 80,0
+what do she like ?,55 81 27 96 80,0
+i love it,5552 194 17,1
+how did they love ?,110 73 45 194 80,0
+what are she like ?,55 66 27 96 80,0
+they like that,45 96 15,1
+were we enjoy it ?,48 70 1784 17 80,0
+she like it,27 96 17,1
+we does not enjoy that,70 312 21 1784 15,-1
+you love that,24 194 15,1
+does i enjoy this ?,312 5552 1784 49 80,0
+why were i like ?,305 48 5552 96 80,0
+do you enjoy this ?,81 24 1784 49 80,0
+is they like this ?,34 45 96 49 80,0
+how was you love ?,110 14 24 194 80,0
+i do not love this,5552 81 21 194 49,-1
+does she enjoy it ?,312 27 1784 17 80,0
+she love that,27 194 15,1
+he was not love that,16 14 21 194 15,-1
+i was not love it,5552 14 21 194 17,-1
+she like that,27 96 15,1
+he love this,16 194 49,1
+how was he love ?,110 14 16 194 80,0
+he was not love this,16 14 21 194 49,-1
+what is she love ?,55 34 27 194 80,0
+they love that,45 194 15,1
+does you enjoy that ?,312 24 1784 15 80,0
+you are not love this,24 66 21 194 49,-1
+how do i enjoy ?,110 81 5552 1784 80,0
+did they enjoy it ?,73 45 1784 17 80,0
+they like this,45 96 49,1
+you enjoy this,24 1784 49,1
+they enjoy that,45 1784 15,1
+they enjoy this,45 1784 49,1
+i love that,5552 194 15,1
+we is not like this,70 34 21 96 49,-1
+does you love it ?,312 24 194 17 80,0
+what was he like ?,55 14 16 96 80,0
+they like it,45 96 17,1
+what do they like ?,55 81 45 96 80,0
+she does not enjoy that,27 312 21 1784 15,-1
+i like this,5552 96 49,1
+does she enjoy that ?,312 27 1784 15 80,0
+i enjoy that,5552 1784 15,1
+is i love that ?,34 5552 194 15 80,0
+they like it,45 96 17,1
+how were we enjoy ?,110 48 70 1784 80,0
+what does i love ?,55 312 5552 194 80,0
+what were he enjoy ?,55 48 16 1784 80,0
+she is not like this,27 34 21 96 49,-1
+are they love it ?,66 45 194 17 80,0
+they enjoy this,45 1784 49,1
+why did they like ?,305 73 45 96 80,0
+they like it,45 96 17,1
+she enjoy this,27 1784 49,1
+we did not enjoy that,70 73 21 1784 15,-1
+do he like this ?,81 16 96 49 80,0
+are she love that ?,66 27 194 15 80,0
+we like it,70 96 17,1
+do we enjoy this ?,81 70 1784 49 80,0
+did they like that ?,73 45 96 15 80,0
+do she like it ?,81 27 96 17 80,0
+you like this,24 96 49,1
+does i love that ?,312 5552 194 15 80,0
+why is she like ?,305 34 27 96 80,0
+they did not like this,45 73 21 96 49,-1
+was they like that ?,14 45 96 15 80,0
+he does not enjoy it,16 312 21 1784 17,-1
+what does he enjoy ?,55 312 16 1784 80,0
+you love this,24 194 49,1
+i like this,5552 96 49,1
+i like it,5552 96 17,1
+is i like this ?,34 5552 96 49 80,0
+i do not enjoy it,5552 81 21 1784 17,-1
+is you like it ?,34 24 96 17 80,0
+why are he love ?,305 66 16 194 80,0
+they were not like that,45 48 21 96 15,-1
+was he like it ?,14 16 96 17 80,0
+you are not enjoy that,24 66 21 1784 15,-1
+did he like this ?,73 16 96 49 80,0
+i like it,5552 96 17,1
+i love it,5552 194 17,1
+he did not like it,16 73 21 96 17,-1
+you like it,24 96 17,1
+she is not enjoy it,27 34 21 1784 17,-1
+you were not enjoy it,24 48 21 1784 17,-1
+she enjoy that,27 1784 15,1
+he love it,16 194 17,1
+he love that,16 194 15,1
+why does you enjoy ?,305 312 24 1784 80,0
+she like this,27 96 49,1
+they love that,45 194 15,1
+why were i love ?,305 48 5552 194 80,0
+he love that,16 194 15,1
+they enjoy that,45 1784 15,1
+how does we love ?,110 312 70 194 80,0
+they did not enjoy it,45 73 21 1784 17,-1
+were you like this ?,48 24 96 49 80,0
+we love this,70 194 49,1
+we like this,70 96 49,1
+did he like it ?,73 16 96 17 80,0
+we did not enjoy it,70 73 21 1784 17,-1
+they are not like that,45 66 21 96 15,-1
+you was not enjoy that,24 14 21 1784 15,-1
+did he like this ?,73 16 96 49 80,0
+you like it,24 96 17,1
+you does not like this,24 312 21 96 49,-1
+he enjoy it,16 1784 17,1
+was he love this ?,14 16 194 49 80,0
+we like that,70 96 15,1
+they was not like it,45 14 21 96 17,-1
+did she like this ?,73 27 96 49 80,0
+why is she enjoy ?,305 34 27 1784 80,0
+he enjoy that,16 1784 15,1
+was he love it ?,14 16 194 17 80,0
+does she love this ?,312 27 194 49 80,0
+do you enjoy this ?,81 24 1784 49 80,0
+you does not enjoy it,24 312 21 1784 17,-1
+i love that,5552 194 15,1
+we like this,70 96 49,1
+we is not love that,70 34 21 194 15,-1
+does we enjoy that ?,312 70 1784 15 80,0
+we were not like it,70 48 21 96 17,-1
+is she like this ?,34 27 96 49 80,0
+you are not love it,24 66 21 194 17,-1
+we were not love it,70 48 21 194 17,-1
+was he love that ?,14 16 194 15 80,0
+you do not love it,24 81 21 194 17,-1
+she do not enjoy that,27 81 21 1784 15,-1
+was she like that ?,14 27 96 15 80,0
+does she like this ?,312 27 96 49 80,0
+why did you enjoy ?,305 73 24 1784 80,0
+are you enjoy that ?,66 24 1784 15 80,0
+he enjoy it,16 1784 17,1
+she did not enjoy this,27 73 21 1784 49,-1
+you is not love that,24 34 21 194 15,-1
+were he enjoy this ?,48 16 1784 49 80,0
+why were he love ?,305 48 16 194 80,0
+he was not like it,16 14 21 96 17,-1
+she do not like it,27 81 21 96 17,-1
+how do he like ?,110 81 16 96 80,0
+are he enjoy it ?,66 16 1784 17 80,0
+what do she like ?,55 81 27 96 80,0
+does i love this ?,312 5552 194 49 80,0
+were she like it ?,48 27 96 17 80,0
+i were not love that,5552 48 21 194 15,-1
+we love that,70 194 15,1
+she like that,27 96 15,1
+did they like this ?,73 45 96 49 80,0
+she enjoy it,27 1784 17,1
+what were we love ?,55 48 70 194 80,0
+why do he like ?,305 81 16 96 80,0
+why are he like ?,305 66 16 96 80,0
+i was not like that,5552 14 21 96 15,-1
+is they like it ?,34 45 96 17 80,0
+they did not like this,45 73 21 96 49,-1
+you are not like that,24 66 21 96 15,-1
+do he like this ?,81 16 96 49 80,0
+he were not enjoy it,16 48 21 1784 17,-1
+do i love that ?,81 5552 194 15 80,0
+were you like it ?,48 24 96 17 80,0
+you enjoy it,24 1784 17,1
+was you like it ?,14 24 96 17 80,0
+what were we love ?,55 48 70 194 80,0
+are he enjoy it ?,66 16 1784 17 80,0
+we is not love this,70 34 21 194 49,-1
+you enjoy it,24 1784 17,1
+they enjoy that,45 1784 15,1
+are i love it ?,66 5552 194 17 80,0
+what did we enjoy ?,55 73 70 1784 80,0
+you love it,24 194 17,1
+she love this,27 194 49,1
+we is not enjoy it,70 34 21 1784 17,-1
+did i enjoy that ?,73 5552 1784 15 80,0
+how are he love ?,110 66 16 194 80,0
+how does you enjoy ?,110 312 24 1784 80,0
+i enjoy this,5552 1784 49,1
+she are not love it,27 66 21 194 17,-1
+they like this,45 96 49,1
+did we like it ?,73 70 96 17 80,0
+they enjoy this,45 1784 49,1
+he love it,16 194 17,1
+what are she enjoy ?,55 66 27 1784 80,0
+why do you love ?,305 81 24 194 80,0
+i are not like it,5552 66 21 96 17,-1
+what was she enjoy ?,55 14 27 1784 80,0
+was he love it ?,14 16 194 17 80,0
+i do not like that,5552 81 21 96 15,-1
+why are he enjoy ?,305 66 16 1784 80,0
+she was not enjoy it,27 14 21 1784 17,-1
+we were not enjoy that,70 48 21 1784 15,-1
+they enjoy that,45 1784 15,1
+he does not like that,16 312 21 96 15,-1
+we love that,70 194 15,1
+we does not like it,70 312 21 96 17,-1
+how were they love ?,110 48 45 194 80,0
+he love this,16 194 49,1
+is i like that ?,34 5552 96 15 80,0
+why was you love ?,305 14 24 194 80,0
+what was i love ?,55 14 5552 194 80,0
+we are not love it,70 66 21 194 17,-1
+were she like this ?,48 27 96 49 80,0
+we do not love it,70 81 21 194 17,-1
+does i enjoy it ?,312 5552 1784 17 80,0
+what do we like ?,55 81 70 96 80,0
+i is not enjoy this,5552 34 21 1784 49,-1
+why were he like ?,305 48 16 96 80,0
+we are not like that,70 66 21 96 15,-1
+she like it,27 96 17,1
+does we like it ?,312 70 96 17 80,0
+she do not enjoy it,27 81 21 1784 17,-1
+we like this,70 96 49,1
+i is not enjoy this,5552 34 21 1784 49,-1
+why was we love ?,305 14 70 194 80,0
+how were you like ?,110 48 24 96 80,0
+are he like that ?,66 16 96 15 80,0
+you love it,24 194 17,1
+why did we enjoy ?,305 73 70 1784 80,0
+they were not love this,45 48 21 194 49,-1
+he love this,16 194 49,1
+you love that,24 194 15,1
+he love it,16 194 17,1
+she were not love it,27 48 21 194 17,-1
+you does not love this,24 312 21 194 49,-1
+we was not love that,70 14 21 194 15,-1
+we enjoy that,70 1784 15,1
+i were not like it,5552 48 21 96 17,-1
+he do not enjoy that,16 81 21 1784 15,-1
+what was we love ?,55 14 70 194 80,0
+he like it,16 96 17,1
+he enjoy it,16 1784 17,1
+does you like that ?,312 24 96 15 80,0
+how were you love ?,110 48 24 194 80,0
+did you enjoy it ?,73 24 1784 17 80,0
+they was not love it,45 14 21 194 17,-1
+why are i enjoy ?,305 66 5552 1784 80,0
+i are not like that,5552 66 21 96 15,-1
+how did you love ?,110 73 24 194 80,0
+they did not like this,45 73 21 96 49,-1
+why are we love ?,305 66 70 194 80,0
+you love it,24 194 17,1
+is they enjoy it ?,34 45 1784 17 80,0
+they love that,45 194 15,1
+i are not like that,5552 66 21 96 15,-1
+why do you enjoy ?,305 81 24 1784 80,0
+was he enjoy this ?,14 16 1784 49 80,0
+do she love it ?,81 27 194 17 80,0
+they like that,45 96 15,1
+do they enjoy it ?,81 45 1784 17 80,0
+does she enjoy it ?,312 27 1784 17 80,0
+you enjoy this,24 1784 49,1
+what were they like ?,55 48 45 96 80,0
+we is not enjoy this,70 34 21 1784 49,-1
+how was we enjoy ?,110 14 70 1784 80,0
+why is we like ?,305 34 70 96 80,0
+i like it,5552 96 17,1
+were they like it ?,48 45 96 17 80,0
+what did we like ?,55 73 70 96 80,0
+did they love this ?,73 45 194 49 80,0
+why are he enjoy ?,305 66 16 1784 80,0
+were he enjoy it ?,48 16 1784 17 80,0
+what were she enjoy ?,55 48 27 1784 80,0
+how are he like ?,110 66 16 96 80,0
+you does not enjoy it,24 312 21 1784 17,-1
+we did not enjoy that,70 73 21 1784 15,-1
+did we like it ?,73 70 96 17 80,0
+is they love that ?,34 45 194 15 80,0
+he love this,16 194 49,1
+how does i enjoy ?,110 312 5552 1784 80,0
+were she enjoy this ?,48 27 1784 49 80,0
+you like this,24 96 49,1
+did we love that ?,73 70 194 15 80,0
+do she love it ?,81 27 194 17 80,0
+i were not love it,5552 48 21 194 17,-1
+did she love it ?,73 27 194 17 80,0
+is you like it ?,34 24 96 17 80,0
+does she love this ?,312 27 194 49 80,0
+they did not enjoy that,45 73 21 1784 15,-1
+how does you enjoy ?,110 312 24 1784 80,0
+they enjoy it,45 1784 17,1
+she did not love this,27 73 21 194 49,-1
+what does i love ?,55 312 5552 194 80,0
+were they love it ?,48 45 194 17 80,0
+how are you love ?,110 66 24 194 80,0
+we is not like that,70 34 21 96 15,-1
+i did not love that,5552 73 21 194 15,-1
+i enjoy this,5552 1784 49,1
+what does they enjoy ?,55 312 45 1784 80,0
+he do not love this,16 81 21 194 49,-1
+did you enjoy it ?,73 24 1784 17 80,0
+why did he enjoy ?,305 73 16 1784 80,0
+is we enjoy this ?,34 70 1784 49 80,0
+we enjoy this,70 1784 49,1
+he were not enjoy it,16 48 21 1784 17,-1
+how did they enjoy ?,110 73 45 1784 80,0
+does you enjoy it ?,312 24 1784 17 80,0
+why does she like ?,305 312 27 96 80,0
+did we enjoy this ?,73 70 1784 49 80,0
+we like this,70 96 49,1
+they is not love it,45 34 21 194 17,-1
+you is not enjoy this,24 34 21 1784 49,-1
+he enjoy this,16 1784 49,1
+what did we enjoy ?,55 73 70 1784 80,0
+is she like it ?,34 27 96 17 80,0
+they enjoy that,45 1784 15,1
+is you enjoy it ?,34 24 1784 17 80,0
+i did not like that,5552 73 21 96 15,-1
+she do not love that,27 81 21 194 15,-1
+they enjoy that,45 1784 15,1
+you love this,24 194 49,1
+are they love this ?,66 45 194 49 80,0
+do they love it ?,81 45 194 17 80,0
+i are not enjoy it,5552 66 21 1784 17,-1
+he are not like it,16 66 21 96 17,-1
+they love it,45 194 17,1
+was we love this ?,14 70 194 49 80,0
+was you enjoy that ?,14 24 1784 15 80,0
+why are they enjoy ?,305 66 45 1784 80,0
+why does they love ?,305 312 45 194 80,0
+what did she like ?,55 73 27 96 80,0
+you enjoy that,24 1784 15,1
+they did not love this,45 73 21 194 49,-1
+why are i enjoy ?,305 66 5552 1784 80,0
+is i like this ?,34 5552 96 49 80,0
+i enjoy that,5552 1784 15,1
+why were i love ?,305 48 5552 194 80,0
+were she like that ?,48 27 96 15 80,0
+you are not enjoy it,24 66 21 1784 17,-1
+why did we like ?,305 73 70 96 80,0
+they enjoy this,45 1784 49,1
+what did i like ?,55 73 5552 96 80,0
+you does not like this,24 312 21 96 49,-1
+she love it,27 194 17,1
+they love that,45 194 15,1
+we like this,70 96 49,1
+you love it,24 194 17,1
+are she like that ?,66 27 96 15 80,0
+do i like this ?,81 5552 96 49 80,0
+i enjoy this,5552 1784 49,1
+they like this,45 96 49,1
+we did not love that,70 73 21 194 15,-1
+what was we like ?,55 14 70 96 80,0
+why was she enjoy ?,305 14 27 1784 80,0
+he are not like it,16 66 21 96 17,-1
+they enjoy that,45 1784 15,1
+she like this,27 96 49,1
+he are not love it,16 66 21 194 17,-1
+were you like that ?,48 24 96 15 80,0
+you enjoy that,24 1784 15,1
+they love this,45 194 49,1
+he does not like this,16 312 21 96 49,-1
+they were not like it,45 48 21 96 17,-1
+you love it,24 194 17,1
+is i like this ?,34 5552 96 49 80,0
+i love this,5552 194 49,1
+i enjoy it,5552 1784 17,1
+what are we like ?,55 66 70 96 80,0
+we love that,70 194 15,1
+do they like this ?,81 45 96 49 80,0
+they like it,45 96 17,1
+she does not enjoy that,27 312 21 1784 15,-1
+they is not love it,45 34 21 194 17,-1
+were you enjoy that ?,48 24 1784 15 80,0
+they enjoy it,45 1784 17,1
+are he enjoy it ?,66 16 1784 17 80,0
+you is not enjoy this,24 34 21 1784 49,-1
+she were not enjoy this,27 48 21 1784 49,-1
+is they enjoy that ?,34 45 1784 15 80,0
+did they love it ?,73 45 194 17 80,0
+he was not like it,16 14 21 96 17,-1
+what was i love ?,55 14 5552 194 80,0
+i does not like this,5552 312 21 96 49,-1
+i love it,5552 194 17,1
+why were she like ?,305 48 27 96 80,0
+we love that,70 194 15,1
+she was not like it,27 14 21 96 17,-1
+he love this,16 194 49,1
+how did we enjoy ?,110 73 70 1784 80,0
+i is not enjoy it,5552 34 21 1784 17,-1
+how did i enjoy ?,110 73 5552 1784 80,0
+she enjoy it,27 1784 17,1
+how does you love ?,110 312 24 194 80,0
+we like this,70 96 49,1
+what did we love ?,55 73 70 194 80,0
+we did not enjoy that,70 73 21 1784 15,-1
+they do not enjoy it,45 81 21 1784 17,-1
+she do not enjoy this,27 81 21 1784 49,-1
+how was i like ?,110 14 5552 96 80,0
+he does not enjoy that,16 312 21 1784 15,-1
+you did not like that,24 73 21 96 15,-1
+they are not love that,45 66 21 194 15,-1
+are they like this ?,66 45 96 49 80,0
+why were she enjoy ?,305 48 27 1784 80,0
+she do not like this,27 81 21 96 49,-1
+is he like this ?,34 16 96 49 80,0
+why do we enjoy ?,305 81 70 1784 80,0
+how was they enjoy ?,110 14 45 1784 80,0
+are he love this ?,66 16 194 49 80,0
+i is not like that,5552 34 21 96 15,-1
+he enjoy it,16 1784 17,1
+they like it,45 96 17,1
+why was he like ?,305 14 16 96 80,0
+is i like that ?,34 5552 96 15 80,0
+he are not enjoy this,16 66 21 1784 49,-1
+you does not like it,24 312 21 96 17,-1
+i is not enjoy this,5552 34 21 1784 49,-1
+we love that,70 194 15,1
+how are she like ?,110 66 27 96 80,0
+she like this,27 96 49,1
+how were we enjoy ?,110 48 70 1784 80,0
+we enjoy that,70 1784 15,1
+how does she like ?,110 312 27 96 80,0
+you love this,24 194 49,1
+were you love it ?,48 24 194 17 80,0
+you love it,24 194 17,1
+what was she love ?,55 14 27 194 80,0
+she like this,27 96 49,1
+are i enjoy this ?,66 5552 1784 49 80,0
+is we enjoy this ?,34 70 1784 49 80,0
+does we enjoy this ?,312 70 1784 49 80,0
+he love that,16 194 15,1
+you love this,24 194 49,1
+why is he love ?,305 34 16 194 80,0
+does she like this ?,312 27 96 49 80,0
+we enjoy this,70 1784 49,1
+is i like this ?,34 5552 96 49 80,0
+i like that,5552 96 15,1
+were they love that ?,48 45 194 15 80,0
+did he like it ?,73 16 96 17 80,0
+she like that,27 96 15,1
+were she like it ?,48 27 96 17 80,0
+is you like that ?,34 24 96 15 80,0
+did i love this ?,73 5552 194 49 80,0
+he is not enjoy this,16 34 21 1784 49,-1
+they love it,45 194 17,1
+what did she love ?,55 73 27 194 80,0
+how were you love ?,110 48 24 194 80,0
+how does she love ?,110 312 27 194 80,0
+did you like it ?,73 24 96 17 80,0
+how is you like ?,110 34 24 96 80,0
+they love this,45 194 49,1
+i love this,5552 194 49,1
+what is i love ?,55 34 5552 194 80,0
+i does not like it,5552 312 21 96 17,-1
+you enjoy that,24 1784 15,1
+we did not enjoy it,70 73 21 1784 17,-1
+did i like that ?,73 5552 96 15 80,0
+he enjoy that,16 1784 15,1
+we does not enjoy it,70 312 21 1784 17,-1
+we were not like this,70 48 21 96 49,-1
+was we love it ?,14 70 194 17 80,0
+how is we enjoy ?,110 34 70 1784 80,0
+he is not like this,16 34 21 96 49,-1
+how do i love ?,110 81 5552 194 80,0
+we love it,70 194 17,1
+she did not like that,27 73 21 96 15,-1
+i did not like it,5552 73 21 96 17,-1
+why does we love ?,305 312 70 194 80,0
+he do not enjoy that,16 81 21 1784 15,-1
+you like this,24 96 49,1
+she enjoy it,27 1784 17,1
+they love it,45 194 17,1
+she was not like that,27 14 21 96 15,-1
+how does you love ?,110 312 24 194 80,0
+you love it,24 194 17,1
+is we like that ?,34 70 96 15 80,0
+they love that,45 194 15,1
+they do not enjoy that,45 81 21 1784 15,-1
+they does not love that,45 312 21 194 15,-1
+are they like it ?,66 45 96 17 80,0
+does we like it ?,312 70 96 17 80,0
+you like this,24 96 49,1
+were you like it ?,48 24 96 17 80,0
+i do not love that,5552 81 21 194 15,-1
+you did not like that,24 73 21 96 15,-1
+i do not love that,5552 81 21 194 15,-1
+were i love this ?,48 5552 194 49 80,0
+she did not enjoy it,27 73 21 1784 17,-1
+we is not love that,70 34 21 194 15,-1
+does you like it ?,312 24 96 17 80,0
+how do he enjoy ?,110 81 16 1784 80,0
+we were not like this,70 48 21 96 49,-1
+do i enjoy it ?,81 5552 1784 17 80,0
+she does not enjoy that,27 312 21 1784 15,-1
+are they love that ?,66 45 194 15 80,0
+were i like this ?,48 5552 96 49 80,0
+she do not enjoy this,27 81 21 1784 49,-1
+i was not enjoy it,5552 14 21 1784 17,-1
+why was i enjoy ?,305 14 5552 1784 80,0
+i enjoy this,5552 1784 49,1
+is we love it ?,34 70 194 17 80,0
+what did he love ?,55 73 16 194 80,0
+he was not like this,16 14 21 96 49,-1
+how was he love ?,110 14 16 194 80,0
+i enjoy this,5552 1784 49,1
+we did not like that,70 73 21 96 15,-1
+how do they enjoy ?,110 81 45 1784 80,0
+she do not like this,27 81 21 96 49,-1
+how do he enjoy ?,110 81 16 1784 80,0
+is i love it ?,34 5552 194 17 80,0
+i did not like it,5552 73 21 96 17,-1
+how was we enjoy ?,110 14 70 1784 80,0
+was we love that ?,14 70 194 15 80,0
+i does not like that,5552 312 21 96 15,-1
+he like this,16 96 49,1
+what were they love ?,55 48 45 194 80,0
+they is not enjoy it,45 34 21 1784 17,-1
+we are not like that,70 66 21 96 15,-1
+i are not love that,5552 66 21 194 15,-1
+you love this,24 194 49,1
+i love it,5552 194 17,1
+does we like that ?,312 70 96 15 80,0
+why does they like ?,305 312 45 96 80,0
+did we love it ?,73 70 194 17 80,0
+she like that,27 96 15,1
+we do not love it,70 81 21 194 17,-1
+did they like that ?,73 45 96 15 80,0
+why did we like ?,305 73 70 96 80,0
+you enjoy that,24 1784 15,1
+what does they love ?,55 312 45 194 80,0
+we like it,70 96 17,1
+did i love this ?,73 5552 194 49 80,0
+she enjoy this,27 1784 49,1
+he like that,16 96 15,1
+we love this,70 194 49,1
+why did they love ?,305 73 45 194 80,0
+does he love that ?,312 16 194 15 80,0
+how did we love ?,110 73 70 194 80,0
+does we like this ?,312 70 96 49 80,0
+they enjoy that,45 1784 15,1
+we love that,70 194 15,1
+you like that,24 96 15,1
+did they love this ?,73 45 194 49 80,0
+they did not like that,45 73 21 96 15,-1
+why are they enjoy ?,305 66 45 1784 80,0
+she were not like it,27 48 21 96 17,-1
+he does not love this,16 312 21 194 49,-1
+do he like it ?,81 16 96 17 80,0
+why do he love ?,305 81 16 194 80,0
+he did not love it,16 73 21 194 17,-1
+does you love it ?,312 24 194 17 80,0
+were we like it ?,48 70 96 17 80,0
+i like this,5552 96 49,1
+i are not enjoy this,5552 66 21 1784 49,-1
+she enjoy that,27 1784 15,1
+is they enjoy it ?,34 45 1784 17 80,0
+you enjoy it,24 1784 17,1
+she enjoy this,27 1784 49,1
+we enjoy this,70 1784 49,1
+what did they enjoy ?,55 73 45 1784 80,0
+did she like that ?,73 27 96 15 80,0
+we was not love it,70 14 21 194 17,-1
+how do we love ?,110 81 70 194 80,0
+we was not enjoy it,70 14 21 1784 17,-1
+i like it,5552 96 17,1
+she was not like it,27 14 21 96 17,-1
+does he enjoy that ?,312 16 1784 15 80,0
+i love that,5552 194 15,1
+i were not like this,5552 48 21 96 49,-1
+you are not enjoy this,24 66 21 1784 49,-1
+she like it,27 96 17,1
+did she like that ?,73 27 96 15 80,0
+she are not love that,27 66 21 194 15,-1
+we like this,70 96 49,1
+how do i love ?,110 81 5552 194 80,0
+what is we love ?,55 34 70 194 80,0
+do she like this ?,81 27 96 49 80,0
+was he love it ?,14 16 194 17 80,0
+what were he enjoy ?,55 48 16 1784 80,0
+do she enjoy it ?,81 27 1784 17 80,0
+how do he love ?,110 81 16 194 80,0
+does we love this ?,312 70 194 49 80,0
+i did not like it,5552 73 21 96 17,-1
+he was not love this,16 14 21 194 49,-1
+were she love it ?,48 27 194 17 80,0
+we love it,70 194 17,1
+does we like that ?,312 70 96 15 80,0
+what does he enjoy ?,55 312 16 1784 80,0
+does we like it ?,312 70 96 17 80,0
+you love it,24 194 17,1
+she like this,27 96 49,1
+we does not enjoy this,70 312 21 1784 49,-1
+i do not love this,5552 81 21 194 49,-1
+why does he enjoy ?,305 312 16 1784 80,0
+you love that,24 194 15,1
+he love it,16 194 17,1
+she love it,27 194 17,1
+we was not love this,70 14 21 194 49,-1
+why did i enjoy ?,305 73 5552 1784 80,0
+why are he love ?,305 66 16 194 80,0
+she like it,27 96 17,1
+you was not love this,24 14 21 194 49,-1
+was i enjoy this ?,14 5552 1784 49 80,0
+you do not love it,24 81 21 194 17,-1
+does she like this ?,312 27 96 49 80,0
+was he love it ?,14 16 194 17 80,0
+i do not love it,5552 81 21 194 17,-1
+we was not love it,70 14 21 194 17,-1
+she are not enjoy it,27 66 21 1784 17,-1
+they were not like it,45 48 21 96 17,-1
+were you love this ?,48 24 194 49 80,0
+is we love that ?,34 70 194 15 80,0
+is they like that ?,34 45 96 15 80,0
+he was not like it,16 14 21 96 17,-1
+does you like it ?,312 24 96 17 80,0
+they like it,45 96 17,1
+you are not like it,24 66 21 96 17,-1
+what did she love ?,55 73 27 194 80,0
+what is you enjoy ?,55 34 24 1784 80,0
+how were you enjoy ?,110 48 24 1784 80,0
+i enjoy it,5552 1784 17,1
+i enjoy it,5552 1784 17,1
+was i like this ?,14 5552 96 49 80,0
+we love this,70 194 49,1
+did we enjoy this ?,73 70 1784 49 80,0
+they is not love this,45 34 21 194 49,-1
+she are not enjoy that,27 66 21 1784 15,-1
+what do they enjoy ?,55 81 45 1784 80,0
+she is not love it,27 34 21 194 17,-1
+do we enjoy it ?,81 70 1784 17 80,0
+she enjoy that,27 1784 15,1
+does they like this ?,312 45 96 49 80,0
+what are we love ?,55 66 70 194 80,0
+does i like it ?,312 5552 96 17 80,0
+does you enjoy it ?,312 24 1784 17 80,0
+did you enjoy this ?,73 24 1784 49 80,0
+we enjoy this,70 1784 49,1
+they was not love that,45 14 21 194 15,-1
+how was they like ?,110 14 45 96 80,0
+what was she love ?,55 14 27 194 80,0
+what does he enjoy ?,55 312 16 1784 80,0
+are we enjoy that ?,66 70 1784 15 80,0
+he love it,16 194 17,1
+i is not like it,5552 34 21 96 17,-1
+what were i enjoy ?,55 48 5552 1784 80,0
+he was not enjoy it,16 14 21 1784 17,-1
+did we like this ?,73 70 96 49 80,0
+they love that,45 194 15,1
+they enjoy it,45 1784 17,1
+she love this,27 194 49,1
+were she love that ?,48 27 194 15 80,0
+how do we love ?,110 81 70 194 80,0
+does she love it ?,312 27 194 17 80,0
+they love this,45 194 49,1
+how are they enjoy ?,110 66 45 1784 80,0
+were they like that ?,48 45 96 15 80,0
+we was not love that,70 14 21 194 15,-1
+they like this,45 96 49,1
+does she enjoy it ?,312 27 1784 17 80,0
+they like this,45 96 49,1
+we do not enjoy this,70 81 21 1784 49,-1
+they is not like it,45 34 21 96 17,-1
+what were she enjoy ?,55 48 27 1784 80,0
+he are not love it,16 66 21 194 17,-1
+was i enjoy this ?,14 5552 1784 49 80,0
+do he enjoy it ?,81 16 1784 17 80,0
+was i enjoy that ?,14 5552 1784 15 80,0
+how were he like ?,110 48 16 96 80,0
+is you love it ?,34 24 194 17 80,0
+i like this,5552 96 49,1
+he does not like this,16 312 21 96 49,-1
+what is they love ?,55 34 45 194 80,0
+you like it,24 96 17,1
+why were we enjoy ?,305 48 70 1784 80,0
+what do he enjoy ?,55 81 16 1784 80,0
+are i love that ?,66 5552 194 15 80,0
+we like this,70 96 49,1
+he love this,16 194 49,1
+we love that,70 194 15,1
+what does they enjoy ?,55 312 45 1784 80,0
+we love this,70 194 49,1
+he love this,16 194 49,1
+what does he enjoy ?,55 312 16 1784 80,0
+he does not like it,16 312 21 96 17,-1
+we like this,70 96 49,1
+he does not love this,16 312 21 194 49,-1
+he did not enjoy that,16 73 21 1784 15,-1
+she love it,27 194 17,1
+how did he like ?,110 73 16 96 80,0
+he like this,16 96 49,1
+why does i enjoy ?,305 312 5552 1784 80,0
+are we like that ?,66 70 96 15 80,0
+is you enjoy this ?,34 24 1784 49 80,0
+why was i love ?,305 14 5552 194 80,0
+how is he like ?,110 34 16 96 80,0
+why do he enjoy ?,305 81 16 1784 80,0
+she like that,27 96 15,1
+what did we enjoy ?,55 73 70 1784 80,0
+how did i enjoy ?,110 73 5552 1784 80,0
+you like it,24 96 17,1
+how is she enjoy ?,110 34 27 1784 80,0
+why did you love ?,305 73 24 194 80,0
+you was not love it,24 14 21 194 17,-1
+is we enjoy that ?,34 70 1784 15 80,0
+do you love that ?,81 24 194 15 80,0
+how did i like ?,110 73 5552 96 80,0
+is he love this ?,34 16 194 49 80,0
+are he enjoy it ?,66 16 1784 17 80,0
+is you like that ?,34 24 96 15 80,0
+we love this,70 194 49,1
+they is not love that,45 34 21 194 15,-1
+why do he enjoy ?,305 81 16 1784 80,0
+are we love that ?,66 70 194 15 80,0
+were she love it ?,48 27 194 17 80,0
+she like it,27 96 17,1
+she did not like that,27 73 21 96 15,-1
+are you like it ?,66 24 96 17 80,0
+why were you love ?,305 48 24 194 80,0
+you was not love that,24 14 21 194 15,-1
+do she like that ?,81 27 96 15 80,0
+he is not like that,16 34 21 96 15,-1
+are he love that ?,66 16 194 15 80,0
+what were he enjoy ?,55 48 16 1784 80,0
+they love this,45 194 49,1
+i like that,5552 96 15,1
+you enjoy it,24 1784 17,1
+he do not enjoy this,16 81 21 1784 49,-1
+do they enjoy it ?,81 45 1784 17 80,0
+you enjoy this,24 1784 49,1
+i like this,5552 96 49,1
+how were he like ?,110 48 16 96 80,0
+they love it,45 194 17,1
+they love this,45 194 49,1
+he like it,16 96 17,1
+they like it,45 96 17,1
+does we enjoy it ?,312 70 1784 17 80,0
+did they love it ?,73 45 194 17 80,0
+why did he love ?,305 73 16 194 80,0
+how did i like ?,110 73 5552 96 80,0
+was she enjoy that ?,14 27 1784 15 80,0
+i is not love it,5552 34 21 194 17,-1
+how is we enjoy ?,110 34 70 1784 80,0
+you were not enjoy it,24 48 21 1784 17,-1
+they is not enjoy that,45 34 21 1784 15,-1
+she enjoy that,27 1784 15,1
+we are not love this,70 66 21 194 49,-1
+we is not love it,70 34 21 194 17,-1
+he love this,16 194 49,1
+he enjoy this,16 1784 49,1
+how were we love ?,110 48 70 194 80,0
+how were we like ?,110 48 70 96 80,0
+i love that,5552 194 15,1
+i like that,5552 96 15,1
+he do not like that,16 81 21 96 15,-1
+what do they love ?,55 81 45 194 80,0
+did we love that ?,73 70 194 15 80,0
+does you like this ?,312 24 96 49 80,0
+how do they enjoy ?,110 81 45 1784 80,0
+how does he love ?,110 312 16 194 80,0
+why was i like ?,305 14 5552 96 80,0
+what was we like ?,55 14 70 96 80,0
+they were not like that,45 48 21 96 15,-1
+what are she love ?,55 66 27 194 80,0
+is you love this ?,34 24 194 49 80,0
+why do you enjoy ?,305 81 24 1784 80,0
+do she love that ?,81 27 194 15 80,0
+he like this,16 96 49,1
+what were they enjoy ?,55 48 45 1784 80,0
+does you like that ?,312 24 96 15 80,0
+you does not love this,24 312 21 194 49,-1
+do i love it ?,81 5552 194 17 80,0
+are i like that ?,66 5552 96 15 80,0
+he like it,16 96 17,1
+did you enjoy it ?,73 24 1784 17 80,0
+he was not like that,16 14 21 96 15,-1
+how did we enjoy ?,110 73 70 1784 80,0
+what were we like ?,55 48 70 96 80,0
+he enjoy that,16 1784 15,1
+they were not like it,45 48 21 96 17,-1
+we does not love that,70 312 21 194 15,-1
+what were we enjoy ?,55 48 70 1784 80,0
+was he like that ?,14 16 96 15 80,0
+why are i enjoy ?,305 66 5552 1784 80,0
+you love that,24 194 15,1
+is she enjoy that ?,34 27 1784 15 80,0
+what were she like ?,55 48 27 96 80,0
+they love this,45 194 49,1
+she are not love it,27 66 21 194 17,-1
+was i enjoy this ?,14 5552 1784 49 80,0
+you were not like it,24 48 21 96 17,-1
+he like it,16 96 17,1
+she like this,27 96 49,1
+why were you like ?,305 48 24 96 80,0
+i do not like that,5552 81 21 96 15,-1
+how is i enjoy ?,110 34 5552 1784 80,0
+i did not enjoy it,5552 73 21 1784 17,-1
+why does they like ?,305 312 45 96 80,0
+she did not like it,27 73 21 96 17,-1
+she do not love this,27 81 21 194 49,-1
+they does not enjoy this,45 312 21 1784 49,-1
+she is not love that,27 34 21 194 15,-1
+how did they enjoy ?,110 73 45 1784 80,0
+they enjoy it,45 1784 17,1
+do i like it ?,81 5552 96 17 80,0
+we are not love it,70 66 21 194 17,-1
+we enjoy it,70 1784 17,1
+they like it,45 96 17,1
+how does we love ?,110 312 70 194 80,0
+they is not enjoy that,45 34 21 1784 15,-1
+i do not enjoy it,5552 81 21 1784 17,-1
+are we enjoy that ?,66 70 1784 15 80,0
+i enjoy this,5552 1784 49,1
+what do he like ?,55 81 16 96 80,0
+he enjoy it,16 1784 17,1
+what was he like ?,55 14 16 96 80,0
+does i like that ?,312 5552 96 15 80,0
+we was not like it,70 14 21 96 17,-1
+how does you love ?,110 312 24 194 80,0
+are they love this ?,66 45 194 49 80,0
+you were not like this,24 48 21 96 49,-1
+were they love this ?,48 45 194 49 80,0
+why do we love ?,305 81 70 194 80,0
+why do he like ?,305 81 16 96 80,0
+why does she enjoy ?,305 312 27 1784 80,0
+what does she love ?,55 312 27 194 80,0
+she love this,27 194 49,1
+was you enjoy this ?,14 24 1784 49 80,0
+why was you love ?,305 14 24 194 80,0
+why is he love ?,305 34 16 194 80,0
+she did not like this,27 73 21 96 49,-1
+we enjoy that,70 1784 15,1
+what were they enjoy ?,55 48 45 1784 80,0
+what is she enjoy ?,55 34 27 1784 80,0
+they are not like that,45 66 21 96 15,-1
+why does she like ?,305 312 27 96 80,0
+is he like this ?,34 16 96 49 80,0
+how were he like ?,110 48 16 96 80,0
+they is not love that,45 34 21 194 15,-1
+is they enjoy it ?,34 45 1784 17 80,0
+we love that,70 194 15,1
+is we love it ?,34 70 194 17 80,0
+you like this,24 96 49,1
+you are not love this,24 66 21 194 49,-1
+does we like it ?,312 70 96 17 80,0
+how are we enjoy ?,110 66 70 1784 80,0
+they do not enjoy that,45 81 21 1784 15,-1
+we like it,70 96 17,1
+they do not enjoy this,45 81 21 1784 49,-1
+what were he love ?,55 48 16 194 80,0
+how did they like ?,110 73 45 96 80,0
+they was not like this,45 14 21 96 49,-1
+how were she like ?,110 48 27 96 80,0
+was she enjoy that ?,14 27 1784 15 80,0
+what were we enjoy ?,55 48 70 1784 80,0
+i like it,5552 96 17,1
+he enjoy it,16 1784 17,1
+why are they love ?,305 66 45 194 80,0
+she is not love that,27 34 21 194 15,-1
+i love that,5552 194 15,1
+you love this,24 194 49,1
+is i like it ?,34 5552 96 17 80,0
+why did he enjoy ?,305 73 16 1784 80,0
+is you like this ?,34 24 96 49 80,0
+they like that,45 96 15,1
+they enjoy that,45 1784 15,1
+she are not like that,27 66 21 96 15,-1
+i like this,5552 96 49,1
+we are not like it,70 66 21 96 17,-1
+how is we love ?,110 34 70 194 80,0
+we enjoy this,70 1784 49,1
+we like this,70 96 49,1
+what do she like ?,55 81 27 96 80,0
+he is not like this,16 34 21 96 49,-1
+are you like this ?,66 24 96 49 80,0
+they were not like this,45 48 21 96 49,-1
+you do not enjoy that,24 81 21 1784 15,-1
+they love that,45 194 15,1
+he does not like this,16 312 21 96 49,-1
+we enjoy this,70 1784 49,1
+is he enjoy it ?,34 16 1784 17 80,0
+they like this,45 96 49,1
+she enjoy that,27 1784 15,1
+you are not enjoy that,24 66 21 1784 15,-1
+how does he enjoy ?,110 312 16 1784 80,0
+she does not enjoy it,27 312 21 1784 17,-1
+he were not enjoy that,16 48 21 1784 15,-1
+why was you love ?,305 14 24 194 80,0
+was they like that ?,14 45 96 15 80,0
+i like that,5552 96 15,1
+they love that,45 194 15,1
+i enjoy this,5552 1784 49,1
+why are he love ?,305 66 16 194 80,0
+she is not love this,27 34 21 194 49,-1
+are she enjoy that ?,66 27 1784 15 80,0
+i is not like this,5552 34 21 96 49,-1
+i love it,5552 194 17,1
+i were not enjoy this,5552 48 21 1784 49,-1
+they enjoy it,45 1784 17,1
+she love that,27 194 15,1
+they are not like it,45 66 21 96 17,-1
+what did he enjoy ?,55 73 16 1784 80,0
+were i enjoy this ?,48 5552 1784 49 80,0
+what do they like ?,55 81 45 96 80,0
+why do she love ?,305 81 27 194 80,0
+i was not love it,5552 14 21 194 17,-1
+was you love this ?,14 24 194 49 80,0
+do they like that ?,81 45 96 15 80,0
+we were not love it,70 48 21 194 17,-1
+what were she like ?,55 48 27 96 80,0
+we was not enjoy that,70 14 21 1784 15,-1
+i enjoy this,5552 1784 49,1
+do he love that ?,81 16 194 15 80,0
+they do not enjoy it,45 81 21 1784 17,-1
+i love that,5552 194 15,1
+we did not like it,70 73 21 96 17,-1
+did i like this ?,73 5552 96 49 80,0
+what was she love ?,55 14 27 194 80,0
+were she enjoy this ?,48 27 1784 49 80,0
+did she love it ?,73 27 194 17 80,0
+they were not love that,45 48 21 194 15,-1
+they like it,45 96 17,1
+what is we love ?,55 34 70 194 80,0
+you love it,24 194 17,1
+why was you enjoy ?,305 14 24 1784 80,0
+you are not like this,24 66 21 96 49,-1
+you love this,24 194 49,1
+he were not like that,16 48 21 96 15,-1
+we love this,70 194 49,1
+we enjoy that,70 1784 15,1
+how were they enjoy ?,110 48 45 1784 80,0
+were he enjoy that ?,48 16 1784 15 80,0
+they is not enjoy that,45 34 21 1784 15,-1
+do he like it ?,81 16 96 17 80,0
+do they like that ?,81 45 96 15 80,0
+why was he love ?,305 14 16 194 80,0
+we enjoy this,70 1784 49,1
+i was not like that,5552 14 21 96 15,-1
+how were they love ?,110 48 45 194 80,0
+we was not enjoy it,70 14 21 1784 17,-1
+we enjoy it,70 1784 17,1
+why did they enjoy ?,305 73 45 1784 80,0
+she is not love this,27 34 21 194 49,-1
+he enjoy this,16 1784 49,1
+how do we like ?,110 81 70 96 80,0
+what are you enjoy ?,55 66 24 1784 80,0
+was you like that ?,14 24 96 15 80,0
+they like that,45 96 15,1
+how is we enjoy ?,110 34 70 1784 80,0
+were i enjoy that ?,48 5552 1784 15 80,0
+i enjoy it,5552 1784 17,1
+were i enjoy that ?,48 5552 1784 15 80,0
+does he like this ?,312 16 96 49 80,0
+are i enjoy this ?,66 5552 1784 49 80,0
+do i love this ?,81 5552 194 49 80,0
+what were she enjoy ?,55 48 27 1784 80,0
+she does not like it,27 312 21 96 17,-1
+why were you like ?,305 48 24 96 80,0
+does she like that ?,312 27 96 15 80,0
+she love this,27 194 49,1
+he does not like this,16 312 21 96 49,-1
+he love it,16 194 17,1
+they does not like that,45 312 21 96 15,-1
+why was i like ?,305 14 5552 96 80,0
+he was not enjoy this,16 14 21 1784 49,-1
+what do she like ?,55 81 27 96 80,0
+we did not like that,70 73 21 96 15,-1
+why does you enjoy ?,305 312 24 1784 80,0
+why were you enjoy ?,305 48 24 1784 80,0
+you did not enjoy this,24 73 21 1784 49,-1
+does i love this ?,312 5552 194 49 80,0
+i like it,5552 96 17,1
+you love that,24 194 15,1
+why was you like ?,305 14 24 96 80,0
+i love it,5552 194 17,1
+did you like it ?,73 24 96 17 80,0
+how is they like ?,110 34 45 96 80,0
+how are we love ?,110 66 70 194 80,0
+why do we love ?,305 81 70 194 80,0
+i like it,5552 96 17,1
+what does we like ?,55 312 70 96 80,0
+he like it,16 96 17,1
+why was we like ?,305 14 70 96 80,0
+what does we love ?,55 312 70 194 80,0
+is you like it ?,34 24 96 17 80,0
+how was i like ?,110 14 5552 96 80,0
+do i love it ?,81 5552 194 17 80,0
+he love this,16 194 49,1
+i did not enjoy that,5552 73 21 1784 15,-1
+was she love that ?,14 27 194 15 80,0
+are he love this ?,66 16 194 49 80,0
+they love it,45 194 17,1
+does she love this ?,312 27 194 49 80,0
+what do they like ?,55 81 45 96 80,0
+he were not like that,16 48 21 96 15,-1
+are she love that ?,66 27 194 15 80,0
+you enjoy this,24 1784 49,1
+why were i love ?,305 48 5552 194 80,0
+we enjoy it,70 1784 17,1
+i does not love that,5552 312 21 194 15,-1
+why do i love ?,305 81 5552 194 80,0
+i does not enjoy it,5552 312 21 1784 17,-1
+do he love that ?,81 16 194 15 80,0
+i did not enjoy that,5552 73 21 1784 15,-1
+why did we enjoy ?,305 73 70 1784 80,0
+we enjoy that,70 1784 15,1
+we are not love that,70 66 21 194 15,-1
+he are not like it,16 66 21 96 17,-1
+was she enjoy this ?,14 27 1784 49 80,0
+do you enjoy that ?,81 24 1784 15 80,0
+she love it,27 194 17,1
+we are not like this,70 66 21 96 49,-1
+we enjoy it,70 1784 17,1
+she were not like this,27 48 21 96 49,-1
+they was not like that,45 14 21 96 15,-1
+we like that,70 96 15,1
+you enjoy this,24 1784 49,1
+does they love this ?,312 45 194 49 80,0
+they like that,45 96 15,1
+she do not love it,27 81 21 194 17,-1
+she like that,27 96 15,1
+what are they enjoy ?,55 66 45 1784 80,0
+i does not enjoy this,5552 312 21 1784 49,-1
+was we like it ?,14 70 96 17 80,0
+does we love this ?,312 70 194 49 80,0
+what were we like ?,55 48 70 96 80,0
+were i like it ?,48 5552 96 17 80,0
+they are not enjoy that,45 66 21 1784 15,-1
+i was not like this,5552 14 21 96 49,-1
+she were not like that,27 48 21 96 15,-1
+how are they enjoy ?,110 66 45 1784 80,0
+how are i enjoy ?,110 66 5552 1784 80,0
+you did not love that,24 73 21 194 15,-1
+i enjoy this,5552 1784 49,1
+she like this,27 96 49,1
+what does they love ?,55 312 45 194 80,0
+are we enjoy that ?,66 70 1784 15 80,0
+he were not like it,16 48 21 96 17,-1
+you were not love this,24 48 21 194 49,-1
+you love that,24 194 15,1
+why were he love ?,305 48 16 194 80,0
+he are not enjoy this,16 66 21 1784 49,-1
+you love that,24 194 15,1
+do we like this ?,81 70 96 49 80,0
+does you love it ?,312 24 194 17 80,0
+he does not love it,16 312 21 194 17,-1
+how did i love ?,110 73 5552 194 80,0
+he do not enjoy that,16 81 21 1784 15,-1
+were we enjoy it ?,48 70 1784 17 80,0
+what were we enjoy ?,55 48 70 1784 80,0
+you were not like that,24 48 21 96 15,-1
+were we like this ?,48 70 96 49 80,0
+i like it,5552 96 17,1
+he enjoy it,16 1784 17,1
+he love that,16 194 15,1
+how do you love ?,110 81 24 194 80,0
+they do not love that,45 81 21 194 15,-1
+she enjoy that,27 1784 15,1
+you enjoy that,24 1784 15,1
+they did not love this,45 73 21 194 49,-1
+we love that,70 194 15,1
+were i love this ?,48 5552 194 49 80,0
+what were she like ?,55 48 27 96 80,0
+he are not like that,16 66 21 96 15,-1
+we enjoy this,70 1784 49,1
+she love it,27 194 17,1
+how were they love ?,110 48 45 194 80,0
+they do not enjoy that,45 81 21 1784 15,-1
+was we love that ?,14 70 194 15 80,0
+you does not love this,24 312 21 194 49,-1
+we were not like it,70 48 21 96 17,-1
+are they like it ?,66 45 96 17 80,0
+was you like that ?,14 24 96 15 80,0
+he was not love this,16 14 21 194 49,-1
+how does they like ?,110 312 45 96 80,0
+you is not like this,24 34 21 96 49,-1
+why does they love ?,305 312 45 194 80,0
+do i like that ?,81 5552 96 15 80,0
+was they like this ?,14 45 96 49 80,0
+why is you like ?,305 34 24 96 80,0
+do she love this ?,81 27 194 49 80,0
+does she love it ?,312 27 194 17 80,0
+they like that,45 96 15,1
+they was not enjoy this,45 14 21 1784 49,-1
+does they love this ?,312 45 194 49 80,0
+is they enjoy it ?,34 45 1784 17 80,0
+i were not like it,5552 48 21 96 17,-1
+how was you love ?,110 14 24 194 80,0
+how was i love ?,110 14 5552 194 80,0
+he enjoy that,16 1784 15,1
+how do she like ?,110 81 27 96 80,0
+is we love this ?,34 70 194 49 80,0
+why was you enjoy ?,305 14 24 1784 80,0
+what does i love ?,55 312 5552 194 80,0
+is she love it ?,34 27 194 17 80,0
+do he like it ?,81 16 96 17 80,0
+how do he like ?,110 81 16 96 80,0
+they did not enjoy it,45 73 21 1784 17,-1
+is you like this ?,34 24 96 49 80,0
+why did he like ?,305 73 16 96 80,0
+she were not like that,27 48 21 96 15,-1
+how do they enjoy ?,110 81 45 1784 80,0
+he were not love this,16 48 21 194 49,-1
+was we like it ?,14 70 96 17 80,0
+he does not like it,16 312 21 96 17,-1
+what is we enjoy ?,55 34 70 1784 80,0
+we love that,70 194 15,1
+how did they love ?,110 73 45 194 80,0
+we like this,70 96 49,1
+what did you like ?,55 73 24 96 80,0
+was you like this ?,14 24 96 49 80,0
+how are she enjoy ?,110 66 27 1784 80,0
+did we love that ?,73 70 194 15 80,0
+did we love that ?,73 70 194 15 80,0
+you enjoy it,24 1784 17,1
+she love that,27 194 15,1
+why is we enjoy ?,305 34 70 1784 80,0
+how are we love ?,110 66 70 194 80,0
+we were not like it,70 48 21 96 17,-1
+they was not love that,45 14 21 194 15,-1
+was he love it ?,14 16 194 17 80,0
+they like that,45 96 15,1
+i enjoy that,5552 1784 15,1
+they like it,45 96 17,1
+she are not enjoy that,27 66 21 1784 15,-1
+we love this,70 194 49,1
+do she enjoy it ?,81 27 1784 17 80,0
+was they enjoy this ?,14 45 1784 49 80,0
+we is not love this,70 34 21 194 49,-1
+does she enjoy that ?,312 27 1784 15 80,0
+do you like that ?,81 24 96 15 80,0
+how is he enjoy ?,110 34 16 1784 80,0
+he does not enjoy this,16 312 21 1784 49,-1
+does they love that ?,312 45 194 15 80,0
+he love this,16 194 49,1
+i enjoy that,5552 1784 15,1
+how do we love ?,110 81 70 194 80,0
+i love it,5552 194 17,1
+i was not like that,5552 14 21 96 15,-1
+how did we like ?,110 73 70 96 80,0
+i love it,5552 194 17,1
+was they enjoy it ?,14 45 1784 17 80,0
+how did you enjoy ?,110 73 24 1784 80,0
+they do not like that,45 81 21 96 15,-1
+did he like this ?,73 16 96 49 80,0
+we is not love this,70 34 21 194 49,-1
+does you like that ?,312 24 96 15 80,0
+were we enjoy that ?,48 70 1784 15 80,0
+i love it,5552 194 17,1
+what are they like ?,55 66 45 96 80,0
+we like this,70 96 49,1
+why did i enjoy ?,305 73 5552 1784 80,0
+she like that,27 96 15,1
+i enjoy this,5552 1784 49,1
+we enjoy it,70 1784 17,1
+she enjoy that,27 1784 15,1
+did she love this ?,73 27 194 49 80,0
+is we like this ?,34 70 96 49 80,0
+he does not like it,16 312 21 96 17,-1
+you is not love this,24 34 21 194 49,-1
+how do they enjoy ?,110 81 45 1784 80,0
+do they enjoy that ?,81 45 1784 15 80,0
+how is they enjoy ?,110 34 45 1784 80,0
+i was not love that,5552 14 21 194 15,-1
+she was not love that,27 14 21 194 15,-1
+were he like it ?,48 16 96 17 80,0
+you did not like this,24 73 21 96 49,-1
+why were you love ?,305 48 24 194 80,0
+why did she like ?,305 73 27 96 80,0
+i is not like that,5552 34 21 96 15,-1
+how do they enjoy ?,110 81 45 1784 80,0
+i love it,5552 194 17,1
+did you enjoy this ?,73 24 1784 49 80,0
+do i like this ?,81 5552 96 49 80,0
+what was we enjoy ?,55 14 70 1784 80,0
+were he like that ?,48 16 96 15 80,0
+he enjoy this,16 1784 49,1
+they like that,45 96 15,1
+we does not enjoy this,70 312 21 1784 49,-1
+they love it,45 194 17,1
+do we love it ?,81 70 194 17 80,0
+what are you love ?,55 66 24 194 80,0
+they enjoy this,45 1784 49,1
+does they enjoy that ?,312 45 1784 15 80,0
+i love this,5552 194 49,1
+she like that,27 96 15,1
+how is you love ?,110 34 24 194 80,0
+is we enjoy it ?,34 70 1784 17 80,0
+what are you like ?,55 66 24 96 80,0
+why were we enjoy ?,305 48 70 1784 80,0
+she love that,27 194 15,1
+what does you enjoy ?,55 312 24 1784 80,0
+we like this,70 96 49,1
+do he like that ?,81 16 96 15 80,0
+i is not like this,5552 34 21 96 49,-1
+we enjoy it,70 1784 17,1
+are she enjoy it ?,66 27 1784 17 80,0
+they was not enjoy that,45 14 21 1784 15,-1
+we love it,70 194 17,1
+we were not enjoy it,70 48 21 1784 17,-1
+we love this,70 194 49,1
+they like that,45 96 15,1
+were i love that ?,48 5552 194 15 80,0
+she was not enjoy this,27 14 21 1784 49,-1
+i love it,5552 194 17,1
+he enjoy it,16 1784 17,1
+she were not love this,27 48 21 194 49,-1
+we enjoy that,70 1784 15,1
+she is not enjoy it,27 34 21 1784 17,-1
+are he enjoy that ?,66 16 1784 15 80,0
+you enjoy this,24 1784 49,1
+i do not like this,5552 81 21 96 49,-1
+why does they enjoy ?,305 312 45 1784 80,0
+you love it,24 194 17,1
+they love it,45 194 17,1
+you enjoy that,24 1784 15,1
+you like that,24 96 15,1
+she like this,27 96 49,1
+were we love it ?,48 70 194 17 80,0
+she love that,27 194 15,1
+they enjoy this,45 1784 49,1
+how are i love ?,110 66 5552 194 80,0
+they were not love it,45 48 21 194 17,-1
+how were we enjoy ?,110 48 70 1784 80,0
+why was he enjoy ?,305 14 16 1784 80,0
+are he love it ?,66 16 194 17 80,0
+does she love this ?,312 27 194 49 80,0
+did you like it ?,73 24 96 17 80,0
+he like this,16 96 49,1
+was we like that ?,14 70 96 15 80,0
+they love that,45 194 15,1
+we like this,70 96 49,1
+i enjoy this,5552 1784 49,1
+she enjoy this,27 1784 49,1
+he is not love it,16 34 21 194 17,-1
+he like that,16 96 15,1
+why does we love ?,305 312 70 194 80,0
+you were not like it,24 48 21 96 17,-1
+she like it,27 96 17,1
+what are you love ?,55 66 24 194 80,0
+do she love this ?,81 27 194 49 80,0
+i does not love this,5552 312 21 194 49,-1
+she love this,27 194 49,1
+i love that,5552 194 15,1
+you enjoy this,24 1784 49,1
+what was they love ?,55 14 45 194 80,0
+we did not like this,70 73 21 96 49,-1
+does he like that ?,312 16 96 15 80,0
+she like that,27 96 15,1
+how do she love ?,110 81 27 194 80,0
+are you love it ?,66 24 194 17 80,0
+does they enjoy this ?,312 45 1784 49 80,0
+were you love this ?,48 24 194 49 80,0
+she did not enjoy it,27 73 21 1784 17,-1
+is we love this ?,34 70 194 49 80,0
+you like this,24 96 49,1
+how was she love ?,110 14 27 194 80,0
+why were i love ?,305 48 5552 194 80,0
+why does they enjoy ?,305 312 45 1784 80,0
+she did not like it,27 73 21 96 17,-1
+he is not love this,16 34 21 194 49,-1
+what does she love ?,55 312 27 194 80,0
+what is you love ?,55 34 24 194 80,0
+he was not enjoy it,16 14 21 1784 17,-1
+she enjoy that,27 1784 15,1
+did he love this ?,73 16 194 49 80,0
+do she like that ?,81 27 96 15 80,0
+does you love it ?,312 24 194 17 80,0
+were i like this ?,48 5552 96 49 80,0
+she enjoy that,27 1784 15,1
+she was not love that,27 14 21 194 15,-1
+what did he enjoy ?,55 73 16 1784 80,0
+you does not enjoy this,24 312 21 1784 49,-1
+you like that,24 96 15,1
+is you like this ?,34 24 96 49 80,0
+did they like it ?,73 45 96 17 80,0
+she enjoy that,27 1784 15,1
+you love it,24 194 17,1
+you like that,24 96 15,1
+they love this,45 194 49,1
+why does he love ?,305 312 16 194 80,0
+is they love it ?,34 45 194 17 80,0
+you like it,24 96 17,1
+was he like this ?,14 16 96 49 80,0
+what is you love ?,55 34 24 194 80,0
+i enjoy this,5552 1784 49,1
+is i love it ?,34 5552 194 17 80,0
+are she love this ?,66 27 194 49 80,0
+why do you enjoy ?,305 81 24 1784 80,0
+are they enjoy it ?,66 45 1784 17 80,0
+are i like it ?,66 5552 96 17 80,0
+why was he love ?,305 14 16 194 80,0
+he enjoy it,16 1784 17,1
+why are you like ?,305 66 24 96 80,0
+were i enjoy that ?,48 5552 1784 15 80,0
+they does not like this,45 312 21 96 49,-1
+did we love that ?,73 70 194 15 80,0
+you are not enjoy that,24 66 21 1784 15,-1
+do we love it ?,81 70 194 17 80,0
+we do not like it,70 81 21 96 17,-1
+they like that,45 96 15,1
+we is not like this,70 34 21 96 49,-1
+were they love that ?,48 45 194 15 80,0
+why did i enjoy ?,305 73 5552 1784 80,0
+are you like this ?,66 24 96 49 80,0
+they love that,45 194 15,1
+you does not love it,24 312 21 194 17,-1
+he like that,16 96 15,1
+you was not like it,24 14 21 96 17,-1
+how was they enjoy ?,110 14 45 1784 80,0
+i love that,5552 194 15,1
+why is i love ?,305 34 5552 194 80,0
+how did we love ?,110 73 70 194 80,0
+they love this,45 194 49,1
+is he enjoy this ?,34 16 1784 49 80,0
+i enjoy that,5552 1784 15,1
+did you love that ?,73 24 194 15 80,0
+how did they like ?,110 73 45 96 80,0
+how do he like ?,110 81 16 96 80,0
+she is not enjoy that,27 34 21 1784 15,-1
+we love that,70 194 15,1
+you were not like this,24 48 21 96 49,-1
+does you enjoy this ?,312 24 1784 49 80,0
+why were she like ?,305 48 27 96 80,0
+were i like that ?,48 5552 96 15 80,0
+what does we like ?,55 312 70 96 80,0
+you like this,24 96 49,1
+why are they love ?,305 66 45 194 80,0
+is he love that ?,34 16 194 15 80,0
+she do not enjoy that,27 81 21 1784 15,-1
+are they like it ?,66 45 96 17 80,0
+i love it,5552 194 17,1
+why was i like ?,305 14 5552 96 80,0
+she did not enjoy that,27 73 21 1784 15,-1
+she love it,27 194 17,1
+why do we love ?,305 81 70 194 80,0
+they are not love that,45 66 21 194 15,-1
+what do i like ?,55 81 5552 96 80,0
+he enjoy that,16 1784 15,1
+we does not love this,70 312 21 194 49,-1
+how did they enjoy ?,110 73 45 1784 80,0
+i are not love it,5552 66 21 194 17,-1
+is he like this ?,34 16 96 49 80,0
+they did not like that,45 73 21 96 15,-1
+what is you love ?,55 34 24 194 80,0
+we enjoy that,70 1784 15,1
+what do she like ?,55 81 27 96 80,0
+they did not love it,45 73 21 194 17,-1
+what was you like ?,55 14 24 96 80,0
+are they enjoy that ?,66 45 1784 15 80,0
+they like it,45 96 17,1
+why do he love ?,305 81 16 194 80,0
+you are not love this,24 66 21 194 49,-1
+why are you love ?,305 66 24 194 80,0
+were she like that ?,48 27 96 15 80,0
+why is you enjoy ?,305 34 24 1784 80,0
+i was not enjoy it,5552 14 21 1784 17,-1
+was you enjoy it ?,14 24 1784 17 80,0
+we are not like that,70 66 21 96 15,-1
+you enjoy that,24 1784 15,1
+were she love that ?,48 27 194 15 80,0
+she like this,27 96 49,1
+did he enjoy it ?,73 16 1784 17 80,0
+what are you like ?,55 66 24 96 80,0
+i did not enjoy it,5552 73 21 1784 17,-1
+he love this,16 194 49,1
+why was i love ?,305 14 5552 194 80,0
+was you like it ?,14 24 96 17 80,0
+they did not enjoy it,45 73 21 1784 17,-1
+she enjoy this,27 1784 49,1
+we was not enjoy that,70 14 21 1784 15,-1
+we was not love this,70 14 21 194 49,-1
+did she like this ?,73 27 96 49 80,0
+do she love this ?,81 27 194 49 80,0
+they love it,45 194 17,1
+we love it,70 194 17,1
+i love that,5552 194 15,1
+he love that,16 194 15,1
+she was not love that,27 14 21 194 15,-1
+she love this,27 194 49,1
+she is not like that,27 34 21 96 15,-1
+they do not enjoy it,45 81 21 1784 17,-1
+you are not like this,24 66 21 96 49,-1
+they like this,45 96 49,1
+she are not like this,27 66 21 96 49,-1
+they are not love this,45 66 21 194 49,-1
+she love this,27 194 49,1
+why does you love ?,305 312 24 194 80,0
+you love this,24 194 49,1
+does they enjoy that ?,312 45 1784 15 80,0
+did we like that ?,73 70 96 15 80,0
+they does not like that,45 312 21 96 15,-1
+do they like it ?,81 45 96 17 80,0
+i were not love it,5552 48 21 194 17,-1
+she enjoy this,27 1784 49,1
+was they love it ?,14 45 194 17 80,0
+she is not like this,27 34 21 96 49,-1
+you enjoy it,24 1784 17,1
+what is we love ?,55 34 70 194 80,0
+how does we love ?,110 312 70 194 80,0
+she enjoy that,27 1784 15,1
+i love this,5552 194 49,1
+were i love it ?,48 5552 194 17 80,0
+what was you love ?,55 14 24 194 80,0
+how were i enjoy ?,110 48 5552 1784 80,0
+he was not enjoy this,16 14 21 1784 49,-1
+what did they like ?,55 73 45 96 80,0
+you enjoy it,24 1784 17,1
+she did not like that,27 73 21 96 15,-1
+we do not like that,70 81 21 96 15,-1
+did he enjoy it ?,73 16 1784 17 80,0
+what were they love ?,55 48 45 194 80,0
+you does not love it,24 312 21 194 17,-1
+they love that,45 194 15,1
+you did not enjoy that,24 73 21 1784 15,-1
+he does not love that,16 312 21 194 15,-1
+what does they like ?,55 312 45 96 80,0
+did we enjoy it ?,73 70 1784 17 80,0
+we like this,70 96 49,1
+they are not enjoy that,45 66 21 1784 15,-1
+we love that,70 194 15,1
+how does i love ?,110 312 5552 194 80,0
+they was not enjoy it,45 14 21 1784 17,-1
+how is they love ?,110 34 45 194 80,0
+we love it,70 194 17,1
+why are i enjoy ?,305 66 5552 1784 80,0
+do you love it ?,81 24 194 17 80,0
+we love this,70 194 49,1
+they like that,45 96 15,1
+is we like that ?,34 70 96 15 80,0
+did we enjoy that ?,73 70 1784 15 80,0
+i enjoy that,5552 1784 15,1
+why did you enjoy ?,305 73 24 1784 80,0
+we did not like this,70 73 21 96 49,-1
+they were not love it,45 48 21 194 17,-1
+do i like that ?,81 5552 96 15 80,0
+do she like this ?,81 27 96 49 80,0
+i like that,5552 96 15,1
+he were not enjoy this,16 48 21 1784 49,-1
+how are you like ?,110 66 24 96 80,0
+why do i like ?,305 81 5552 96 80,0
+we love it,70 194 17,1
+i are not enjoy this,5552 66 21 1784 49,-1
+do i like it ?,81 5552 96 17 80,0
+i enjoy this,5552 1784 49,1
+i was not love this,5552 14 21 194 49,-1
+is he love it ?,34 16 194 17 80,0
+she is not enjoy that,27 34 21 1784 15,-1
+she is not like that,27 34 21 96 15,-1
+does she like it ?,312 27 96 17 80,0
+you did not love that,24 73 21 194 15,-1
+they is not love that,45 34 21 194 15,-1
+why were we like ?,305 48 70 96 80,0
+did i enjoy that ?,73 5552 1784 15 80,0
+they did not like this,45 73 21 96 49,-1
+they love that,45 194 15,1
+he enjoy this,16 1784 49,1
+does you enjoy this ?,312 24 1784 49 80,0
+he are not enjoy this,16 66 21 1784 49,-1
+what do you enjoy ?,55 81 24 1784 80,0
+i enjoy that,5552 1784 15,1
+he are not enjoy this,16 66 21 1784 49,-1
+i love that,5552 194 15,1
+we love this,70 194 49,1
+did they like this ?,73 45 96 49 80,0
+they was not like this,45 14 21 96 49,-1
+you love this,24 194 49,1
+they like that,45 96 15,1
+what are i enjoy ?,55 66 5552 1784 80,0
+we love that,70 194 15,1
+they was not enjoy that,45 14 21 1784 15,-1
+she like this,27 96 49,1
+why does he enjoy ?,305 312 16 1784 80,0
+she like it,27 96 17,1
+she love this,27 194 49,1
+how did you enjoy ?,110 73 24 1784 80,0
+she love it,27 194 17,1
+are you like that ?,66 24 96 15 80,0
+why were they love ?,305 48 45 194 80,0
+he does not love it,16 312 21 194 17,-1
+what does she love ?,55 312 27 194 80,0
+is they enjoy it ?,34 45 1784 17 80,0
+you enjoy this,24 1784 49,1
+why are they love ?,305 66 45 194 80,0
+i enjoy this,5552 1784 49,1
+how does they love ?,110 312 45 194 80,0
+he was not love it,16 14 21 194 17,-1
+what was i like ?,55 14 5552 96 80,0
+what were she love ?,55 48 27 194 80,0
+he did not enjoy this,16 73 21 1784 49,-1
+how does she like ?,110 312 27 96 80,0
+we is not like this,70 34 21 96 49,-1
+are she love it ?,66 27 194 17 80,0
+you love it,24 194 17,1
+we is not like that,70 34 21 96 15,-1
+why are you like ?,305 66 24 96 80,0
+you enjoy it,24 1784 17,1
+she is not enjoy it,27 34 21 1784 17,-1
+we is not love that,70 34 21 194 15,-1
+you love that,24 194 15,1
+they was not like this,45 14 21 96 49,-1
+how did he enjoy ?,110 73 16 1784 80,0
+they like that,45 96 15,1
+we were not enjoy it,70 48 21 1784 17,-1
+how do i enjoy ?,110 81 5552 1784 80,0
+what was you enjoy ?,55 14 24 1784 80,0
+does i like this ?,312 5552 96 49 80,0
+he are not like this,16 66 21 96 49,-1
+they love this,45 194 49,1
+she love this,27 194 49,1
+he is not enjoy that,16 34 21 1784 15,-1
+you were not love this,24 48 21 194 49,-1
+was she enjoy that ?,14 27 1784 15 80,0
+she enjoy this,27 1784 49,1
+how is they love ?,110 34 45 194 80,0
+they enjoy this,45 1784 49,1
+why are you enjoy ?,305 66 24 1784 80,0
+we love that,70 194 15,1
+i is not enjoy this,5552 34 21 1784 49,-1
+i love that,5552 194 15,1
+he like that,16 96 15,1
+he do not like it,16 81 21 96 17,-1
+he is not enjoy it,16 34 21 1784 17,-1
+does i like that ?,312 5552 96 15 80,0
+how were we like ?,110 48 70 96 80,0
+you like that,24 96 15,1
+they love it,45 194 17,1
+he is not enjoy this,16 34 21 1784 49,-1
+are they love this ?,66 45 194 49 80,0
+how were they love ?,110 48 45 194 80,0
+why do they like ?,305 81 45 96 80,0
+he do not enjoy it,16 81 21 1784 17,-1
+you enjoy that,24 1784 15,1
+why was we like ?,305 14 70 96 80,0
+we like that,70 96 15,1
+she was not love it,27 14 21 194 17,-1
+was i enjoy that ?,14 5552 1784 15 80,0
+he did not love that,16 73 21 194 15,-1
+was i enjoy it ?,14 5552 1784 17 80,0
+i enjoy that,5552 1784 15,1
+i are not like that,5552 66 21 96 15,-1
+i was not love this,5552 14 21 194 49,-1
+he were not like that,16 48 21 96 15,-1
+is he enjoy this ?,34 16 1784 49 80,0
+she did not love this,27 73 21 194 49,-1
+we did not like that,70 73 21 96 15,-1
+i is not love this,5552 34 21 194 49,-1
+she did not enjoy that,27 73 21 1784 15,-1
+why was we enjoy ?,305 14 70 1784 80,0
+why does you love ?,305 312 24 194 80,0
+you love it,24 194 17,1
+how did i enjoy ?,110 73 5552 1784 80,0
+she are not enjoy it,27 66 21 1784 17,-1
+she like that,27 96 15,1
+we are not enjoy this,70 66 21 1784 49,-1
+you is not enjoy that,24 34 21 1784 15,-1
+we like that,70 96 15,1
+why was you love ?,305 14 24 194 80,0
+how did they enjoy ?,110 73 45 1784 80,0
+she do not enjoy this,27 81 21 1784 49,-1
+how is they enjoy ?,110 34 45 1784 80,0
+he is not love that,16 34 21 194 15,-1
+you were not love it,24 48 21 194 17,-1
+was i like that ?,14 5552 96 15 80,0
+he enjoy it,16 1784 17,1
+why do he enjoy ?,305 81 16 1784 80,0
+how was they enjoy ?,110 14 45 1784 80,0
+what was we love ?,55 14 70 194 80,0
+i love this,5552 194 49,1
+you enjoy that,24 1784 15,1
+you like it,24 96 17,1
+does they enjoy this ?,312 45 1784 49 80,0
+you love that,24 194 15,1
+were you like it ?,48 24 96 17 80,0
+he is not enjoy it,16 34 21 1784 17,-1
+does we enjoy this ?,312 70 1784 49 80,0
+is we love it ?,34 70 194 17 80,0
+she do not enjoy this,27 81 21 1784 49,-1
+how was i enjoy ?,110 14 5552 1784 80,0
+what were they like ?,55 48 45 96 80,0
+why is she love ?,305 34 27 194 80,0
+they like that,45 96 15,1
+we love that,70 194 15,1
+you love that,24 194 15,1
+are she love that ?,66 27 194 15 80,0
+how was he enjoy ?,110 14 16 1784 80,0
+is we enjoy it ?,34 70 1784 17 80,0
+how was she love ?,110 14 27 194 80,0
+they love this,45 194 49,1
+are we love that ?,66 70 194 15 80,0
+why was we enjoy ?,305 14 70 1784 80,0
+how are you enjoy ?,110 66 24 1784 80,0
+were we enjoy it ?,48 70 1784 17 80,0
+how are he like ?,110 66 16 96 80,0
+she enjoy that,27 1784 15,1
+they love it,45 194 17,1
+how did you enjoy ?,110 73 24 1784 80,0
+were i love it ?,48 5552 194 17 80,0
+i love that,5552 194 15,1
+why do you enjoy ?,305 81 24 1784 80,0
+why was you enjoy ?,305 14 24 1784 80,0
+she like that,27 96 15,1
+what do you like ?,55 81 24 96 80,0
+does you enjoy this ?,312 24 1784 49 80,0
+how do i love ?,110 81 5552 194 80,0
+we like that,70 96 15,1
+she like it,27 96 17,1
+we is not love that,70 34 21 194 15,-1
+is they enjoy this ?,34 45 1784 49 80,0
+how does he like ?,110 312 16 96 80,0
+we love it,70 194 17,1
+i like this,5552 96 49,1
+was we like it ?,14 70 96 17 80,0
+does you enjoy that ?,312 24 1784 15 80,0
+how does she like ?,110 312 27 96 80,0
+you does not enjoy that,24 312 21 1784 15,-1
+she like it,27 96 17,1
+she enjoy it,27 1784 17,1
+he like this,16 96 49,1
+how does they enjoy ?,110 312 45 1784 80,0
+what do we like ?,55 81 70 96 80,0
+you like that,24 96 15,1
+you enjoy that,24 1784 15,1
+we enjoy it,70 1784 17,1
+why does you like ?,305 312 24 96 80,0
+how was i like ?,110 14 5552 96 80,0
+were she like it ?,48 27 96 17 80,0
+what was i love ?,55 14 5552 194 80,0
+she does not enjoy it,27 312 21 1784 17,-1
+i like this,5552 96 49,1
+i do not love this,5552 81 21 194 49,-1
+i love that,5552 194 15,1
+what did she love ?,55 73 27 194 80,0
+they enjoy it,45 1784 17,1
+i do not enjoy this,5552 81 21 1784 49,-1
+i was not love that,5552 14 21 194 15,-1
+how did i love ?,110 73 5552 194 80,0
+does they like this ?,312 45 96 49 80,0
+they is not love this,45 34 21 194 49,-1
+they like that,45 96 15,1
+they did not like this,45 73 21 96 49,-1
+do i love this ?,81 5552 194 49 80,0
+we like that,70 96 15,1
+why was he love ?,305 14 16 194 80,0
+we enjoy it,70 1784 17,1
+they was not like that,45 14 21 96 15,-1
+why are she love ?,305 66 27 194 80,0
+did you enjoy it ?,73 24 1784 17 80,0
+he were not enjoy this,16 48 21 1784 49,-1
+are she love it ?,66 27 194 17 80,0
+what do she enjoy ?,55 81 27 1784 80,0
+do i love that ?,81 5552 194 15 80,0
+does he love it ?,312 16 194 17 80,0
+was he like this ?,14 16 96 49 80,0
+why were i enjoy ?,305 48 5552 1784 80,0
+how did he like ?,110 73 16 96 80,0
+i enjoy it,5552 1784 17,1
+you did not love it,24 73 21 194 17,-1
+what was i love ?,55 14 5552 194 80,0
+was he enjoy that ?,14 16 1784 15 80,0
+is i enjoy that ?,34 5552 1784 15 80,0
+he like it,16 96 17,1
+you were not like it,24 48 21 96 17,-1
+how is we love ?,110 34 70 194 80,0
+did he love that ?,73 16 194 15 80,0
+they enjoy that,45 1784 15,1
+did they love that ?,73 45 194 15 80,0
+they does not like it,45 312 21 96 17,-1
+she was not enjoy this,27 14 21 1784 49,-1
+we enjoy that,70 1784 15,1
+she are not love that,27 66 21 194 15,-1
+why does you enjoy ?,305 312 24 1784 80,0
+were we like that ?,48 70 96 15 80,0
+i enjoy that,5552 1784 15,1
+we like it,70 96 17,1
+what do she love ?,55 81 27 194 80,0
+she love this,27 194 49,1
+they love it,45 194 17,1
+she love that,27 194 15,1
+we like that,70 96 15,1
+she enjoy that,27 1784 15,1
+how are we enjoy ?,110 66 70 1784 80,0
+why does he like ?,305 312 16 96 80,0
+she love it,27 194 17,1
+he is not enjoy it,16 34 21 1784 17,-1
+why do he love ?,305 81 16 194 80,0
+he do not like this,16 81 21 96 49,-1
+i is not love that,5552 34 21 194 15,-1
+he love it,16 194 17,1
+we enjoy it,70 1784 17,1
+what did you enjoy ?,55 73 24 1784 80,0
+what did he love ?,55 73 16 194 80,0
+we is not love that,70 34 21 194 15,-1
+i do not love this,5552 81 21 194 49,-1
+we love it,70 194 17,1
+how does we enjoy ?,110 312 70 1784 80,0
+they like it,45 96 17,1
+they was not love this,45 14 21 194 49,-1
+you like it,24 96 17,1
+how is they like ?,110 34 45 96 80,0
+they is not enjoy this,45 34 21 1784 49,-1
+she love this,27 194 49,1
+you was not love that,24 14 21 194 15,-1
+he was not love it,16 14 21 194 17,-1
+what does they enjoy ?,55 312 45 1784 80,0
+what are he love ?,55 66 16 194 80,0
+how does you enjoy ?,110 312 24 1784 80,0
+is i like it ?,34 5552 96 17 80,0
+he love that,16 194 15,1
+we do not enjoy that,70 81 21 1784 15,-1
+does we love this ?,312 70 194 49 80,0
+he are not enjoy it,16 66 21 1784 17,-1
+she love that,27 194 15,1
+he are not enjoy that,16 66 21 1784 15,-1
+are you enjoy this ?,66 24 1784 49 80,0
+what did they enjoy ?,55 73 45 1784 80,0
