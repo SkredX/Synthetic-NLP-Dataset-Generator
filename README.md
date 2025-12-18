@@ -150,9 +150,6 @@ These limitations are intentional.
 - CLI or API interface
 - Dataset versioning
 
-## Interview Talking Point
-
-I built a grammar-controlled synthetic NLP dataset to understand why classical models succeed, performed EDA and interpretability analysis, and identified explicit sources of dataset leakage.
 
 ## Tech Stack
 
@@ -169,4 +166,4 @@ Released for educational and research purposes.
 
 ## Author
 
-SkredX
+Shuvam Vidyarthy (SkredX)
