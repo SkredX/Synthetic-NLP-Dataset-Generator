@@ -1,0 +1,555 @@
+!mkdir -p /kaggle/working/NLP-Generator-v2/data
+!mkdir -p /kaggle/working/NLP-Generator-v2/generator/vocabulary
+!touch /kaggle/working/NLP-Generator-v2/generator/__init__.py
+
+!cp /kaggle/input/tokenizer-en-json/tokenizer_en.json \
+    /kaggle/working/NLP-Generator-v2/data/tokenizer_en.json
+
+!ls /kaggle/working/NLP-Generator-v2/data
+
+%%writefile /kaggle/working/NLP-Generator-v2/generator/vocabulary/vocab_builder.py
+import json
+
+class Vocabulary:
+    def __init__(self, tokenizer_path: str):
+        with open(tokenizer_path, "r", encoding="utf-8") as f:
+            tokenizer = json.load(f)
+
+        # WordLevel vocab: {token: id}
+        self.word2id = tokenizer["model"]["vocab"]
+        self.id2word = {i: w for w, i in self.word2id.items()}
+
+        self.vocab_size = len(self.word2id)
+
+        # Special tokens (expected to exist)
+        self.pad_token = "[PAD]"
+        self.unk_token = "[UNK]"
+        self.sos_token = "[SOS]"
+        self.eos_token = "[EOS]"
+
+        self.pad_id = self.word2id[self.pad_token]
+        self.unk_id = self.word2id[self.unk_token]
+        self.sos_id = self.word2id[self.sos_token]
+        self.eos_id = self.word2id[self.eos_token]
+
+    def encode(self, words):
+        return [self.word2id.get(w, self.unk_id) for w in words]
+
+    def decode(self, ids):
+        return [self.id2word.get(i, self.unk_token) for i in ids]
+
+import sys
+sys.path.append("/kaggle/working/NLP-Generator-v2")
+
+from generator.vocabulary.vocab_builder import Vocabulary
+
+vocab = Vocabulary(
+    "/kaggle/working/NLP-Generator-v2/data/tokenizer_en.json"
+)
+
+print("Vocabulary size:", vocab.vocab_size)
+print("PAD ID:", vocab.pad_id)
+print("UNK ID:", vocab.unk_id)
+print("SOS ID:", vocab.sos_id)
+print("EOS ID:", vocab.eos_id)
+
+sample_words = ["i", "love", "this", "movie"]
+encoded = vocab.encode(sample_words)
+decoded = vocab.decode(encoded)
+
+print("Original:", sample_words)
+print("Encoded:", encoded)
+print("Decoded:", decoded)
+
+test_words = ["this", "word_does_not_exist"]
+print(vocab.encode(test_words))
+print(vocab.decode(vocab.encode(test_words)))
+
+!mkdir -p /kaggle/working/NLP-Generator-v2/generator/grammar
+
+%%writefile /kaggle/working/NLP-Generator-v2/generator/grammar/rules.py
+class GrammarRules:
+    
+    # Polarity:
+        # +1 : Affirmative
+        # -1 : Negative
+        # 0 : Interrogative
+
+    def __init__(self, vocab):
+        self.vocab = vocab
+
+        # Core lexical groups (must exist in tokenizer)
+        self.subjects = ["i", "you", "he", "she", "we", "they"]
+        self.verbs_positive = ["like", "love", "enjoy"]
+        self.verbs_aux = ["do", "does", "did", "is", "are", "was", "were"]
+        self.negators = ["not"]
+        self.objects = ["this", "that", "it"]
+        self.question_words = ["what", "why", "how"]
+
+        self._validate_vocab()
+
+    def _validate_vocab(self):
+        
+        all_tokens = (
+            self.subjects
+            + self.verbs_positive
+            + self.verbs_aux
+            + self.negators
+            + self.objects
+            + self.question_words
+            + ["?"]
+        )
+
+        missing = [t for t in all_tokens if t not in self.vocab.word2id]
+        if missing:
+            raise ValueError(f"Missing tokens in vocabulary: {missing}")
+
+
+
+    def affirmative(self, subject, verb, obj):
+        
+        return [subject, verb, obj], 1
+
+    def negative(self, subject, aux, verb, obj):
+        
+        return [subject, aux, "not", verb, obj], -1
+
+    def interrogative_aux(self, aux, subject, verb, obj):
+       
+        return [aux, subject, verb, obj, "?"], 0
+
+    def interrogative_wh(self, wh_word, aux, subject, verb):
+        
+        return [wh_word, aux, subject, verb, "?"], 0
+
+import sys
+sys.path.append("/kaggle/working/NLP-Generator-v2")
+
+from generator.vocabulary.vocab_builder import Vocabulary
+from generator.grammar.rules import GrammarRules
+
+vocab = Vocabulary("/kaggle/working/NLP-Generator-v2/data/tokenizer_en.json")
+grammar = GrammarRules(vocab)
+
+print("Grammar rules loaded successfully.")
+
+sent, label = grammar.affirmative("i", "love", "this")
+print(sent, label)
+
+sent, label = grammar.negative("i", "do", "like", "this")
+print(sent, label)
+
+sent, label = grammar.interrogative_aux("do", "you", "like", "this")
+print(sent, label)
+
+sent, label = grammar.interrogative_wh("why", "did", "he", "leave")
+print(sent, label)
+
+!mkdir -p /kaggle/working/NLP-Generator-v2/generator/sentence_builder
+
+%%writefile /kaggle/working/NLP-Generator-v2/generator/sentence_builder/builder.py
+class SentenceBuilder:
+
+    def __init__(self, vocab, grammar):
+        self.vocab = vocab
+        self.grammar = grammar
+
+    # Core build methods
+
+    def build_affirmative(self, subject, verb, obj):
+        tokens, label = self.grammar.affirmative(subject, verb, obj)
+        return self._finalize(tokens, label)
+
+    def build_negative(self, subject, aux, verb, obj):
+        tokens, label = self.grammar.negative(subject, aux, verb, obj)
+        return self._finalize(tokens, label)
+
+    def build_interrogative_aux(self, aux, subject, verb, obj):
+        tokens, label = self.grammar.interrogative_aux(aux, subject, verb, obj)
+        return self._finalize(tokens, label)
+
+    def build_interrogative_wh(self, wh_word, aux, subject, verb):
+        tokens, label = self.grammar.interrogative_wh(wh_word, aux, subject, verb)
+        return self._finalize(tokens, label)
+
+    # Internal helpers
+
+    def _finalize(self, tokens, label):
+        token_ids = self.vocab.encode(tokens)
+        text = " ".join(tokens)
+        return {
+            "tokens": tokens,
+            "token_ids": token_ids,
+            "text": text,
+            "label": label
+        }
+
+import sys
+sys.path.append("/kaggle/working/NLP-Generator-v2")
+
+from generator.vocabulary.vocab_builder import Vocabulary
+from generator.grammar.rules import GrammarRules
+from generator.sentence_builder.builder import SentenceBuilder
+
+vocab = Vocabulary("/kaggle/working/NLP-Generator-v2/data/tokenizer_en.json")
+grammar = GrammarRules(vocab)
+builder = SentenceBuilder(vocab, grammar)
+
+print("SentenceBuilder initialized.")
+
+out = builder.build_affirmative("i", "love", "this")
+out
+
+out = builder.build_negative("i", "do", "like", "this")
+out
+
+out = builder.build_interrogative_aux("do", "you", "like", "this")
+out
+
+out = builder.build_interrogative_wh("why", "did", "he", "leave")
+out
+
+!mkdir -p /kaggle/working/NLP-Generator-v2/randomizer
+%%writefile /kaggle/working/NLP-Generator-v2/randomizer/random_sentence.py
+import random
+
+class RandomSentenceGenerator:
+
+    def __init__(self, grammar, builder):
+        self.grammar = grammar
+        self.builder = builder
+
+    # Sampling helpers
+
+    def _sample(self, items):
+        return random.choice(items)
+
+    # Sentence generation
+
+    def generate(self):
+        sentence_type = random.choice(
+            ["affirmative", "negative", "interrogative_aux", "interrogative_wh"]
+        )
+
+        if sentence_type == "affirmative":
+            return self.builder.build_affirmative(
+                subject=self._sample(self.grammar.subjects),
+                verb=self._sample(self.grammar.verbs_positive),
+                obj=self._sample(self.grammar.objects),
+            )
+
+        if sentence_type == "negative":
+            return self.builder.build_negative(
+                subject=self._sample(self.grammar.subjects),
+                aux=self._sample(self.grammar.verbs_aux),
+                verb=self._sample(self.grammar.verbs_positive),
+                obj=self._sample(self.grammar.objects),
+            )
+
+        if sentence_type == "interrogative_aux":
+            return self.builder.build_interrogative_aux(
+                aux=self._sample(self.grammar.verbs_aux),
+                subject=self._sample(self.grammar.subjects),
+                verb=self._sample(self.grammar.verbs_positive),
+                obj=self._sample(self.grammar.objects),
+            )
+
+        if sentence_type == "interrogative_wh":
+            return self.builder.build_interrogative_wh(
+                wh_word=self._sample(self.grammar.question_words),
+                aux=self._sample(self.grammar.verbs_aux),
+                subject=self._sample(self.grammar.subjects),
+                verb=self._sample(self.grammar.verbs_positive),
+            )
+
+import sys
+sys.path.append("/kaggle/working/NLP-Generator-v2")
+
+from generator.vocabulary.vocab_builder import Vocabulary
+from generator.grammar.rules import GrammarRules
+from generator.sentence_builder.builder import SentenceBuilder
+from randomizer.random_sentence import RandomSentenceGenerator
+
+vocab = Vocabulary("/kaggle/working/NLP-Generator-v2/data/tokenizer_en.json")
+grammar = GrammarRules(vocab)
+builder = SentenceBuilder(vocab, grammar)
+random_gen = RandomSentenceGenerator(grammar, builder)
+
+print("RandomSentenceGenerator initialized.")
+
+for _ in range(10):
+    out = random_gen.generate()
+    print(out["text"], "→", out["label"])
+
+from collections import Counter
+
+labels = Counter(random_gen.generate()["label"] for _ in range(500))
+labels
+
+!mkdir -p /kaggle/working/NLP-Generator-v2/data/generated
+import sys
+import csv
+
+sys.path.append("/kaggle/working/NLP-Generator-v2")
+
+from generator.vocabulary.vocab_builder import Vocabulary
+from generator.grammar.rules import GrammarRules
+from generator.sentence_builder.builder import SentenceBuilder
+from randomizer.random_sentence import RandomSentenceGenerator
+vocab = Vocabulary("/kaggle/working/NLP-Generator-v2/data/tokenizer_en.json")
+grammar = GrammarRules(vocab)
+builder = SentenceBuilder(vocab, grammar)
+random_gen = RandomSentenceGenerator(grammar, builder)
+OUTPUT_PATH = "/kaggle/working/NLP-Generator-v2/data/generated/sentences.csv"
+NUM_SAMPLES = 5000
+
+with open(OUTPUT_PATH, "w", newline="", encoding="utf-8") as f:
+    writer = csv.writer(f)
+    writer.writerow(["text", "token_ids", "label"])
+
+    for _ in range(NUM_SAMPLES):
+        sample = random_gen.generate()
+        writer.writerow([
+            sample["text"],
+            " ".join(map(str, sample["token_ids"])),
+            sample["label"]
+        ])
+
+print(f"Dataset generated: {OUTPUT_PATH}")
+
+import pandas as pd
+
+df = pd.read_csv(OUTPUT_PATH)
+df.head(10)
+
+df["label"].value_counts(normalize=True)
+
+df.sample(10)[["text", "label"]]
+
+!mkdir -p /kaggle/working/NLP-Generator-v2/models/classical
+!mkdir -p /kaggle/working/NLP-Generator-v2/models/neural
+!mkdir -p /kaggle/working/NLP-Generator-v2/analysis
+!touch /kaggle/working/NLP-Generator-v2/models/__init__.py
+!touch /kaggle/working/NLP-Generator-v2/analysis/__init__.py
+%%writefile /kaggle/working/NLP-Generator-v2/models/classical/vectorizer.py
+from sklearn.feature_extraction.text import CountVectorizer
+
+def build_vectorizer():
+
+    return CountVectorizer(
+        ngram_range=(1, 2),
+        lowercase=True,
+        token_pattern=r"\b\w+\b|\?"
+    )
+
+%%writefile /kaggle/working/NLP-Generator-v2/models/classical/train_logreg.py
+import pandas as pd
+from sklearn.linear_model import LogisticRegression
+from sklearn.model_selection import train_test_split
+
+from .vectorizer import build_vectorizer
+
+
+def train(csv_path):
+    df = pd.read_csv(csv_path)
+
+    X = df["text"]
+    y = df["label"]
+
+    X_train, X_test, y_train, y_test = train_test_split(
+        X, y,
+        test_size=0.2,
+        random_state=42,
+        stratify=y
+    )
+
+    vectorizer = build_vectorizer()
+    X_train_vec = vectorizer.fit_transform(X_train)
+    X_test_vec = vectorizer.transform(X_test)
+
+    model = LogisticRegression(
+        max_iter=1000,
+        multi_class="auto"
+    )
+
+    model.fit(X_train_vec, y_train)
+
+    return model, vectorizer, X_test_vec, y_test
+
+%%writefile /kaggle/working/NLP-Generator-v2/models/classical/evaluate.py
+from sklearn.metrics import accuracy_score, classification_report
+
+def evaluate(model, X_test_vec, y_test):
+    preds = model.predict(X_test_vec)
+
+    print("Accuracy:", accuracy_score(y_test, preds))
+    print()
+    print(classification_report(y_test, preds))
+
+    return preds
+
+import sys
+import warnings
+
+warnings.filterwarnings(
+    "ignore",
+    category=FutureWarning,
+    module="sklearn.linear_model"
+)
+
+sys.path.append("/kaggle/working/NLP-Generator-v2")
+
+from models.classical.train_logreg import train
+from models.classical.evaluate import evaluate
+
+CSV_PATH = "/kaggle/working/NLP-Generator-v2/data/generated/sentences.csv"
+
+model, vectorizer, X_test_vec, y_test = train(CSV_PATH)
+preds = evaluate(model, X_test_vec, y_test)
+
+import pandas as pd
+from sklearn.model_selection import train_test_split
+
+df = pd.read_csv(CSV_PATH)
+
+_, X_test, _, y_test = train_test_split(
+    df["text"], df["label"],
+    test_size=0.2,
+    random_state=42,
+    stratify=df["label"]
+)
+
+error_df = pd.DataFrame({
+    "text": X_test.values,
+    "true": y_test.values,
+    "pred": preds
+})
+
+errors = error_df[error_df["true"] != error_df["pred"]]
+print("Number of errors:", len(errors))
+
+LABEL_MAP = {
+    1: "Affirmative",
+    -1: "Negative",
+    0: "Interrogative"
+}
+
+def classify_sentence(sentence: str):
+    vec = vectorizer.transform([sentence])
+    pred = model.predict(vec)[0]
+    return pred, LABEL_MAP[pred]
+
+
+while True:
+    user_input = input("\nEnter a sentence (or type 'exit'): ").strip()
+    
+    if user_input.lower() == "exit":
+        print("Exiting.")
+        break
+
+    label, category = classify_sentence(user_input)
+    print(f"Predicted label: {label}")
+    print(f"Category: {category}")
+
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+df = pd.read_csv(
+    "/kaggle/working/NLP-Generator-v2/data/generated/sentences.csv"
+)
+
+label_map = {1: "Affirmative", 0: "Interrogative", -1: "Negative"}
+df["label_name"] = df["label"].map(label_map)
+
+df.head()
+
+plt.figure(figsize=(6,4))
+
+sns.countplot(
+    data=df,
+    x="label_name",
+    hue="label_name",
+    palette="Set2",
+    legend=False
+)
+
+plt.title("Label Distribution in Synthetic Dataset")
+plt.xlabel("Sentence Type")
+plt.ylabel("Count")
+plt.show()
+
+df["sentence_length"] = df["text"].str.split().apply(len)
+
+plt.figure(figsize=(7,4))
+
+sns.histplot(
+    data=df,
+    x="sentence_length",
+    bins=10,
+    kde=True
+)
+
+plt.title("Sentence Length Distribution")
+plt.xlabel("Number of Tokens")
+plt.ylabel("Frequency")
+plt.show()
+
+plt.figure(figsize=(7,4))
+
+sns.boxplot(
+    data=df,
+    x="label_name",
+    y="sentence_length",
+    hue="label_name",
+    palette="Set3",
+    legend=False
+)
+
+plt.title("Sentence Length by Sentence Type")
+plt.xlabel("Sentence Type")
+plt.ylabel("Sentence Length")
+plt.show()
+
+from collections import Counter
+
+tokens = []
+for s in df["text"]:
+    tokens.extend(s.split())
+
+token_freq = Counter(tokens)
+top_tokens = token_freq.most_common(15)
+
+token_df = pd.DataFrame(top_tokens, columns=["token", "count"])
+
+plt.figure(figsize=(8,4))
+
+sns.barplot(
+    data=token_df,
+    x="count",
+    y="token",
+    hue="token",
+    palette="viridis",
+    legend=False
+)
+
+plt.title("Top 15 Most Frequent Tokens")
+plt.xlabel("Frequency")
+plt.ylabel("Token")
+plt.show()
+
+plt.figure(figsize=(7,4))
+
+sns.histplot(
+    data=df,
+    x="sentence_length",
+    hue="label_name",
+    multiple="dodge",
+    shrink=0.8,
+    palette="Set2"
+)
+
+plt.title("Sentence Length Distribution by Sentence Type")
+plt.xlabel("Sentence Length")
+plt.ylabel("Count")
+plt.show()
